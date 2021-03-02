@@ -1,0 +1,1608 @@
+#EXTM3U
+
+#EXTINF:-1 group-title="🇺🇸CANAIS AMERICANOS🇺🇸" tvg-logo="https://i.imgur.com/Anlb1SP.png" ,+24 Eventos 2
+http://rtvev4-live.hss.adaptive.level3.net/egress/ahandler/rtvegl0/irtve03_lv3_aosv4_gl0/irtve03_lv3_aosv4_gl0.isml/master.m3u8
+#EXTINF:-1 group-title="🇺🇸CANAIS AMERICANOS🇺🇸" tvg-logo="https://i.imgur.com/G0eQuH9.png" ,1 Music Channel RO
+https://edge126.rcs-rds.ro/utvedge/musicchannelhq.stream/playlist.m3u8
+#EXTINF:-1 group-title="🇺🇸CANAIS AMERICANOS🇺🇸" tvg-logo="https://i.imgur.com/Anlb1SP.png" ,1 TV (Opt-2)
+http://amtv1.livestreamingcdn.com/am2abr/index.m3u8
+#EXTINF:-1 group-title="🇺🇸CANAIS AMERICANOS🇺🇸" tvg-logo="https://i.imgur.com/Anlb1SP.png" ,1 TV (Opt-3)
+http://amtv1.livestreamingcdn.com/am2abr/tracks-v5a1/index.m3u8
+#EXTINF:-1 group-title="🇺🇸CANAIS AMERICANOS🇺🇸" tvg-logo="https://i.imgur.com/Anlb1SP.png" ,23 ABC (KERO)
+https://content.uplynk.com/channel/ff809e6d9ec34109abfb333f0d4444b5.m3u8
+#EXTINF:-1 group-title="🇺🇸CANAIS AMERICANOS🇺🇸" tvg-logo="https://i.imgur.com/Anlb1SP.png" ,24 Horas (Opt-2)
+http://rtvev4-live.hss.adaptive.level3.net/egress/ahandler/rtvegl0/irtve02_lv3_aosv4_gl0/irtve02_lv3_aosv4_gl0.isml/master.m3u8
+#EXTINF:-1 group-title="🇺🇸CANAIS AMERICANOS🇺🇸" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/24hrfreemovies_logo_dark.png" ,24 Hour Free Movies
+https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-5fd115bab7ef8d002dcf181d?X-Plex-Token=MorUy57ijWhGe4ixZb_T
+#EXTINF:-1 group-title="🇺🇸CANAIS AMERICANOS🇺🇸" tvg-logo="https://i.imgur.com/gNWg9tl.png" ,30A Music (US)
+http://30a-tv.com/music.m3u8
+#EXTINF:-1 group-title="🇺🇸CANAIS AMERICANOS🇺🇸" tvg-logo="https://i.imgur.com/4TEMhxH.png" ,30A TV
+http://30a-tv.com/my999.m3u8
+#EXTINF:-1 group-title="🇺🇸CANAIS AMERICANOS🇺🇸" tvg-logo="https://i.imgur.com/CFHtVxO.png" ,360 North
+https://wowzaprod3-i.akamaihd.net/hls/live/252236/29256539/playlist.m3u8
+#EXTINF:-1 group-title="🇺🇸CANAIS AMERICANOS🇺🇸" tvg-logo="https://i.imgur.com/Anlb1SP.png" ,3ABN Latino
+https://moiptvhls-i.akamaihd.net/hls/live/652315/secure/master.m3u8
+#EXTINF:-1 group-title="🇺🇸CANAIS AMERICANOS🇺🇸" tvg-logo="https://i.imgur.com/5MfhbGP.png" ,7News - Boston
+https://bcsecurelivehls-i.akamaihd.net/hls/live/598046/4744899807001_1/livestream/master.m3u8
+#EXTINF:-1 group-title="🇺🇸CANAIS AMERICANOS🇺🇸" tvg-logo="https://i.imgur.com/Anlb1SP.png" ,88 Stereo
+http://k3.usastreams.com/CableLatino/88stereo/playlist.m3u8
+#EXTINF:-1 group-title="🇺🇸CANAIS AMERICANOS🇺🇸" tvg-logo="https://i.imgur.com/LD97XyN.png" ,A&E
+https://bk7l2w4nlx53-hls-live.5centscdn.com/AETV/514c04b31b5f01cf00dd4965e197fdda.sdp/playlist.m3u8
+#EXTINF:-1 group-title="🇺🇸CANAIS AMERICANOS🇺🇸" tvg-logo="https://i.imgur.com/K1kJf1s.png" ,A+E Crime 360
+https://aenetworks-crime360-1.roku.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 group-title="🇺🇸CANAIS AMERICANOS🇺🇸" tvg-logo="https://i.imgur.com/Anlb1SP.png" ,ABC 9 Chattanooga TN (WTVC)
+http://wxintribune-lh.akamaihd.net/i/WXINTribune_1@120151/master.m3u8
+#EXTINF:-1 group-title="🇺🇸CANAIS AMERICANOS🇺🇸" tvg-logo="https://i.imgur.com/7sJLzKi.png" ,ABC News
+https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8
+#EXTINF:-1 group-title="🇺🇸CANAIS AMERICANOS🇺🇸" tvg-logo="https://i.imgur.com/Anlb1SP.png" ,ABC News Digital 9
+https://abclive1-lh.akamaihd.net/i/abc_live09@420891/master.m3u8
+#EXTINF:-1 group-title="🇺🇸CANAIS AMERICANOS🇺🇸" tvg-logo="https://i.imgur.com/7sJLzKi.png" ,ABC News International
+https://abclive1-lh.akamaihd.net/i/abc_live04@423398/index_4000_av-b.m3u8
+#EXTINF:-1 group-title="🇺🇸CANAIS AMERICANOS🇺🇸" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/accdn-logo.png" ,ACCDN
+https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-5f8ee3727c75fa002d9e47c1?X-Plex-Token=MorUy57ijWhGe4ixZb_T
+#EXTINF:-1 group-title="🇺🇸CANAIS AMERICANOS🇺🇸" tvg-logo="https://i.imgur.com/tZgazoF.png" ,Action
+https://5c8eaf7647284895b269fd13a40d410c.mediatailor.us-east-1.amazonaws.com/v1/master/82ded7a88773aef3d6dd1fedce15ba2d57eb6bca/wse_powr_com_5f89af95de69db1f20935d98/playlist.m3u8
+#EXTINF:-1 group-title="🇺🇸CANAIS AMERICANOS🇺🇸" tvg-logo="https://i.imgur.com/K2XHhWW.png" ,Action Sports 4U
+https://nimble.dashstreams.net/onestudio/actionsportstv/playlist.m3u8
+#EXTINF:-1 group-title="🇺🇸CANAIS AMERICANOS🇺🇸" tvg-logo="https://i.imgur.com/Anlb1SP.png" ,AD Sports 6
+http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_Sports6&IMDSFULL
+#EXTINF:-1 group-title="🇺🇸CANAIS AMERICANOS🇺🇸" tvg-logo="https://i.imgur.com/Anlb1SP.png" ,ADN 40
+http://aztkhlslive3-i.akamaihd.net/hls/live/777407/adn40mx/master01.m3u8
+#EXTINF:-1 group-title="🇺🇸CANAIS AMERICANOS🇺🇸" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/afv-family.png" ,AFV Family
+https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-5ef11486d33ab9004048a1cd?X-Plex-Token=MorUy57ijWhGe4ixZb_T
+#EXTINF:-1 group-title="🇺🇸CANAIS AMERICANOS🇺🇸" tvg-logo="https://i.imgur.com/y7qpxAT.jpg" ,Akaku 53 (Hawaii)
+https://akaku.vod.castus.tv/live/ch1.m3u8
+#EXTINF:-1 group-title="🇺🇸CANAIS AMERICANOS🇺🇸" tvg-logo="https://i.imgur.com/y7qpxAT.jpg" ,Akaku 54 (Hawaii)
+https://akaku.vod.castus.tv/live/ch2.m3u8
+#EXTINF:-1 group-title="🇺🇸CANAIS AMERICANOS🇺🇸" tvg-logo="https://i.imgur.com/y7qpxAT.jpg" ,Akaku 55 (Hawaii)
+https://akaku.vod.castus.tv/live/ch3.m3u8
+#EXTINF:-1 group-title="🇺🇸CANAIS AMERICANOS🇺🇸" tvg-logo="https://i.imgur.com/Anlb1SP.png" ,Al Horreya TV
+http://media.smc-host.com:1935/alhorreya.tv/_definst_mp4:alhorreya3/playlist.m3u8
+#EXTINF:-1 group-title="🇺🇸CANAIS AMERICANOS🇺🇸" tvg-logo="https://tinyurl.com/y5pkydt8" ,AL JAZEERA (QA)(3)
+http://45.126.83.51/qwr9ew/s/s17/index.m3u8
+#EXTINF:-1 group-title="🇺🇸CANAIS AMERICANOS🇺🇸" tvg-logo="https://i.imgur.com/Anlb1SP.png" ,Al Mayadeen (Opt-1)
+http://mdnlv.cdn.octivid.com/almdn/smil:mpegts.stream.smil/chunklist_b1300000_t64NTc2cA==.m3u8
+#EXTINF:-1 group-title="🇺🇸CANAIS AMERICANOS🇺🇸" tvg-logo="https://i.imgur.com/Anlb1SP.png" ,Alanya TV
+http://stream2.taksimbilisim.com:1935/alanyatv/smil:alanyatv.smil/playlist.m3u8
+#EXTINF:-1 group-title="🇺🇸CANAIS AMERICANOS🇺🇸" tvg-logo="https://i.imgur.com/Anlb1SP.png" ,Alegria TV
+https://593b04c4c5670.streamlock.net/8192/8192/playlist.m3u8
+#EXTINF:-1 group-title="🇺🇸CANAIS AMERICANOS🇺🇸" tvg-logo="https://i.imgur.com/Anlb1SP.png" ,Aliento Vision
+http://livestreamcdn.net:1935/AlientoSD/smil:AlientoSD.smil/playlist.m3u8
+#EXTINF:-1 group-title="🇺🇸CANAIS AMERICANOS🇺🇸" tvg-logo="https://i.imgur.com/yngqRL8.png" ,AMC Absolute Reality
+https://amc-absolutereality-1.vizio.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 group-title="🇺🇸CANAIS AMERICANOS🇺🇸" tvg-logo="https://i.imgur.com/yngqRL8.png" ,AMC IFC Film Picks
+https://amc-ifc-films-picks-1.vizio.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 group-title="🇺🇸CANAIS AMERICANOS🇺🇸" tvg-logo="https://i.imgur.com/yngqRL8.png" ,AMC Presents
+https://amc-amcpresents-1.vizio.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 group-title="🇺🇸CANAIS AMERICANOS🇺🇸" tvg-logo="https://i.imgur.com/yngqRL8.png" ,AMC Rush
+https://amc-rushbyamc-1.vizio.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 group-title="🇺🇸CANAIS AMERICANOS🇺🇸" tvg-logo="http://127.0.0.1/" ,AMC Slightly off
+https://amc-slightly-off-by-amc-1.vizio.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 group-title="🇺🇸CANAIS AMERICANOS🇺🇸" tvg-logo="https://i.imgur.com/Anlb1SP.png" ,American Classic Network
+https://nimble.dashstreams.net/onestudio/americanclassictv/chunks.m3u8
+#EXTINF:-1 group-title="🇺🇸CANAIS AMERICANOS🇺🇸" tvg-logo="https://i.imgur.com/GmSyxeP.png" ,American Classic TV
+https://nimble.dashstreams.net/onestudio/americanclassictv/playlist.m3u8
+#EXTINF:-1 group-title="🇺🇸CANAIS AMERICANOS🇺🇸" tvg-logo="https://i.imgur.com/bJGaOdW.png" ,American Classics
+https://dai2.xumo.com/xumocdn/p=redbox&deviceid=&is_lat=&subp=RedboxdesktopWebLinux/amagi_hls_data_xumo1212A-redboxamericanclassics/CDN/playlist.m3u8
+#EXTINF:-1 group-title="🇺🇸CANAIS AMERICANOS🇺🇸" tvg-logo="https://i.imgur.com/Anlb1SP.png" ,American Horrors
+http://170.178.189.66:1935/live/Stream1/.m3u8
+#EXTINF:-1 group-title="🇺🇸CANAIS AMERICANOS🇺🇸" tvg-logo="https://i.imgur.com/5Rz2LDg.png" ,American Kennel Club
+https://video.blivenyc.com/broadcast/prod/2061/22/file-3192k.m3u8
+#EXTINF:-1 group-title="🇺🇸CANAIS AMERICANOS🇺🇸" tvg-logo="https://i.imgur.com/3HISTMa.png" ,AMG TV
+https://2-fss-2.streamhoster.com/pl_138/201660-1270634-1/playlist.m3u8
+#EXTINF:-1 group-title="🇺🇸CANAIS AMERICANOS🇺🇸" tvg-logo="https://i.imgur.com/Anlb1SP.png" ,Anexion TV
+https://rtmp.info/anexiontv/envivo/playlist.m3u8
+#EXTINF:-1 group-title="🇺🇸CANAIS AMERICANOS🇺🇸" tvg-logo="https://i.imgur.com/Anlb1SP.png" ,Anexion TV 36
+http://rtmp.info:8081/anexiontv/envivo/chunks.m3u8
+#EXTINF:-1 group-title="🇺🇸CANAIS AMERICANOS🇺🇸" tvg-logo="https://i.imgur.com/mJZHoUj.png" ,Animals Live
+https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c9537b8932c837b49397343/playlist.m3u8
+#EXTINF:-1 group-title="🇺🇸CANAIS AMERICANOS🇺🇸" tvg-logo="https://i.imgur.com/Anlb1SP.png" ,Apple Sauce TV
+https://nimble.dashstreams.net/onestudio/applesaucetv/chunks.m3u8
+#EXTINF:-1 group-title="🇺🇸CANAIS AMERICANOS🇺🇸" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/ac_samsung.png" ,AsianCrush
+https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-5eea605474085f0040ddc767?X-Plex-Token=MorUy57ijWhGe4ixZb_T
+#EXTINF:-1 group-title="🇺🇸CANAIS AMERICANOS🇺🇸" tvg-logo="https://i.imgur.com/Anlb1SP.png" ,Assam Talks
+http://vidnetcdn.vidgyor.com/assamtalks-origin/liveabr/assamtalks-origin/live1/chunks.m3u8
+#EXTINF:-1 group-title="🇺🇸CANAIS AMERICANOS🇺🇸" tvg-logo="https://i.imgur.com/Anlb1SP.png" ,Atlanta Channel
+http://media4.tripsmarter.com:1935/LiveTV/ACVBHD/chucklist.m3u8
+#EXTINF:-1 group-title="🇺🇸CANAIS AMERICANOS🇺🇸" tvg-logo="https://i.imgur.com/BqiWRil.png" ,AUF TV
+https://nrpus.bozztv.com/36bay2/gusa-auftv/index.m3u8
+#EXTINF:-1 group-title="🇺🇸CANAIS AMERICANOS🇺🇸" tvg-logo="https://i.imgur.com/vNrFKse.png" ,Aurora Live
+https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c953819932c837b49397345/playlist.m3u8
+#EXTINF:-1 group-title="🇺🇸CANAIS AMERICANOS🇺🇸" tvg-logo="https://i.imgur.com/H3iaTB5.png" ,Automoto
+https://stitcheraws.unreel.me/wse-node04.powr.com/live/5bf220fad5eeee0f5a40941a/playlist.m3u8
+#EXTINF:-1 group-title="🇺🇸CANAIS AMERICANOS🇺🇸" tvg-logo="https://i.imgur.com/9kLTfsY.png" ,BaebleMusic
+https://dai1.xumo.com/bmneuerw7j9k5lfc/9999231/master.m3u8
+#EXTINF:-1 group-title="🇺🇸CANAIS AMERICANOS🇺🇸" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/cinedigm_bambu_1.png" ,BAMBU
+https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-5efe1de7e0b3f5003f5d9f8b?X-Plex-Token=MorUy57ijWhGe4ixZb_T
+#EXTINF:-1 group-title="🇺🇸CANAIS AMERICANOS🇺🇸" tvg-logo="https://i.imgur.com/5VUZTa1.png" ,Battery Pop
+http://dai2.xumo.com/xumocdn/p=redbox&deviceid=&is_lat=&subp=RedboxdesktopWebLinux/amagi_hls_data_xumo1212A-redboxbatterypop/CDN/playlist.m3u8
+#EXTINF:-1 group-title="🇺🇸CANAIS AMERICANOS🇺🇸" tvg-logo="https://tinyurl.com/y2e4rcqg" ,BBC WORLD NEWS (GB)(3)
+http://103.199.161.254/Content/bbcworld/Live/Channel(BBCworld)/index.m3u8
+#EXTINF:-1 group-title="🇺🇸CANAIS AMERICANOS🇺🇸" tvg-logo="https://i.imgur.com/Anlb1SP.png" ,Beach TV (30A)
+http://media4.tripsmarter.com:1935/LiveTV/DTVHD/playlist.m3u8
+#EXTINF:-1 group-title="🇺🇸CANAIS AMERICANOS🇺🇸" tvg-logo="https://i.imgur.com/Anlb1SP.png" ,Beach TV (CSULB)
+http://stream04.amp.csulb.edu:1935/Beach_TV/smil:BeachTV.smil/playlist.m3u8
+#EXTINF:-1 group-title="🇺🇸CANAIS AMERICANOS🇺🇸" tvg-logo="https://i.imgur.com/Anlb1SP.png" ,Beach TV (Panama City)
+http://media4.tripsmarter.com:1935/LiveTV/BTVHD/chucklist.m3u8
+#EXTINF:-1 group-title="🇺🇸CANAIS AMERICANOS🇺🇸" tvg-logo="https://i.imgur.com/Anlb1SP.png" ,Beach TV (Pawleys Island)
+http://media4.tripsmarter.com:1935/LiveTV/MTVHD/playlist.m3u8
+#EXTINF:-1 group-title="🇺🇸CANAIS AMERICANOS🇺🇸" tvg-logo="https://i.imgur.com/wdD4lov.png" ,Beaches Live
+https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c95396f932c837b49397360/playlist.m3u8
+#EXTINF:-1 group-title="🇺🇸CANAIS AMERICANOS🇺🇸" tvg-logo="https://i.imgur.com/Anlb1SP.png" ,Beauty IQ
+https://lsqvc4us-lh.akamaihd.net/i/lsqvc4us_01@802711/master.m3u8
+#EXTINF:-1 group-title="🇺🇸CANAIS AMERICANOS🇺🇸" tvg-logo="https://i.imgur.com/pDeshnR.png" ,Bek Sports East
+https://wowzaprod188-i.akamaihd.net/hls/live/728897/54d0bcd5/playlist.m3u8
+#EXTINF:-1 group-title="🇺🇸CANAIS AMERICANOS🇺🇸" tvg-logo="https://i.imgur.com/pDeshnR.png" ,Bek Sports West
+https://wowzaprod188-i.akamaihd.net/hls/live/728897/89b077e6/playlist.m3u8
+#EXTINF:-1 group-title="🇺🇸CANAIS AMERICANOS🇺🇸" tvg-logo="https://i.imgur.com/Anlb1SP.png" ,Better Health TV
+http://uni5rtmp.tulix.tv:1935/betterhealth/betterhealth/playlist.m3u8
+#EXTINF:-1 group-title="🇺🇸CANAIS AMERICANOS🇺🇸" tvg-logo="https://i.imgur.com/Anlb1SP.png" ,Better Life TV
+http://uni5rtmp.tulix.tv:1935/betterlife/betterlife/playlist.m3u8
+#EXTINF:-1 group-title="🇺🇸CANAIS AMERICANOS🇺🇸" tvg-logo="https://i.imgur.com/Anlb1SP.png" ,Better Nature TV
+http://uni5rtmp.tulix.tv:1935/betternature/betternature/playlist.m3u8
+#EXTINF:-1 group-title="🇺🇸CANAIS AMERICANOS🇺🇸" tvg-logo="https://i.imgur.com/Anlb1SP.png" ,Bible Explorations
+http://stream.iphonewebtown.com:1935/bibleexplorations/bexplorationsmobile.stream/playlist.m3u8
+#EXTINF:-1 group-title="🇺🇸CANAIS AMERICANOS🇺🇸" tvg-logo="https://komonews.com/resources/media2/3x1/full/119/center/90/d461a675-af3d-41c9-8c78-aecec5fe80ab-small3x1_stirr_1219_epg_biglifetv_1920x1080.png?cb=eccbc87e4b5ce2fe28308fd9f2a7baf3" ,Big Life
+https://biglife.sinclair.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 group-title="🇺🇸CANAIS AMERICANOS🇺🇸" tvg-logo="https://i.imgur.com/GmM19zu.png" ,BigLife TV
+http://biglife.sinclair.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 group-title="🇺🇸CANAIS AMERICANOS🇺🇸" tvg-logo="https://i.imgur.com/tjEw9X1.png" ,Biz TV
+https://thegateway.app/BizAndYou/Biz_1080p/playlist.m3u8
+#EXTINF:-1 group-title="🇺🇸CANAIS AMERICANOS🇺🇸" tvg-logo="https://i.imgur.com/SQSkO2y.jpg" ,Black Music Artist TV (US)
+https://nimble.dashstreams.net/onestudio/blackmusicartist/playlist.m3u8
+#EXTINF:-1 group-title="🇺🇸CANAIS AMERICANOS🇺🇸" tvg-logo="https://i.imgur.com/Q31xTcM.png" ,Blaze TV
+https://theblaze4.akamaized.net/hls/live//699982/theblaze/cm-dvr/master.m3u8
+#EXTINF:-1 group-title="🇺🇸CANAIS AMERICANOS🇺🇸" tvg-logo="https://i.imgur.com/Anlb1SP.png" ,BLK TV Hohenm�lsen
+http://62.113.210.250/medienasa-live/BLKonline_high/playlist.m3u8
+#EXTINF:-1 group-title="🇺🇸CANAIS AMERICANOS🇺🇸" tvg-logo="https://i.imgur.com/idRFfhY.png" ,Blomberg US
+https://liveproduseast.global.ssl.fastly.net/btv/desktop/us_live.m3u8
+#EXTINF:-1 group-title="🇺🇸CANAIS AMERICANOS🇺🇸" tvg-logo="https://i.imgur.com/idRFfhY.png" ,BLOOMBERG TELEVISION ASIA
+http://45.126.83.51/uq2663/h/h03/index.m3u8
+#EXTINF:-1 group-title="🇺🇸CANAIS AMERICANOS🇺🇸" tvg-logo="https://i.imgur.com/Anlb1SP.png" ,Bloomberg TV
+https://cdn-videos.akamaized.net/btv/desktop/fastly/asia/live/primary.m3u8
+#EXTINF:-1 group-title="🇺🇸CANAIS AMERICANOS🇺🇸" tvg-logo="https://i.imgur.com/Anlb1SP.png" ,Bloomberg TV Asia
+https://liveprodapnortheast.global.ssl.fastly.net/btv/desktop/ap_live.m3u8
+#EXTINF:-1 group-title="🇺🇸CANAIS AMERICANOS🇺🇸" tvg-logo="https://i.imgur.com/Anlb1SP.png" ,Bloomberg TV Asia Live Event
+https://liveprodapnortheast.global.ssl.fastly.net/btv/desktop/ap_event.m3u8
+#EXTINF:-1 group-title="🇺🇸CANAIS AMERICANOS🇺🇸" tvg-logo="https://i.imgur.com/Anlb1SP.png" ,Bloomberg TV Live Event
+https://liveproduseast.akamaized.net/btv/desktop/us_event.m3u8
+#EXTINF:-1 group-title="🇺🇸CANAIS AMERICANOS🇺🇸" tvg-logo="https://i.imgur.com/nm3N3aw.png" ,Bluegrass 4U
+https://59d39900ebfb8.streamlock.net/blugrassmusic/blugrassmusic/playlist.m3u8
+#EXTINF:-1 group-title="🇺🇸CANAIS AMERICANOS🇺🇸" tvg-logo="https://i.imgur.com/RgYEjYE.png" ,Blush TV
+https://nimble.dashstreams.net/onestudio/blushtv/playlist.m3u8
+#EXTINF:-1 group-title="🇺🇸CANAIS AMERICANOS🇺🇸" tvg-logo="https://image.xumo.com/v1/channels/channel/9999960/248x140.png?type=channelTile" ,BNC (Black News Channel)
+http://redbox-blacknewschannel-xumo.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="🇺🇸CANAIS AMERICANOS🇺🇸" tvg-logo="https://i.imgur.com/d8mJYu0.png" ,Bollywood TV
+https://a.jsrdn.com/broadcast/d5b45/+0000/c.m3u8
+#EXTINF:-1 group-title="🇺🇸CANAIS AMERICANOS🇺🇸" tvg-logo="https://i.imgur.com/Anlb1SP.png" ,Boston 25 News (WFXT)
+http://svc-lvanvato-cxtv-wfxt.cmgvideo.com/wfxt/2564k/index.m3u8
+#EXTINF:-1 group-title="🇺🇸CANAIS AMERICANOS🇺🇸" tvg-logo="https://i.imgur.com/nSMaujc.png" ,Bowie TV
+http://granicusliveus3-a.akamaihd.net/cityofbowie/G0466_001/playlist.m3u8
+#EXTINF:-1 group-title="🇺🇸CANAIS AMERICANOS🇺🇸" tvg-logo="https://i.imgur.com/BPS22GM.png" ,Brit Asia Live (US Eastern)
+https://a.jsrdn.com/broadcast/22693_4rGhgrBU/-0500/c.m3u8
+#EXTINF:-1 group-title="🇺🇸CANAIS AMERICANOS🇺🇸" tvg-logo="https://i.imgur.com/BPS22GM.png" ,Brit Asia Live (US Pacific)
+https://a.jsrdn.com/broadcast/22693_4rGhgrBU/-0800/c.m3u8
+#EXTINF:-1 group-title="🇺🇸CANAIS AMERICANOS🇺🇸" tvg-logo="https://i.imgur.com/AOj9cgU.png" ,Brut TV
+https://a.jsrdn.com/broadcast/baac3e801e/+0000/high/c.m3u8
+#EXTINF:-1 group-title="🇺🇸CANAIS AMERICANOS🇺🇸" tvg-logo="https://i.imgur.com/Anlb1SP.png" ,Brut.
+http://a.jsrdn.com/broadcast/d5b47/+0000/low/c.m3u8
+#EXTINF:-1 group-title="🇺🇸CANAIS AMERICANOS🇺🇸" tvg-logo="https://i.imgur.com/0DvV4gl.png" ,Brut.
+https://a.jsrdn.com/broadcast/baac3e801e/+0000/c.m3u8
+#EXTINF:-1 group-title="🇺🇸CANAIS AMERICANOS🇺🇸" tvg-logo="https://i.imgur.com/f5ZtDhj.png" ,Buffalo TV
+http://na-all15.secdn.net/pegstream3-live/play/c3e1e4c4-7f11-4a54-8b8f-c590a95b4ade/playlist.m3u8
+#EXTINF:-1 group-title="🇺🇸CANAIS AMERICANOS🇺🇸" tvg-logo="https://i.imgur.com/Anlb1SP.png" ,Bulgaria On Air
+http://ios.cdn.bg:2006/fls/bonair.stream/chunklist_w2129214630.m3u8
+#EXTINF:-1 group-title="🇺🇸CANAIS AMERICANOS🇺🇸" tvg-logo="https://i.imgur.com/7c523zt.jpg" ,BUTV10 - Boston University
+http://butv10-livestream.bu.edu/live/WIFI-2096k-1080p/WIFI-2096k-1080p.m3u8
+#EXTINF:-1 group-title="🇺🇸CANAIS AMERICANOS🇺🇸" tvg-logo="https://i.imgur.com/PbpvywI.png" ,BYUtv
+http://a.jsrdn.com/broadcast/d5b46/+0000/high/c.m3u8
+#EXTINF:-1 group-title="🇺🇸CANAIS AMERICANOS🇺🇸" tvg-logo="https://i.imgur.com/Anlb1SP.png" ,C-Span 2
+https://skystreams-lh.akamaihd.net/i/SkyC2_1@500807/master.m3u8
+#EXTINF:-1 group-title="🇺🇸CANAIS AMERICANOS🇺🇸" tvg-logo="https://i.imgur.com/Anlb1SP.png" ,C-Span 3
+https://skystreams-lh.akamaihd.net/i/SkyC3_1@500808/master.m3u8
+#EXTINF:-1 group-title="🇺🇸CANAIS AMERICANOS🇺🇸" tvg-logo="https://i.imgur.com/Anlb1SP.png" ,California Music Channel
+https://cmctv.ios.internapcdn.net/cmctv_vitalstream_com/live_1/CMC-TV/CMC-TV.m3u8
+#EXTINF:-1 group-title="🇺🇸CANAIS AMERICANOS🇺🇸" tvg-logo="https://i.imgur.com/Anlb1SP.png" ,California Music Channel (Opt-2)
+https://cmctv.ios.internapcdn.net/cmctv_vitalstream_com/live_1/CMC-TV/master.m3u8
+#EXTINF:-1 group-title="🇺🇸CANAIS AMERICANOS🇺🇸" tvg-logo="https://i.imgur.com/Anlb1SP.png" ,Cambodia TV
+https://livefta.malimarcdn.com/ftaedge00/malimarkhlive.stream/playlist.m3u8
+#EXTINF:-1 group-title="🇺🇸CANAIS AMERICANOS🇺🇸" tvg-logo="https://i.imgur.com/Anlb1SP.png" ,Campo Abierto TV Huechuraba
+http://v3.tustreaming.cl/campoabierto/live1/playlist.m3u8
+#EXTINF:-1 group-title="🇺🇸CANAIS AMERICANOS🇺🇸" tvg-logo="https://i.imgur.com/Anlb1SP.png" ,Campus TV
+http://st2.worldkast.com/8004/8004/chunklist_w733100229.m3u8
+#EXTINF:-1 group-title="🇺🇸CANAIS AMERICANOS🇺🇸" tvg-logo="https://i.imgur.com/Anlb1SP.png" ,Canada Star TV
+http://live.canadastartv.com:1935/canadastartv/canadastartv/playlist.m3u
+#EXTINF:-1 group-title="🇺🇸CANAIS AMERICANOS🇺🇸" tvg-logo="https://i.imgur.com/Anlb1SP.png" ,Canal 10 Entre Rios
+http://streamingvideo.com.ar:1935/10tv/live/playlist.m3u8
+#EXTINF:-1 group-title="🇺🇸CANAIS AMERICANOS🇺🇸" tvg-logo="https://i.imgur.com/Anlb1SP.png" ,Canal 13 La Rioja
+http://arcast.net:1935/mp/mp/playlist.m3u8
+#EXTINF:-1 group-title="🇺🇸CANAIS AMERICANOS🇺🇸" tvg-logo="https://i.imgur.com/Anlb1SP.png" ,Canal 4 Jujuy
+http://190.52.32.13:1935/canal4/smil:manifest.smil/playlist.m3u8
+#EXTINF:-1 group-title="🇺🇸CANAIS AMERICANOS🇺🇸" tvg-logo="https://i.imgur.com/Anlb1SP.png" ,Canal Amé 47
+http://ss6.domint.net:2028/ame_str/amecanal47/master.m3u8
+#EXTINF:-1 group-title="🇺🇸CANAIS AMERICANOS🇺🇸" tvg-logo="https://i.imgur.com/Anlb1SP.png" ,Canal CNC Pasto
+http://66.240.236.25:1936/cncpasto/cncpasto/chunklist.m3u8
+#EXTINF:-1 group-title="🇺🇸CANAIS AMERICANOS🇺🇸" tvg-logo="https://i.imgur.com/Anlb1SP.png" ,Canal Once
+https://live2.canaloncelive.tv/livepkgr2/smil:internacional.smil/chunklist.m3u8
+#EXTINF:-1 group-title="🇺🇸CANAIS AMERICANOS🇺🇸" tvg-logo="https://i.imgur.com/Anlb1SP.png" ,Canal Once Nacional
+http://live.canaloncelive.tv:1935/livepkgr/smil:nacional.smil/playlist.m3u8
+#EXTINF:-1 group-title="🇺🇸CANAIS AMERICANOS🇺🇸" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/canelatv-v2-logo.png" ,Canela TV
+https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-5f5132e362fe160040f26c18?X-Plex-Token=MorUy57ijWhGe4ixZb_T
+#EXTINF:-1 group-title="🇺🇸CANAIS AMERICANOS🇺🇸" tvg-logo="https://i.imgur.com/tmKtbf9.png" ,Capital City Connection Montgomery
+http://na-us-se13.secdn.net/pegstream3-live/play/5f0d9ca5-4e85-4c01-a426-9ec8d44c2c9c/playlist.m3u8
+#EXTINF:-1 group-title="🇺🇸CANAIS AMERICANOS🇺🇸" tvg-logo="https://i.imgur.com/Anlb1SP.png" ,Carivision
+http://ss6.domint.net:2012/tes_str/teleelsalvador/chunklist_w718025904.m3u8
+#EXTINF:-1 group-title="🇺🇸CANAIS AMERICANOS🇺🇸" tvg-logo="http://127.0.0.1/" ,CATHOLIC TV
+http://catholictvhd-lh.akamaihd.net:80/i/ctvhd_1@88148/index_1_av-p.m3u8
+#EXTINF:-1 group-title="🇺🇸CANAIS AMERICANOS🇺🇸" tvg-logo="https://i.imgur.com/Anlb1SP.png" ,CBC News Network
+https://cbcnewshd-f.akamaihd.net/i/cbcnews_30@304030/index_2500_av-p.m3u8
+#EXTINF:-1 group-title="🇺🇸CANAIS AMERICANOS🇺🇸" tvg-logo="https://i.imgur.com/Anlb1SP.png" ,CBN Español
+http://bcliveuniv-lh.akamaihd.net/i/iptv2_1@194050/master.m3u8
+#EXTINF:-1 group-title="🇺🇸CANAIS AMERICANOS🇺🇸" tvg-logo="https://i.imgur.com/Anlb1SP.png" ,CBN News
+http://bcliveuniv-lh.akamaihd.net/i/iptv1_1@194050/master.m3u8
+#EXTINF:-1 group-title="🇺🇸CANAIS AMERICANOS🇺🇸" tvg-logo="http://livetvland.com/images/logo/cbn_news.jpg" ,CBN News
+http://bcliveuniv-lh.akamaihd.net/i/news_1@194050/master.m3u8
+#EXTINF:-1 group-title="🇺🇸CANAIS AMERICANOS🇺🇸" tvg-logo="http://www.cbn.com/images8/cbn-news-channel-OG.jpg" ,CBN News (USA)
+http://bcliveuniv-lh.akamaihd.net:80/i/news_1@194050/master.m3u8
+#EXTINF:-1 group-title="🇺🇸CANAIS AMERICANOS🇺🇸" tvg-logo="https://i.imgur.com/VS1lw49.png" ,CBN News International
+https://bcliveunivsecure-lh.akamaihd.net/i/iptv1_1@500579/master.m3u8
+#EXTINF:-1 group-title="🇺🇸CANAIS AMERICANOS🇺🇸" tvg-logo="https://i.imgur.com/Anlb1SP.png" ,CBS
+http://161.0.157.51/PLTV/88888888/224/3221227041/01.m3u8
+#EXTINF:-1 group-title="🇺🇸CANAIS AMERICANOS🇺🇸" tvg-logo="https://i.imgur.com/Anlb1SP.png" ,CBS 9 Washington DC (WUSA-HD)
+https://wusa-lh.akamaihd.net/i/WUSA_Breaking_1@98930/master.m3u8
+#EXTINF:-1 group-title="🇺🇸CANAIS AMERICANOS🇺🇸" tvg-logo="https://i.imgur.com/Anlb1SP.png" ,CBSN
+https://cbsnhls-i.akamaihd.net/hls/live/264710/CBSN_mdialog/prodstream/master_2200.m3u8
+#EXTINF:-1 group-title="🇺🇸CANAIS AMERICANOS🇺🇸" tvg-logo="https://i.imgur.com/Anlb1SP.png" ,CCI Channel
+http://stream.innovandote.com:1935/cci/cci/playlist.m3u8
+#EXTINF:-1 group-title="🇺🇸CANAIS AMERICANOS🇺🇸" tvg-logo="https://i.imgur.com/VqaF8Rd.png" ,CCX Media - Minnesota
+http://156.142.85.152/live/WIFI-2096k-1080p/WIFI-2096k-1080p.m3u8
+#EXTINF:-1 group-title="🇺🇸CANAIS AMERICANOS🇺🇸" tvg-logo="https://i.imgur.com/Anlb1SP.png" ,CDM International
+https://59825a54e4454.streamlock.net:8443/marcos536/marcos536/chunklist_w815796812.m3u8
+#EXTINF:-1 group-title="🇺🇸CANAIS AMERICANOS🇺🇸" tvg-logo="https://i.imgur.com/Anlb1SP.png" ,CDM TV
+http://205.164.56.130:1935/marcos536/marcos536/playlist.m3u8
+#EXTINF:-1 group-title="🇺🇸CANAIS AMERICANOS🇺🇸" tvg-logo="https://i.imgur.com/Anlb1SP.png" ,Cerritos TV3
+http://granicusliveus4-a.akamaihd.net/cerritos/G0010_002/chunklist.m3u8
+#EXTINF:-1 group-title="🇺🇸CANAIS AMERICANOS🇺🇸" tvg-logo="https://i.imgur.com/Anlb1SP.png" ,CGTV
+http://reflect-live-champaign.cablecast.tv/live/CELL-296k-234p/CELL-296k-234p.m3u8
+#EXTINF:-1 group-title="🇺🇸CANAIS AMERICANOS🇺🇸" tvg-logo="https://i.imgur.com/6zzwmfK.jpg" ,CGTV
+https://reflect-live-champaign.cablecast.tv/live/CELL-296k-234p/CELL-296k-234p.m3u8
+#EXTINF:-1 group-title="🇺🇸CANAIS AMERICANOS🇺🇸" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/channel-fight.png" ,Channel Fight
+https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-5f0ff265d71dcb00449ec02a?X-Plex-Token=MorUy57ijWhGe4ixZb_T
+#EXTINF:-1 group-title="🇺🇸CANAIS AMERICANOS🇺🇸" tvg-logo="https://i.imgur.com/hJxFLvF.png" ,Channel S (US Eastern)
+https://a.jsrdn.com/broadcast/22679_24MrQma9TX/-0500/c.m3u8
+#EXTINF:-1 group-title="🇺🇸CANAIS AMERICANOS🇺🇸" tvg-logo="https://i.imgur.com/hJxFLvF.png" ,Channel S (US Pacific)
+https://a.jsrdn.com/broadcast/22679_24MrQma9TX/-0800/c.m3u8
+#EXTINF:-1 group-title="🇺🇸CANAIS AMERICANOS🇺🇸" tvg-logo="https://i.imgur.com/Anlb1SP.png" ,Channel V6
+https://media.ksl.com/watchit/vod/41534/playlist.m3u8
+#EXTINF:-1 group-title="🇺🇸CANAIS AMERICANOS🇺🇸" tvg-logo="https://i.imgur.com/nWjAjzy.png" ,Cheddar
+https://content.uplynk.com/channel/4ee18bd581dc4d3b90303e0cb9beeb0f.m3u8
+#EXTINF:-1 group-title="🇺🇸CANAIS AMERICANOS🇺🇸" tvg-logo="https://image.xumo.com/v1/channels/channel/9999945/248x140.png?type=channelTile" ,Cheddar
+https://dai2.xumo.com/xumocdn/p=redbox&deviceid=&is_lat=&subp=RedboxdesktopWebLinux/amagi_hls_data_xumo1212A-redboxcheddar/CDN/playlist.m3u8
+#EXTINF:-1 group-title="🇺🇸CANAIS AMERICANOS🇺🇸" tvg-logo="https://i.imgur.com/2OnFFoP.png" ,Cheddar Business
+https://live.chdrstatic.com/cheddar/primary/1.m3u8
+#EXTINF:-1 group-title="🇺🇸CANAIS AMERICANOS🇺🇸" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/cheddar_cheddar_3_logo.png" ,Cheddar News
+https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-5f6b8e5900b0950040d0f2af?X-Plex-Token=MorUy57ijWhGe4ixZb_T
+#EXTINF:-1 group-title="🇺🇸CANAIS AMERICANOS🇺🇸" tvg-logo="https://i.imgur.com/xWVT3Dg.png" ,Cheddar News
+https://live.chdrstatic.com/cbn/primary/1.m3u8
+#EXTINF:-1 group-title="🇺🇸CANAIS AMERICANOS🇺🇸" tvg-logo="https://i.imgur.com/qj7DSnR.png" ,Chef Champion
+https://nrpus.bozztv.com/36bay2/gusa-chefchampion/index.m3u8
+#EXTINF:-1 group-title="🇺🇸CANAIS AMERICANOS🇺🇸" tvg-logo="https://i.imgur.com/uGKfZPF.png" ,Chive TV
+http://a.jsrdn.com/broadcast/4df1bf71c1/+0000/high/c.m3u8
+#EXTINF:-1 group-title="🇺🇸CANAIS AMERICANOS🇺🇸" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/choppertown.png" ,Choppertown
+https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-5ef11487d33ab9004048a1d3?X-Plex-Token=MorUy57ijWhGe4ixZb_T
+#EXTINF:-1 group-title="🇺🇸CANAIS AMERICANOS🇺🇸" tvg-logo="https://i.imgur.com/Anlb1SP.png" ,Christian Youth Channel
+http://media.smc-host.com:1935/cycnow.com/cyc2/chunklist_w884806316.m3u8
+#EXTINF:-1 group-title="🇺🇸CANAIS AMERICANOS🇺🇸" tvg-logo="https://i.imgur.com/MMCKDpf.png" ,Civilized
+https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c7e2531932c8368bdbfd87c/playlist.m3u8
+#EXTINF:-1 group-title="🇺🇸CANAIS AMERICANOS🇺🇸" tvg-logo="https://i.imgur.com/gi2LOKf.png" ,Classic Cinema
+https://nrpus.bozztv.com/36bay2/gusa-classiccinema/index.m3u8
+#EXTINF:-1 group-title="🇺🇸CANAIS AMERICANOS🇺🇸" tvg-logo="https://i.imgur.com/AuKo7Nx.png" ,Classics Channel
+https://b83608fe932143099bb8b25a66857730.mediatailor.us-east-1.amazonaws.com/v1/master/82ded7a88773aef3d6dd1fedce15ba2d57eb6bca/wse_powr_com_5f86075a0d552957bf5aa4dd/playlist.m3u8
+#EXTINF:-1 group-title="🇺🇸CANAIS AMERICANOS🇺🇸" tvg-logo="https://i.imgur.com/DU6kO3S.png" ,Cloudflare TV
+https://cloudflare.tv/hls/live.m3u8
+#EXTINF:-1 group-title="🇺🇸CANAIS AMERICANOS🇺🇸" tvg-logo="https://i.imgur.com/Anlb1SP.png" ,CMC
+https://cmctv.ios.internapcdn.net/cmctv_vitalstream_com/live_1/CMC-TV/playlist.m3u8
+#EXTINF:-1 group-title="🇺🇸CANAIS AMERICANOS🇺🇸" tvg-logo="https://i.imgur.com/aDReLcK.png" ,CMC 2 (US)
+https://cmctv.ios.internapcdn.net/cmctv_vitalstream_com/live_1/CMC-TV/chunklist.m3u8
+#EXTINF:-1 group-title="🇺🇸CANAIS AMERICANOS🇺🇸" tvg-logo="https://i.imgur.com/9TbpsS0.png" ,CMC-USA
+https://cmctv.ios.internapcdn.net/cmctv_vitalstream_com/live_1/CMCU-92/playlist.m3u8
+#EXTINF:-1 group-title="🇺🇸CANAIS AMERICANOS🇺🇸" tvg-logo="https://tinyurl.com/y3kxbaqv" ,CNA (SG)(2)
+http://210.210.155.35/uq2663/h/h29/01.m3u8?fluxustv.m3u8
+#EXTINF:-1 group-title="🇺🇸CANAIS AMERICANOS🇺🇸" tvg-logo="https://tinyurl.com/y3kxbaqv" ,CNA (SG)(3)
+http://45.126.83.51/uq2663/h/h29/index.m3u8
+#EXTINF:-1 group-title="🇺🇸CANAIS AMERICANOS🇺🇸" tvg-logo="https://i.imgur.com/Anlb1SP.png" ,Colosal TV
+http://tv.ticosmedia.com:1935/COLOSAL/COLOSAL/playlist.m3u8
+#EXTINF:-1 group-title="🇺🇸CANAIS AMERICANOS🇺🇸" tvg-logo="https://i.imgur.com/jL5IWRZ.png" ,Comedy
+http://comedy-redbox.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="🇺🇸CANAIS AMERICANOS🇺🇸" tvg-logo="https://i.imgur.com/cSVlBb0.png" ,Comedy
+https://342189106f294f6da7687918228af833.mediatailor.us-east-1.amazonaws.com/v1/master/82ded7a88773aef3d6dd1fedce15ba2d57eb6bca/wse_powr_com_5f9ad508f47afc741c2526be/playlist.m3u8
+#EXTINF:-1 group-title="🇺🇸CANAIS AMERICANOS🇺🇸" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/cinedigm_comedydynamics_1.png" ,Comedy Dynamics
+https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-5efe1de5e0b3f5003f5d9f76?X-Plex-Token=MorUy57ijWhGe4ixZb_T
+#EXTINF:-1 group-title="🇺🇸CANAIS AMERICANOS🇺🇸" tvg-logo="https://i.imgur.com/Anlb1SP.png" ,Comet TV (Geo)
+http://usgeowall.sinclairstoryline.com/channel/3e45c6b5354a40f787e0b2aadb0f5d6a.m3u8
+#EXTINF:-1 group-title="🇺🇸CANAIS AMERICANOS🇺🇸" tvg-logo="https://i.imgur.com/Anlb1SP.png" ,Comunion TV
+http://50.30.37.36:1935/live/stream/chunklist_w1329394356.m3u8
+#EXTINF:-1 group-title="🇺🇸CANAIS AMERICANOS🇺🇸" tvg-logo="https://i.imgur.com/Anlb1SP.png" ,ConTV
+https://cinedigm.vo.llnwd.net/conssui/amagi_hls_data_xumo123-contv/CDN/1280x720_2108000/chunklist.m3u8
+#EXTINF:-1 group-title="🇺🇸CANAIS AMERICANOS🇺🇸" tvg-logo="https://i.imgur.com/lNb5tRv.png" ,CONtv
+https://dai2.xumo.com/xumocdn/p=redbox&deviceid=&is_lat=&subp=RedboxdesktopWebLinux/amagi_hls_data_xumo1212A-redboxcontv/CDN/playlist.m3u8
+#EXTINF:-1 group-title="🇺🇸CANAIS AMERICANOS🇺🇸" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/contv.png" ,CONtv
+https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-5efe1de5e0b3f5003f5d9f79?X-Plex-Token=MorUy57ijWhGe4ixZb_T
+#EXTINF:-1 group-title="🇺🇸CANAIS AMERICANOS🇺🇸" tvg-logo="https://i.imgur.com/WhyZM5n.png" ,CONtv Anime
+https://dai2.xumo.com/xumocdn/p=redbox&deviceid=&is_lat=&subp=RedboxdesktopWebLinux/amagi_hls_data_xumo-host-contvanime-junction/CDN/playlist.m3u8
+#EXTINF:-1 group-title="🇺🇸CANAIS AMERICANOS🇺🇸" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/cinedigm_contv_anime_1.png" ,CONtv Anime
+https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-5f5132d862fe160040f26b32?X-Plex-Token=MorUy57ijWhGe4ixZb_T
+#EXTINF:-1 group-title="🇺🇸CANAIS AMERICANOS🇺🇸" tvg-logo="https://i.imgur.com/SxRzFO8.png" ,Cooking 4U
+https://nimble.dashstreams.net/onestudio/cooking_4u_network/playlist.m3u8
+#EXTINF:-1 group-title="🇺🇸CANAIS AMERICANOS🇺🇸" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/cooking-panda.png" ,Cooking Panda
+https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-5f07e9fdf313eb0041bbecda?X-Plex-Token=MorUy57ijWhGe4ixZb_T
+#EXTINF:-1 group-title="🇺🇸CANAIS AMERICANOS🇺🇸" tvg-logo="https://i.imgur.com/hqSGsrX.png" ,Coronavirus.gov
+https://stitcheraws.unreel.me/wse-node02.powr.com/live/5e7559e8a46b495a2283c5e8/playlist.m3u8
+#EXTINF:-1 group-title="🇺🇸CANAIS AMERICANOS🇺🇸" tvg-logo="https://i.imgur.com/2IgM6LJ.png" ,Country Boy Kid Vids
+https://stitcheraws.unreel.me/wse-node02.powr.com/live/5bf225aed5eeee0f5a4094bd/playlist.m3u8
+#EXTINF:-1 group-title="🇺🇸CANAIS AMERICANOS🇺🇸" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/crackle_logo_dark.png" ,Crackle
+https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-5fd2759bc8634d002d9ff9bc?X-Plex-Token=MorUy57ijWhGe4ixZb_T
+#EXTINF:-1 group-title="🇺🇸CANAIS AMERICANOS🇺🇸" tvg-logo="https://i.imgur.com/G0eQuH9.png" ,Credo TV
+http://cdn.credonet.tv:1935/ctv/smil:livecredo.smil/playlist.m3u8
+#EXTINF:-1 group-title="🇺🇸CANAIS AMERICANOS🇺🇸" tvg-logo="https://i.imgur.com/DelC3oV.png" ,Crime
+https://210a3c3b5dbc49aaae871dee45d83603.mediatailor.us-east-1.amazonaws.com/v1/master/82ded7a88773aef3d6dd1fedce15ba2d57eb6bca/wse_powr_com_5f89adc6bc70441f38fca7bd/playlist.m3u8
+#EXTINF:-1 group-title="🇺🇸CANAIS AMERICANOS🇺🇸" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/crime-360-logo.png" ,Crime 360
+https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-5f74cf7effbe690040689f41?X-Plex-Token=MorUy57ijWhGe4ixZb_T
+#EXTINF:-1 group-title="🇺🇸CANAIS AMERICANOS🇺🇸" tvg-logo="https://i.imgur.com/G0eQuH9.png" ,Cromtel TV
+http://webmobile.xdev.ro:81/tv7/playlist.m3u8
+#EXTINF:-1 group-title="🇺🇸CANAIS AMERICANOS🇺🇸" tvg-logo="https://i.imgur.com/Anlb1SP.png" ,CSat TV
+http://media.smc-host.com:1935/csat.tv/smil:csat.smil/chunklist_w1421926306_b692000_slar_t64SEQ=.m3u8
+#EXTINF:-1 group-title="🇺🇸CANAIS AMERICANOS🇺🇸" tvg-logo="https://i.imgur.com/xGBmzm3.png" ,CSPAN-US
+https://skystreams-lh.akamaihd.net/i/SkyC1_1@500806/master.m3u8
+#EXTINF:-1 group-title="🇺🇸CANAIS AMERICANOS🇺🇸" tvg-logo="https://i.imgur.com/g9g15tc.png" ,CSUDH TV (Dominguez Hills)
+http://dhtv5.csudh.edu:1935/live/myStream/playlist.m3u8
+#EXTINF:-1 group-title="🇺🇸CANAIS AMERICANOS🇺🇸" tvg-logo="https://i.imgur.com/Anlb1SP.png" ,CT-N Court Feed
+http://video.ct-n.com/live/ctnSupreme/chunklist_w538335829_DVR.m3u8
+#EXTINF:-1 group-title="🇺🇸CANAIS AMERICANOS🇺🇸" tvg-logo="https://i.imgur.com/pb0TFQt.jpg" ,CT-N TV  - Conneticut
+https://video.ct-n.com/live/ctnstream/chunklist_w1116602077_DVR.m3u8
+#EXTINF:-1 group-title="🇺🇸CANAIS AMERICANOS🇺🇸" tvg-logo="https://i.imgur.com/Anlb1SP.png" ,CTN
+http://rtmp.ottdemo.rrsat.com/ctntv/ctntvmulti.smil/chunklist.m3u8
+#EXTINF:-1 group-title="🇺🇸CANAIS AMERICANOS🇺🇸" tvg-logo="https://i.imgur.com/Anlb1SP.png" ,Cultura 24 (Opt-2)
+http://vs8.live.opencaster.com/cultura24/_definst_/mp4:cultura24_480/chunklist_w1999901240.m3u8
+#EXTINF:-1 group-title="🇺🇸CANAIS AMERICANOS🇺🇸" tvg-logo="https://i.imgur.com/1H2KOju.png" ,Cute Zone
+https://stitcheraws.unreel.me/wse-node02.powr.com/live/5bf22518d5eeee0f5a409486/playlist.m3u8
+#EXTINF:-1 group-title="🇺🇸CANAIS AMERICANOS🇺🇸" tvg-logo="https://i.imgur.com/VFPid91.png" ,CVTV Channel 21
+https://wowzaprod4-i.akamaihd.net/hls/live/254198/8cb93f9b/playlist.m3u8
+#EXTINF:-1 group-title="🇺🇸CANAIS AMERICANOS🇺🇸" tvg-logo="https://i.imgur.com/VFPid91.png" ,CVTV Channel 23
+https://wowzaprod3-i.akamaihd.net/hls/live/252233/15b8d438/playlist.m3u8
+#EXTINF:-1 group-title="🇺🇸CANAIS AMERICANOS🇺🇸" tvg-logo="https://i.imgur.com/rAkIuW1.png" ,Cycle World
+http://a.jsrdn.com/broadcast/3e5befe5dd/+0000/high/c.m3u8
+#EXTINF:-1 group-title="🇺🇸CANAIS AMERICANOS🇺🇸" tvg-logo="https://i.imgur.com/l2O0fY1.png" ,Darcizzle Offshore
+http://30a-tv.com/darcizzle.m3u8
+#EXTINF:-1 group-title="🇺🇸CANAIS AMERICANOS🇺🇸" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/dark_matter_tv_logo_dark.png" ,DarkMatter TV
+https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-5eea605674085f0040ddc7a6?X-Plex-Token=MorUy57ijWhGe4ixZb_T
+#EXTINF:-1 group-title="🇺🇸CANAIS AMERICANOS🇺🇸" tvg-logo="https://i.imgur.com/ebCxZFw.png" ,DC Council Channel
+http://video.oct.dc.gov/out/u/15_12.m3u8
+#EXTINF:-1 group-title="🇺🇸CANAIS AMERICANOS🇺🇸" tvg-logo="https://i.imgur.com/SXWX2Wf.png" ,Deal or No Deal
+https://endemol-dealornodeal-1.roku.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 group-title="🇺🇸CANAIS AMERICANOS🇺🇸" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/endemol_dealornodeal_1.png" ,Deal or No Deal
+https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-5eea605574085f0040ddc788?X-Plex-Token=MorUy57ijWhGe4ixZb_T
+#EXTINF:-1 group-title="🇺🇸CANAIS AMERICANOS🇺🇸" tvg-logo="https://i.imgur.com/I3P0v6r.png" ,Denver 8 TV
+http://granicusliveus8-a.akamaihd.net/denver/G0080_002/chunklist.m3u8
+#EXTINF:-1 group-title="🇺🇸CANAIS AMERICANOS🇺🇸" tvg-logo="https://i.imgur.com/Anlb1SP.png" ,Desi TV USA
+http://cdn30.liveonlineservices.com/hls/desitv.m3u8
+#EXTINF:-1 group-title="🇺🇸CANAIS AMERICANOS🇺🇸" tvg-logo="https://i.imgur.com/Anlb1SP.png" ,Dighvijay News 24x7
+https://vidcdn.vidgyor.com/dighvijay-origin/liveabr/dighvijay-origin/live1/chunks.m3u8
+#EXTINF:-1 group-title="🇺🇸CANAIS AMERICANOS🇺🇸" tvg-logo="https://i.imgur.com/CI8ZspR.png" ,District of Columbia Network
+http://video.oct.dc.gov/out/u/DCN.m3u8
+#EXTINF:-1 group-title="🇺🇸CANAIS AMERICANOS🇺🇸" tvg-logo="https://i.imgur.com/Anlb1SP.png" ,Divine Vision
+http://divineplayout-us2.tulix.tv/live/Stream1/.m3u8
+#EXTINF:-1 group-title="🇺🇸CANAIS AMERICANOS🇺🇸" tvg-logo="https://i.imgur.com/V0CDykG.png" ,Divorce Court
+https://44fbc29539b04817bbfc7e40a5b4a1ab.mediatailor.us-east-1.amazonaws.com/v1/master/82ded7a88773aef3d6dd1fedce15ba2d57eb6bca/wse_powr_com_5eb1e76d1474f9020c06f9ee/playlist.m3u8
+#EXTINF:-1 group-title="🇺🇸CANAIS AMERICANOS🇺🇸" tvg-logo="https://i.imgur.com/peb9qn3.png" ,Docs Channel
+https://0813a4e76b5d404a97a4070b8e087bc4.mediatailor.us-east-1.amazonaws.com/v1/master/82ded7a88773aef3d6dd1fedce15ba2d57eb6bca/wse_powr_com_5f8609d9d6344257cbfb6ee4/playlist.m3u8
+#EXTINF:-1 group-title="🇺🇸CANAIS AMERICANOS🇺🇸" tvg-logo="https://i.imgur.com/XkQPJXM.jpg" ,Docurama
+https://cinedigm.vo.llnwd.net/conssui/amagi_hls_data_xumo1234A-docuramaA/CDN/master.m3u8
+#EXTINF:-1 group-title="🇺🇸CANAIS AMERICANOS🇺🇸" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/docurama.png" ,Docurama
+https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-5efe1de4e0b3f5003f5d9f73?X-Plex-Token=MorUy57ijWhGe4ixZb_T
+#EXTINF:-1 group-title="🇺🇸CANAIS AMERICANOS🇺🇸" tvg-logo="https://i.imgur.com/FVWqYQG.png" ,Dove Channel
+https://cinedigm.vo.llnwd.net/conssui/amagi_hls_data_xumo1234A-dovenow/CDN/master.m3u8
+#EXTINF:-1 group-title="🇺🇸CANAIS AMERICANOS🇺🇸" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/dove_channel.png" ,Dove Channel
+https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-5efe1de8e0b3f5003f5d9f91?X-Plex-Token=MorUy57ijWhGe4ixZb_T
+#EXTINF:-1 group-title="🇺🇸CANAIS AMERICANOS🇺🇸" tvg-logo="https://i.imgur.com/Anlb1SP.png" ,Dr. Gene Scott
+http://wescottcchls-lh.akamaihd.net/i/wcc_wowlivehls@24607/master.m3u8
+#EXTINF:-1 group-title="🇺🇸CANAIS AMERICANOS🇺🇸" tvg-logo="https://i.imgur.com/aonn9ln.png" ,Drama
+https://fb2bf1d1d7134ce3b02c27f2e2db706b.mediatailor.us-east-1.amazonaws.com/v1/master/82ded7a88773aef3d6dd1fedce15ba2d57eb6bca/wse_powr_com_5f89aecf39cfef1f2542d35d/playlist.m3u8
+#EXTINF:-1 group-title="🇺🇸CANAIS AMERICANOS🇺🇸" tvg-logo="https://i.imgur.com/Anlb1SP.png" ,Dream Channel (New!)
+http://connectiktv.ddns.net:5000/dreamchannel/dreamchannel/chunklist.m3u8
+#EXTINF:-1 group-title="🇺🇸CANAIS AMERICANOS🇺🇸" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/drink-tv.png" ,DrinkTV
+https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-5eea605474085f0040ddc76a?X-Plex-Token=MorUy57ijWhGe4ixZb_T
+#EXTINF:-1 group-title="🇺🇸CANAIS AMERICANOS🇺🇸" tvg-logo="https://i.imgur.com/l61qxIE.jpg" ,Dry Bar Comedy
+https://a.jsrdn.com/broadcast/e29bdbbbf3/+0000/c.m3u8
+#EXTINF:-1 group-title="🇺🇸CANAIS AMERICANOS🇺🇸" tvg-logo="https://komonews.com/resources/media2/3x1/full/119/center/90/fc4a690f-2c95-4600-974c-10fa3b390b07-small3x1_stirr_1219_epg_dust_1920x10802.png?cb=eccbc87e4b5ce2fe28308fd9f2a7baf3" ,DUST
+http://dust.sinclair.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 group-title="🇺🇸CANAIS AMERICANOS🇺🇸" tvg-logo="https://i.imgur.com/q2jim9n.png" ,Dust
+https://dust.sinclair.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 group-title="🇺🇸CANAIS AMERICANOS🇺🇸" tvg-logo="http://127.0.0.1/" ,DW
+http://dwstream4-lh.akamaihd.net:80/i/dwstream4_live@131329/index_1_av-p.m3u8
+#EXTINF:-1 group-title="🇺🇸CANAIS AMERICANOS🇺🇸" tvg-logo="https://s26.postimg.org/qa203gz21/dwamericaMEGAMAXIPTV.jpg" ,DW (America)
+http://dwstream3-lh.akamaihd.net/i/dwstream3_live@124409/index_1_av-p.m3u8
+#EXTINF:-1 group-title="🇺🇸CANAIS AMERICANOS🇺🇸" tvg-logo="https://i.imgur.com/Anlb1SP.png" ,DW Arabia
+http://dwstream2-lh.akamaihd.net/i/dwstream2_live@124400/master.m3u8
+#EXTINF:-1 group-title="🇺🇸CANAIS AMERICANOS🇺🇸" tvg-logo="noimage.png" ,DW NEWS
+http://dwstream4-lh.akamaihd.net:80/i/dwstream4_live@131329/index_1_av-b.m3u8
+#EXTINF:-1 group-title="🇺🇸CANAIS AMERICANOS🇺🇸" tvg-logo="https://i.imgur.com/Anlb1SP.png" ,DWKC-TV
+https://d3cbe0gidjd4k2.cloudfront.net/channel_5/channel5/playlist.m3u
+#EXTINF:-1 group-title="🇺🇸CANAIS AMERICANOS🇺🇸" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/edgesport.png" ,EDGEsport
+https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-5eea71d45252710041e0ccb9?X-Plex-Token=MorUy57ijWhGe4ixZb_T
+#EXTINF:-1 group-title="🇺🇸CANAIS AMERICANOS🇺🇸" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/electric-now.png" ,Electric Now
+https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-5f170d61b898490041b49360?X-Plex-Token=MorUy57ijWhGe4ixZb_T
+#EXTINF:-1 group-title="🇺🇸CANAIS AMERICANOS🇺🇸" tvg-logo="https://i.imgur.com/IUJSWSf.png" ,ElectricNOW
+https://a.jsrdn.com/broadcast/vf93fRSk7/playlist_360p.m3u8
+#EXTINF:-1 group-title="🇺🇸CANAIS AMERICANOS🇺🇸" tvg-logo="https://i.imgur.com/Anlb1SP.png" ,Elim TV
+http://live-15.viewer.dacast.com:80/i/dclive_1@397642/master.m3u8
+#EXTINF:-1 group-title="🇺🇸CANAIS AMERICANOS🇺🇸" tvg-logo="https://i.imgur.com/G0eQuH9.png" ,Elita TV
+http://46.55.111.242:8080/Rezina.m3u8
+#EXTINF:-1 group-title="🇺🇸CANAIS AMERICANOS🇺🇸" tvg-logo="https://i.imgur.com/Anlb1SP.png" ,EMCI TV Montreal (Opt-2)
+https://emci-td-hls.akamaized.net/hls/live/2007264/emcitdhls/index.m3u8
+#EXTINF:-1 group-title="🇺🇸CANAIS AMERICANOS🇺🇸" tvg-logo="https://i.imgur.com/Anlb1SP.png" ,Entertainment TV:Charge (Geo)
+https://usgeowall.sinclairstoryline.com/channel/37eb732888614810b512fdd82604244e.m3u8
+#EXTINF:-1 group-title="🇺🇸CANAIS AMERICANOS🇺🇸" tvg-logo="https://i.imgur.com/JcDDd5I.png" ,Epic Misses & Mayhem
+https://stitcheraws.unreel.me/wse-node02.powr.com/live/5bf22225d5eeee0f5a40941d/playlist.m3u8
+#EXTINF:-1 group-title="🇺🇸CANAIS AMERICANOS🇺🇸" tvg-logo="https://i.imgur.com/Anlb1SP.png" ,ESTV
+http://cm.hostlagarto.com:8081/ESTV/estv.myStream/chunks.m3u8
+#EXTINF:-1 group-title="🇺🇸CANAIS AMERICANOS🇺🇸" tvg-logo="https://i.imgur.com/7LXT3zf.png" ,ET Live
+https://etlive-mediapackage-fastly.cbsaavideo.com/dvr/manifest.m3u8
+#EXTINF:-1 group-title="🇺🇸CANAIS AMERICANOS🇺🇸" tvg-logo="https://i.imgur.com/K1kJf1s.png" ,Euronews
+https://euronews-euronews-world-1.roku.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 group-title="🇺🇸CANAIS AMERICANOS🇺🇸" tvg-logo="https://i.imgur.com/Iam3ol3.png" ,Everyday Heroes
+https://a.jsrdn.com/broadcast/7b1451fa52/+0000/c.m3u8
+#EXTINF:-1 group-title="🇺🇸CANAIS AMERICANOS🇺🇸" tvg-logo="https://i.imgur.com/Anlb1SP.png" ,EWTN
+http://d3kr0d4mfjxpbv.cloudfront.net/p/SPAS_1920x1080_4000k.m3u8
+#EXTINF:-1 group-title="🇺🇸CANAIS AMERICANOS🇺🇸" tvg-logo="https://i.imgur.com/Anlb1SP.png" ,EWTN Canada
+http://dyo5cp96eopax.cloudfront.net/p/CANE_760x432_1200k.m3u8
+#EXTINF:-1 group-title="🇺🇸CANAIS AMERICANOS🇺🇸" tvg-logo="https://i.imgur.com/MMCKDpf.png" ,External Ottera
+https://otteravision-tg.ottera.tv/live/master.m3u8?channel=tg_tg_us
+#EXTINF:-1 group-title="🇺🇸CANAIS AMERICANOS🇺🇸" tvg-logo="http://i.imgur.com/gZ8R50q.png" ,EYESWITNESS NEWS
+http://bcoveliveios-i.akamaihd.net:80/hls/live/207141/268012959001/WFTV_EVENTLIVE1/WFTV_EVENTLIVE1_800.m3u8
+#EXTINF:-1 group-title="🇺🇸CANAIS AMERICANOS🇺🇸" tvg-logo="https://i.imgur.com/RIXSg4L.png" ,Fail Army
+https://dai2.xumo.com/xumocdn/p=redbox&deviceid=&is_lat=&subp=RedboxdesktopWebLinux/amagi_hls_data_xumo1212A-redboxfailarmy/CDN/playlist.m3u8
+#EXTINF:-1 group-title="🇺🇸CANAIS AMERICANOS🇺🇸" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/failarmy_linear_.png" ,FailArmy
+https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-5eea605574085f0040ddc791?X-Plex-Token=MorUy57ijWhGe4ixZb_T
+#EXTINF:-1 group-title="🇺🇸CANAIS AMERICANOS🇺🇸" tvg-logo="https://i.imgur.com/yP1nhl0.jpg" ,Fairfax Ch. 16 - Virginia
+https://cs.ebmcdn.net/eastbay-live-hs-1/fairfax-pull/_definst_/mp4:fairfax.stream/chunklist.m3u8
+#EXTINF:-1 group-title="🇺🇸CANAIS AMERICANOS🇺🇸" tvg-logo="https://i.imgur.com/uwBpm1Y.png" ,FamilyFeud
+https://dai2.xumo.com/xumocdn/p=redbox&deviceid=&is_lat=&subp=RedboxdesktopWebLinux/amagi_hls_data_xumo1212A-redboxfamilyfeud/CDN/playlist.m3u8
+#EXTINF:-1 group-title="🇺🇸CANAIS AMERICANOS🇺🇸" tvg-logo="https://i.imgur.com/Lk8azuc.png" ,Fashion TV (US Eastern)
+https://a.jsrdn.com/broadcast/ftv2/-0500/c.m3u8
+#EXTINF:-1 group-title="🇺🇸CANAIS AMERICANOS🇺🇸" tvg-logo="https://i.imgur.com/Lk8azuc.png" ,Fashion TV (US Pacific)
+https://a.jsrdn.com/broadcast/ftv2/-0800/c.m3u8
+#EXTINF:-1 group-title="🇺🇸CANAIS AMERICANOS🇺🇸" tvg-logo="https://i.imgur.com/OD6qg0K.png" ,FGTV & Funnelvision
+https://stitcheraws.unreel.me/wse-node02.powr.com/live/5e2624990145130f25474620/playlist.m3u8
+#EXTINF:-1 group-title="🇺🇸CANAIS AMERICANOS🇺🇸" tvg-logo="https://i.imgur.com/qoKlYt3.png" ,Field & Stream
+http://a.jsrdn.com/broadcast/7536b84786/+0000/high/c.m3u8
+#EXTINF:-1 group-title="🇺🇸CANAIS AMERICANOS🇺🇸" tvg-logo="https://i.imgur.com/3eUEiiK.png" ,Fighting Spirit
+https://a.jsrdn.com/broadcast/22696/+0000/low/c.m3u8
+#EXTINF:-1 group-title="🇺🇸CANAIS AMERICANOS🇺🇸" tvg-logo="https://i.imgur.com/nZEaSAb.png" ,Film Hub
+http://dai2.xumo.com/xumocdn/p=redbox&deviceid=&is_lat=&subp=RedboxdesktopWebLinux/amagi_hls_data_xumo1212A-redboxfilmhub/CDN/playlist.m3u8
+#EXTINF:-1 group-title="🇺🇸CANAIS AMERICANOS🇺🇸" tvg-logo="https://i.imgur.com/GvqmzPn.jpg" ,FilmRise Classic TV
+https://dai2.xumo.com/xumocdn/p=redbox&deviceid=&is_lat=&subp=RedboxdesktopWebLinux/amagi_hls_data_xumo1212A-filmriseclassictv/CDN/playlist.m3u8
+#EXTINF:-1 group-title="🇺🇸CANAIS AMERICANOS🇺🇸" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/71te2lAHq5L._SY355_.png" ,Filmrise Classics
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-filmriseclassictv/CDN/648x432_5000000/index.m3u8
+#EXTINF:-1 group-title="🇺🇸CANAIS AMERICANOS🇺🇸" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/81VZaxj6a1L._SY355_.png" ,Filmrise Family
+http://dai2.xumo.com/xumocdn/p=roku/amagi_hls_data_xumo1212A-filmrisefamily/CDN/playlist.m3u8
+#EXTINF:-1 group-title="🇺🇸CANAIS AMERICANOS🇺🇸" tvg-logo="https://i.imgur.com/fX1PNxl.png" ,FilmRise Forensic Files
+https://dai2.xumo.com/xumocdn/p=redbox&deviceid=&is_lat=&subp=RedboxdesktopWebLinux/amagi_hls_data_xumo1212A-redboxunsolvedmysteries/CDN/playlist.m3u8
+#EXTINF:-1 group-title="🇺🇸CANAIS AMERICANOS🇺🇸" tvg-logo="https://i.imgur.com/XuWEujn.png" ,FilmRise Forensic Files 24/7
+http://dai2.xumo.com/xumocdn/p=roku/amagi_hls_data_xumo1212A-rokuforensicfiles/CDN/master.m3u8
+#EXTINF:-1 group-title="🇺🇸CANAIS AMERICANOS🇺🇸" tvg-logo="https://i.imgur.com/1fSHgSs.jpg" ,FilmRise Free Movies
+https://dai2.xumo.com/xumocdn/p=redbox&deviceid=&is_lat=&subp=RedboxdesktopWebLinux/amagi_hls_data_xumo1212A-redboxfilmrisefreemovies/CDN/playlist.m3u8
+#EXTINF:-1 group-title="🇺🇸CANAIS AMERICANOS🇺🇸" tvg-logo="https://i.imgur.com/XuWEujn.png" ,Filmrise Movies
+http://dai2.xumo.com/xumocdn/p=roku/amagi_hls_data_xumo1212A-filmrisefreemovies/CDN/playlist.m3u8
+#EXTINF:-1 group-title="🇺🇸CANAIS AMERICANOS🇺🇸" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/81Tf2AEadwL.png" ,FilmRise Mysteries
+https://dai2.xumo.com/xumocdn/p=redbox&deviceid=&is_lat=&subp=RedboxdesktopWebLinux/amagi_hls_data_xumo1212A-rokufilmrisemystery/CDN/playlist.m3u8
+#EXTINF:-1 group-title="🇺🇸CANAIS AMERICANOS🇺🇸" tvg-logo="https://i.imgur.com/XuWEujn.png" ,FilmRise Mysteries 24/7
+http://dai2.xumo.com/xumocdn/p=roku/amagi_hls_data_xumo1212A-filmrisecrime/CDN/playlist.m3u8
+#EXTINF:-1 group-title="🇺🇸CANAIS AMERICANOS🇺🇸" tvg-logo="https://i.imgur.com/XuWEujn.png" ,FilmRise Sci-Fi
+http://dai2.xumo.com/xumocdn/p=roku/amagi_hls_data_xumo1212A-rokufilmrisesci-fi/CDN/master.m3u8
+#EXTINF:-1 group-title="🇺🇸CANAIS AMERICANOS🇺🇸" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/815Fp3E0LcL.png" ,FilmRise Sci-Fi
+https://dai2.xumo.com/xumocdn/p=redbox&deviceid=&is_lat=&subp=RedboxdesktopWebLinux/amagi_hls_data_xumo1212A-rokufilmrisesci-fi/CDN/playlist.m3u8
+#EXTINF:-1 group-title="🇺🇸CANAIS AMERICANOS🇺🇸" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/91HDGWEZbzL.png" ,FilmRise Western
+https://dai2.xumo.com/xumocdn/p=redbox&deviceid=&is_lat=&subp=RedboxdesktopWebLinux/amagi_hls_data_xumo1212A-rokufilmrisewestern/CDN/playlist.m3u8
+#EXTINF:-1 group-title="🇺🇸CANAIS AMERICANOS🇺🇸" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/spi_filmstream_1.png" ,Filmstream
+https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-5f5132e162fe160040f26bdb?X-Plex-Token=MorUy57ijWhGe4ixZb_T
+#EXTINF:-1 group-title="🇺🇸CANAIS AMERICANOS🇺🇸" tvg-logo="https://i.imgur.com/KtdEoox.png" ,Flashback TV
+http://nrpus.bozztv.com/36bay2/gusa-TVSFlashback/index.m3u8
+#EXTINF:-1 group-title="🇺🇸CANAIS AMERICANOS🇺🇸" tvg-logo="https://i.imgur.com/hV46zMX.png" ,Folk TV
+http://584b0aa350b92.streamlock.net:1935/folk-tv/myStream.sdp/playlist.m3u8
+#EXTINF:-1 group-title="🇺🇸CANAIS AMERICANOS🇺🇸" tvg-logo="https://i.imgur.com/BVrMQch.png" ,Food 52
+https://dai2.xumo.com/xumocdn/p=redbox&deviceid=&is_lat=&subp=RedboxdesktopWebLinux/amagi_hls_data_xumo1212A-redboxfood52A/CDN/playlist.m3u8
+#EXTINF:-1 group-title="🇺🇸CANAIS AMERICANOS🇺🇸" tvg-logo="https://i.imgur.com/xjCtEPH.png" ,Food52
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-food52/CDN/1280x720_5000000/index.m3u8
+#EXTINF:-1 group-title="🇺🇸CANAIS AMERICANOS🇺🇸" tvg-logo="https://i.imgur.com/NKW3gW7.png" ,Forests Live
+https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c953836932c837b49397355/playlist.m3u8
+#EXTINF:-1 group-title="🇺🇸CANAIS AMERICANOS🇺🇸" tvg-logo="https://i.imgur.com/wljet7U.png" ,Free Speech TV
+https://edge.free-speech-tv-live.top.comcast.net/out/u/fstv.m3u8
+#EXTINF:-1 group-title="🇺🇸CANAIS AMERICANOS🇺🇸" tvg-logo="https://i.imgur.com/K1kJf1s.png" ,FTF (For the Fans)
+https://eleven-rebroadcast-samsung.roku.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 group-title="🇺🇸CANAIS AMERICANOS🇺🇸" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/fubo-sports-network.png" ,fubo Sports Network
+https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-5eea605474085f0040ddc776?X-Plex-Token=MorUy57ijWhGe4ixZb_T
+#EXTINF:-1 group-title="🇺🇸CANAIS AMERICANOS🇺🇸" tvg-logo="https://i.imgur.com/qmjK72w.png" ,Fun Zone
+https://stitcheraws.unreel.me/wse-node02.powr.com/live/5e2625030145130f25474622/playlist.m3u8
+#EXTINF:-1 group-title="🇺🇸CANAIS AMERICANOS🇺🇸" tvg-logo="https://i.imgur.com/mGIeNl2.png" ,Galveston County TV
+https://stream.swagit.com/live-edge/galvestontx/smil:hd-16x9-1-b/playlist.m3u8
+#EXTINF:-1 group-title="🇺🇸CANAIS AMERICANOS🇺🇸" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/gsn_gameshowchannnel_1.png" ,Game Show Central
+https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-5eea605574085f0040ddc782?X-Plex-Token=MorUy57ijWhGe4ixZb_T
+#EXTINF:-1 group-title="🇺🇸CANAIS AMERICANOS🇺🇸" tvg-logo="https://i.imgur.com/K1kJf1s.png" ,Game Show Central
+https://gsn-gameshowchannnel-2.roku.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 group-title="🇺🇸CANAIS AMERICANOS🇺🇸" tvg-logo="https://i.imgur.com/MMCKDpf.png" ,Gameplay
+https://5ab2d7093e38404091ca44d800f6c4c4.mediatailor.us-east-1.amazonaws.com/v1/master/82ded7a88773aef3d6dd1fedce15ba2d57eb6bca/wse_powr_com_5d42f01baea0c5699f368901/playlist.m3u8
+#EXTINF:-1 group-title="🇺🇸CANAIS AMERICANOS🇺🇸" tvg-logo="https://i.imgur.com/Anlb1SP.png" ,Genesis TV
+http://201.144.184.98:1935/genesis/smil:television.smil/playlist.m3u8
+#EXTINF:-1 group-title="🇺🇸CANAIS AMERICANOS🇺🇸" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/gfntv_logo_dark.png" ,GFN TV
+https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-5fc6f3a92b6f7b002e77ffad?X-Plex-Token=MorUy57ijWhGe4ixZb_T
+#EXTINF:-1 group-title="🇺🇸CANAIS AMERICANOS🇺🇸" tvg-logo="https://i.imgur.com/Pr5GWWg.png" ,Giggle Zone
+https://stitcheraws.unreel.me/wse-node02.powr.com/live/5bf22526d5eeee0f5a4094b8/playlist.m3u8
+#EXTINF:-1 group-title="🇺🇸CANAIS AMERICANOS🇺🇸" tvg-logo="https://i.imgur.com/TAGILVe.png" ,Glendale 11 - Arizona
+https://stream.swagit.com/live-edge/glendaleaz/smil:std-4x3-1-a/chunklist.m3u8
+#EXTINF:-1 group-title="🇺🇸CANAIS AMERICANOS🇺🇸" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/glewedtv_3.png" ,Glewed.TV
+https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-5eea605474085f0040ddc76d?X-Plex-Token=MorUy57ijWhGe4ixZb_T
+#EXTINF:-1 group-title="🇺🇸CANAIS AMERICANOS🇺🇸" tvg-logo="https://i.imgur.com/Anlb1SP.png" ,Global Calgary
+https://dfmjr9irb1dl5.cloudfront.net/out/v1/454010ff309e4963a087f5802856e346/index_1.m3u8
+#EXTINF:-1 group-title="🇺🇸CANAIS AMERICANOS🇺🇸" tvg-logo="https://i.imgur.com/QHiOf7Z.png" ,Global Got Talent
+https://dai2.xumo.com/xumocdn/p=redbox&deviceid=&is_lat=&subp=RedboxdesktopWebLinux/amagi_hls_data_xumo1212A-redboxgottalentglobal/CDN/playlist.m3u8
+#EXTINF:-1 group-title="🇺🇸CANAIS AMERICANOS🇺🇸" tvg-logo="https://i.imgur.com/71wy2NY.png" ,Golden TV
+https://nrpus.bozztv.com/36bay2/gusa-goldentv/index.m3u8
+#EXTINF:-1 group-title="🇺🇸CANAIS AMERICANOS🇺🇸" tvg-logo="https://i.imgur.com/Anlb1SP.png" ,Gracia Tv
+http://v3.tustreaming.cl/graciatv/live1/index.m3u8
+#EXTINF:-1 group-title="🇺🇸CANAIS AMERICANOS🇺🇸" tvg-logo="https://i.imgur.com/uvgzOP5.png" ,Gravitas Movies
+https://dai2.xumo.com/xumocdn/p=redbox&deviceid=&is_lat=&subp=RedboxdesktopWebLinux/amagi_hls_data_xumo1212A-redboxgravitas/CDN/playlist.m3u8
+#EXTINF:-1 group-title="🇺🇸CANAIS AMERICANOS🇺🇸" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/gravitas_movies.png" ,Gravitas Movies
+https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-5efe1de7e0b3f5003f5d9f8e?X-Plex-Token=MorUy57ijWhGe4ixZb_T
+#EXTINF:-1 group-title="🇺🇸CANAIS AMERICANOS🇺🇸" tvg-logo="https://i.imgur.com/uxUqIVT.png" ,Greenbelt TV
+https://t07113a-lh.akamaihd.net/i/t07113a_1@756729/master.m3u8?set-akamai-hls-revision=5&set-cc-attribute=none
+#EXTINF:-1 group-title="🇺🇸CANAIS AMERICANOS🇺🇸" tvg-logo="https://i.imgur.com/fuf9HAz.png" ,Greensboro TV Network
+http://granicusliveus4-a.akamaihd.net/greensboro/G0197_003/chunklist.m3u8
+#EXTINF:-1 group-title="🇺🇸CANAIS AMERICANOS🇺🇸" tvg-logo="https://i.imgur.com/L0aXwHX.png" ,Gusto TV
+https://a.jsrdn.com/broadcast/ebf95254ca/+0000/low/c.m3u8
+#EXTINF:-1 group-title="🇺🇸CANAIS AMERICANOS🇺🇸" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/gusto-tv-logo.png" ,Gusto TV
+https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-5f8746eabd529300418246d9?X-Plex-Token=MorUy57ijWhGe4ixZb_T
+#EXTINF:-1 group-title="🇺🇸CANAIS AMERICANOS🇺🇸" tvg-logo="https://i.imgur.com/K1kJf1s.png" ,Gusto TV
+https://gustotv-gustotv-1.roku.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 group-title="🇺🇸CANAIS AMERICANOS🇺🇸" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/hardknocks_logo_dark.png" ,Hard Knocks
+https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-5fd115bdb7ef8d002dcf1820?X-Plex-Token=MorUy57ijWhGe4ixZb_T
+#EXTINF:-1 group-title="🇺🇸CANAIS AMERICANOS🇺🇸" tvg-logo="https://i.imgur.com/NO7y3tt.png" ,HBCU Game Day
+https://nrpus.bozztv.com/36bay2/gusa-HBCU/index.m3u8
+#EXTINF:-1 group-title="🇺🇸CANAIS AMERICANOS🇺🇸" tvg-logo="https://i.imgur.com/Anlb1SP.png" ,Hermanas Mirabal Canal 33 Salcedo
+http://cm.hostlagarto.com:8081/Hmtv/hmtv.myStream/chunks.m3u8
+#EXTINF:-1 group-title="🇺🇸CANAIS AMERICANOS🇺🇸" tvg-logo="https://i.imgur.com/6g3c2Yb.png" ,Hi-Yah!
+http://dai2.xumo.com/xumocdn/p=redbox&deviceid=&is_lat=&subp=RedboxdesktopWebLinux/amagi_hls_data_xumo1212A-redboxhi-ya/CDN/playlist.m3u8
+#EXTINF:-1 group-title="🇺🇸CANAIS AMERICANOS🇺🇸" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/hi-yah!_logo.png" ,Hi-YAH!
+https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-5f64c4ef35f612003f6ffe30?X-Plex-Token=MorUy57ijWhGe4ixZb_T
+#EXTINF:-1 group-title="🇺🇸CANAIS AMERICANOS🇺🇸" tvg-logo="https://i.imgur.com/MMCKDpf.png" ,High Times TV
+https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c7e2503932c8368bdbfd875/playlist.m3u8
+#EXTINF:-1 group-title="🇺🇸CANAIS AMERICANOS🇺🇸" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/hollywire_samsung.png" ,Hollywire
+https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-5f5132e662fe160040f26c50?X-Plex-Token=MorUy57ijWhGe4ixZb_T
+#EXTINF:-1 group-title="🇺🇸CANAIS AMERICANOS🇺🇸" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/vitor_hollywoodclassics_1.png" ,Hollywood Classics
+https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-5f0ff265d71dcb00449ec02d?X-Plex-Token=MorUy57ijWhGe4ixZb_T
+#EXTINF:-1 group-title="🇺🇸CANAIS AMERICANOS🇺🇸" tvg-logo="https://i.imgur.com/FwXJj0L.png" ,Honor TV
+https://a.jsrdn.com/broadcast/d5b48/+0000/high/c.m3u8
+#EXTINF:-1 group-title="🇺🇸CANAIS AMERICANOS🇺🇸" tvg-logo="https://i.imgur.com/sjOIOkK.png" ,Horizon Sports
+https://a.jsrdn.com/broadcast/20dc4269f3/+0000/c.m3u8
+#EXTINF:-1 group-title="🇺🇸CANAIS AMERICANOS🇺🇸" tvg-logo="https://i.imgur.com/Vfms5FO.png" ,Horror
+https://5f11a6bb1fcb4f22addc43cd31c84b5e.mediatailor.us-east-1.amazonaws.com/v1/master/82ded7a88773aef3d6dd1fedce15ba2d57eb6bca/wse_powr_com_5f89ad2f3d50841f3d796fdf/playlist.m3u8
+#EXTINF:-1 group-title="🇺🇸CANAIS AMERICANOS🇺🇸" tvg-logo="https://i.imgur.com/Jis8xic.png" ,Hot Rock TV
+https://nrpus.bozztv.com/36bay2/gusa-hotrock/index.m3u8
+#EXTINF:-1 group-title="🇺🇸CANAIS AMERICANOS🇺🇸" tvg-logo="https://i.imgur.com/zkaqNkN.png" ,HSN
+https://html5-lh.akamaihd.net/i/html5_01@182967/master.m3u8
+#EXTINF:-1 group-title="🇺🇸CANAIS AMERICANOS🇺🇸" tvg-logo="https://i.imgur.com/5X0GYny.png" ,HSN 2
+https://hsn2html5-lh.akamaihd.net/i/hsn2html5_01@13178/master.m3u8
+#EXTINF:-1 group-title="🇺🇸CANAIS AMERICANOS🇺🇸" tvg-logo="https://i.imgur.com/zvj1boM.jpg" ,HTV 1 - Houston Television
+https://stream.swagit.com/live-edge/houstontx/smil:hd-16x9-2-a/chunklist_w444601733_b1628000.m3u8
+#EXTINF:-1 group-title="🇺🇸CANAIS AMERICANOS🇺🇸" tvg-logo="https://i.imgur.com/zvj1boM.jpg" ,HTV 2 - Houston Television
+https://stream.swagit.com/live-edge/houstontx/smil:hd-16x9-2-b/playlist.m3u8
+#EXTINF:-1 group-title="🇺🇸CANAIS AMERICANOS🇺🇸" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/humormill_logo_dark.png" ,Humor Mill
+https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-5fd115b7b7ef8d002dcf1814?X-Plex-Token=MorUy57ijWhGe4ixZb_T
+#EXTINF:-1 group-title="🇺🇸CANAIS AMERICANOS🇺🇸" tvg-logo="https://i.imgur.com/mzU8eV2.jpg" ,HUMRAAZ TV
+http://cdn61.liveonlineservices.com/hls/humraaz.m3u8
+#EXTINF:-1 group-title="🇺🇸CANAIS AMERICANOS🇺🇸" tvg-logo="https://i.imgur.com/DkvWWbE.png" ,Hunt Channel
+https://1111296894.rsc.cdn77.org/LS-ATL-56868-1/index.m3u8
+#EXTINF:-1 group-title="🇺🇸CANAIS AMERICANOS🇺🇸" tvg-logo="https://i.imgur.com/q1JeHsc.png" ,IDG
+http://a.jsrdn.com/broadcast/529a360c04/+0000/high/c.m3u8
+#EXTINF:-1 group-title="🇺🇸CANAIS AMERICANOS🇺🇸" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/ign-tv.png" ,IGN TV
+https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-5eea605474085f0040ddc77c?X-Plex-Token=MorUy57ijWhGe4ixZb_T
+#EXTINF:-1 group-title="🇺🇸CANAIS AMERICANOS🇺🇸" tvg-logo="https://i.imgur.com/IJZPsQh.jpg" ,Infowars TV
+https://freespeech.akamaized.net/hls/live/2016712/live2/playlist.m3u8
+#EXTINF:-1 group-title="🇺🇸CANAIS AMERICANOS🇺🇸" tvg-logo="https://i.imgur.com/CKCtZo7.png" ,Investment Pitch
+http://www.30a-tv.com/InvPit.m3u8
+#EXTINF:-1 group-title="🇺🇸CANAIS AMERICANOS🇺🇸" tvg-logo="https://i.imgur.com/h0UDljE.png" ,It's At The Movies
+https://nimble.dashstreams.net/onestudio/its_comming_soon/chunks.m3u8
+#EXTINF:-1 group-title="🇺🇸CANAIS AMERICANOS🇺🇸" tvg-logo="https://i.imgur.com/Anlb1SP.png" ,Jacksonville - WJAX Action News (Opt-1) (New!)
+http://svc-lvanvato-cxtv-wjax.cmgvideo.com/wjax/2564k/index.m3u8
+#EXTINF:-1 group-title="🇺🇸CANAIS AMERICANOS🇺🇸" tvg-logo="https://i.imgur.com/pHJm3I0.png" ,JBS
+http://uni8rtmp.tulix.tv:1935/shalomtv-pc/smil:shalomtv.smil/master.m3u8
+#EXTINF:-1 group-title="🇺🇸CANAIS AMERICANOS🇺🇸" tvg-logo="https://i.imgur.com/sAfnZip.png" ,Jerry Springer
+https://057ed30176c1453da6d54e583b32852b.mediatailor.us-east-1.amazonaws.com/v1/master/82ded7a88773aef3d6dd1fedce15ba2d57eb6bca/wse_powr_com_5eb1e7f848f1ff2e1d2555a2/playlist.m3u8
+#EXTINF:-1 group-title="🇺🇸CANAIS AMERICANOS🇺🇸" tvg-logo="https://i.imgur.com/Anlb1SP.png" ,Jewish Life TV
+http://d3svwuchx5fp62.cloudfront.net/rtplive/smil:jltv.smil/chunklist.m3u8
+#EXTINF:-1 group-title="🇺🇸CANAIS AMERICANOS🇺🇸" tvg-logo="https://i.imgur.com/FtZ7Q1x.png" ,Journy
+https://dai2.xumo.com/xumocdn/p=redbox&deviceid=&is_lat=&subp=RedboxdesktopWebLinux/amagi_hls_data_xumo1212A-redboxjourny/CDN/playlist.m3u8
+#EXTINF:-1 group-title="🇺🇸CANAIS AMERICANOS🇺🇸" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/journy.png" ,Journy
+https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-5f5132df62fe160040f26bc2?X-Plex-Token=MorUy57ijWhGe4ixZb_T
+#EXTINF:-1 group-title="🇺🇸CANAIS AMERICANOS🇺🇸" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/judge_faith_1.png" ,Judge Faith
+https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-5f5132da62fe160040f26b5b?X-Plex-Token=MorUy57ijWhGe4ixZb_T
+#EXTINF:-1 group-title="🇺🇸CANAIS AMERICANOS🇺🇸" tvg-logo="https://i.imgur.com/rku6tmo.png" ,Judge Karen's Court
+https://cb5273f195a147f2bcf23544e4495f66.mediatailor.us-east-1.amazonaws.com/v1/master/82ded7a88773aef3d6dd1fedce15ba2d57eb6bca/wse_powr_com_5eb1e7261474f9020c06f9ec/playlist.m3u8
+#EXTINF:-1 group-title="🇺🇸CANAIS AMERICANOS🇺🇸" tvg-logo="https://i.imgur.com/G0eQuH9.png" ,Jurnal TV HD
+http://myott.tv/stream/W97W9W8W27/277.m3u8
+#EXTINF:-1 group-title="🇺🇸CANAIS AMERICANOS🇺🇸" tvg-logo="https://i.imgur.com/Anlb1SP.png" ,Justicia TV (Opt-2)
+https://live.scjn.gob.mx/EVLiveSCJN/_definst_/mp4:YXWKLCDT/chunklist_w1760841144.m3u8
+#EXTINF:-1 group-title="🇺🇸CANAIS AMERICANOS🇺🇸" tvg-logo="https://i.imgur.com/QL40Cv2.png" ,Kabillion
+https://dai2.xumo.com/xumocdn/p=redbox&deviceid=&is_lat=&subp=RedboxdesktopWebLinux/amagi_hls_data_xumo1212A-redboxkabillion/CDN/playlist.m3u8
+#EXTINF:-1 group-title="🇺🇸CANAIS AMERICANOS🇺🇸" tvg-logo="https://i.imgur.com/Anlb1SP.png" ,Kanal 101
+http://s01.vpis.io/kanal101/kanal101.m3u8
+#EXTINF:-1 group-title="🇺🇸CANAIS AMERICANOS🇺🇸" tvg-logo="https://i.imgur.com/Anlb1SP.png" ,Kanal 3 (Opt-2)
+http://stream.taksimbilisim.com:1935/kanal3/smil:kanal3.smil/playlist.m3u8
+#EXTINF:-1 group-title="🇺🇸CANAIS AMERICANOS🇺🇸" tvg-logo="https://i.imgur.com/Anlb1SP.png" ,Kanal 33
+http://stream.taksimbilisim.com:1935/kanal33/smil:kanal33.smil/.m3u8
+#EXTINF:-1 group-title="🇺🇸CANAIS AMERICANOS🇺🇸" tvg-logo="https://i.imgur.com/Anlb1SP.png" ,Kanal 34
+http://live.arkumedia.com:1935/kanal34tv/kanal34tv/chunklist.m3u8
+#EXTINF:-1 group-title="🇺🇸CANAIS AMERICANOS🇺🇸" tvg-logo="https://i.imgur.com/Anlb1SP.png" ,Kanal Urfa (Opt-3)
+http://stream.taksimbilisim.com:1935/kanalurfa/smil:kanalurfa.smil/.m3u8
+#EXTINF:-1 group-title="🇺🇸CANAIS AMERICANOS🇺🇸" tvg-logo="https://i.imgur.com/Anlb1SP.png" ,Kay TV Kayseri
+http://yayin3.canlitv.com:1935/canlitv/kaytv/playlist.m3u8
+#EXTINF:-1 group-title="🇺🇸CANAIS AMERICANOS🇺🇸" tvg-logo="https://i.imgur.com/0oRXnzz.png" ,KBVR TV
+http://klive-a.akamaihd.net/dc-0/live/hls/p/391241/e/0_bthpnu1j/sd/10000/t/YwqLo1YivB_aumq-LxAuWg/master.m3u8
+#EXTINF:-1 group-title="🇺🇸CANAIS AMERICANOS🇺🇸" tvg-logo="https://i.imgur.com/ocMGZM6.png" ,KET
+https://2-fss-1.streamhoster.com/pl_134/amlst:200914-1282960/chunklist.m3u8
+#EXTINF:-1 group-title="🇺🇸CANAIS AMERICANOS🇺🇸" tvg-logo="https://i.imgur.com/96POFOB.png" ,KEY TV
+http://media4.tripsmarter.com:1935/LiveTV/KTVHD/chunklist_w363623166.m3u8
+#EXTINF:-1 group-title="🇺🇸CANAIS AMERICANOS🇺🇸" tvg-logo="https://i.imgur.com/Anlb1SP.png" ,Khabrain Abhi Tak
+https://vidcdn.vidgyor.com/kat-origin/liveabr/kat-origin/live1/chunks.m3u8
+#EXTINF:-1 group-title="🇺🇸CANAIS AMERICANOS🇺🇸" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/kidoodletv_logo_v3.png" ,Kidoodle TV
+https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-5eea605574085f0040ddc79a?X-Plex-Token=MorUy57ijWhGe4ixZb_T
+#EXTINF:-1 group-title="🇺🇸CANAIS AMERICANOS🇺🇸" tvg-logo="https://i.imgur.com/Anlb1SP.png" ,Kids Click (Geo)
+https://usgeowall.sinclairstoryline.com/channel/1698bf57810a48c486b83d542bca298d.m3u8
+#EXTINF:-1 group-title="🇺🇸CANAIS AMERICANOS🇺🇸" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/kidsflix.png" ,KidsFlix
+https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-5eea605574085f0040ddc797?X-Plex-Token=MorUy57ijWhGe4ixZb_T
+#EXTINF:-1 group-title="🇺🇸CANAIS AMERICANOS🇺🇸" tvg-logo="https://i.imgur.com/os5b80c.jpg" ,KIRO 7 News
+https://d3brkxnx500hx8.cloudfront.net/v1/manifest/77872db67918a151b697b5fbc23151e5765767dc/cmg_PROD_cmg-tv-10090_8e38113f-0933-4706-b0c6-ae96ab12921c_LE/124adea9-222d-43fc-b08c-a1b9d98a6326/0.m3u8
+#EXTINF:-1 group-title="🇺🇸CANAIS AMERICANOS🇺🇸" tvg-logo="https://i.imgur.com/Anlb1SP.png" ,KIRO 7 News (KIRO-TV)
+http://svc-lvanvato-cxtv-kiro.cmgvideo.com:80/kiro/1864k/index.m3u8
+#EXTINF:-1 group-title="🇺🇸CANAIS AMERICANOS🇺🇸" tvg-logo="https://i.imgur.com/Anlb1SP.png" ,KIRO 7 News (Seattle)
+http://svc-lvanvato-cxtv-kiro.cmgvideo.com/kiro/1864k/index.m3u8
+#EXTINF:-1 group-title="🇺🇸CANAIS AMERICANOS🇺🇸" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/kmtvnow_samsung.png" ,KMTV
+https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-5ef4e1b40d9ad000423c4424?X-Plex-Token=MorUy57ijWhGe4ixZb_T
+#EXTINF:-1 group-title="🇺🇸CANAIS AMERICANOS🇺🇸" tvg-logo="https://i.imgur.com/XgF6S22.png" ,KMTV 3
+http://content.uplynk.com/channel/328d1434fb51476cb6567c74d5b2cc70.m3u8
+#EXTINF:-1 group-title="🇺🇸CANAIS AMERICANOS🇺🇸" tvg-logo="https://i.imgur.com/Anlb1SP.png" ,KMTV Omaha
+https://content.uplynk.com/4a09fbea28ef4f32bce095e9eae04bd8.m3u8
+#EXTINF:-1 group-title="🇺🇸CANAIS AMERICANOS🇺🇸" tvg-logo="https://i.imgur.com/c33k1Cp.png" ,KMTV Omaha
+https://content.uplynk.com/channel/328d1434fb51476cb6567c74d5b2cc70.m3u8
+#EXTINF:-1 group-title="🇺🇸CANAIS AMERICANOS🇺🇸" tvg-logo="https://i.imgur.com/g9qLJ2l.jpg" ,KOMO News
+https://content.uplynk.com/2c88dfe19e1447e6a6aa27e8e143a140.m3u8
+#EXTINF:-1 group-title="🇺🇸CANAIS AMERICANOS🇺🇸" tvg-logo="https://i.imgur.com/Anlb1SP.png" ,Kool London Radio (UK)
+http://w10.streamgb.com:1935/kool/kool/playlist.m3u8
+#EXTINF:-1 group-title="🇺🇸CANAIS AMERICANOS🇺🇸" tvg-logo="https://i.imgur.com/JH99Psi.jpg" ,KTLA 5
+https://content.uplynk.com/channel/6cbf2d32a5384dc1b787539b1102433c.m3u8
+#EXTINF:-1 group-title="🇺🇸CANAIS AMERICANOS🇺🇸" tvg-logo="https://i.imgur.com/Anlb1SP.png" ,Kud�s TV
+http://yayin10.canliyayin.org/P981680400/kudustv/chunklist_w1008271460.m3u8
+#EXTINF:-1 group-title="🇺🇸CANAIS AMERICANOS🇺🇸" tvg-logo="https://i.imgur.com/Anlb1SP.png" ,Kurdsat
+https://bozztv.com/36bay2/gin/giniko_kurdsat_700kb_36bay2/playlist.m3u8
+#EXTINF:-1 group-title="🇺🇸CANAIS AMERICANOS🇺🇸" tvg-logo="https://i.imgur.com/FzxuNhl.png" ,KVVB-TV 33
+https://2-fss-2.streamhoster.com/pl_138/amlst:201950-1309230/chunklist_b1000000.m3u8
+#EXTINF:-1 group-title="🇺🇸CANAIS AMERICANOS🇺🇸" tvg-logo="https://i.imgur.com/ijurD8t.png" ,Lakes Live
+https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c95385c932c837b49397356/playlist.m3u8
+#EXTINF:-1 group-title="🇺🇸CANAIS AMERICANOS🇺🇸" tvg-logo="https://i.imgur.com/Anlb1SP.png" ,Las Vegas - 13 Action News (New!)
+https://content.uplynk.com/channel/39919d3f7a074eefa8bf579214e952f9.m3u8
+#EXTINF:-1 group-title="🇺🇸CANAIS AMERICANOS🇺🇸" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/latido-music-logo.png" ,Latido Music
+https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-5f598c33465f860041cd2dee?X-Plex-Token=MorUy57ijWhGe4ixZb_T
+#EXTINF:-1 group-title="🇺🇸CANAIS AMERICANOS🇺🇸" tvg-logo="https://i.imgur.com/JsHqCfm.jpg" ,Latido Music (US)
+https://vidaprimo-plex.amagi.tv/amRdirect/us_privacy=1---&did=3f68a808-1437-5e57-9eaf-7a12279d9462&dnt=0&X-Plex-Token=nkPyxTGm41qFS7TFC9Yh&channelId=5f598c33465f860041cd2dee/hls/amagi_hls_data_vidaprimo-vidaprimo-plex/CDN/720x404_1460800/index.m3u8
+#EXTINF:-1 group-title="🇺🇸CANAIS AMERICANOS🇺🇸" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/latin-x-loop.png" ,Latin x Loop
+https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-5eea71d75252710041e0ccd4?X-Plex-Token=MorUy57ijWhGe4ixZb_T
+#EXTINF:-1 group-title="🇺🇸CANAIS AMERICANOS🇺🇸" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/lawandcrime_samsung.png" ,Law & Crime
+https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-5eea605674085f0040ddc79d?X-Plex-Token=MorUy57ijWhGe4ixZb_T
+#EXTINF:-1 group-title="🇺🇸CANAIS AMERICANOS🇺🇸" tvg-logo="https://i.imgur.com/HY64Nhe.png" ,Law & Crime Network
+https://dai2.xumo.com/amagi_hls_data_xumo1234A-lawcrime/CDN/master.m3u8
+#EXTINF:-1 group-title="🇺🇸CANAIS AMERICANOS🇺🇸" tvg-logo="https://i.imgur.com/0ksEr4f.png" ,Lego Toons
+https://stitcheraws.unreel.me/wse-node02.powr.com/live/5bf22549d5eeee0f5a4094ba/playlist.m3u8
+#EXTINF:-1 group-title="🇺🇸CANAIS AMERICANOS🇺🇸" tvg-logo="https://i.imgur.com/lW4n39E.png" ,Let's Play Minecraft
+https://stitcheraws.unreel.me/wse-node02.powr.com/live/5e2625700145130f25474624/playlist.m3u8
+#EXTINF:-1 group-title="🇺🇸CANAIS AMERICANOS🇺🇸" tvg-logo="https://i.imgur.com/Anlb1SP.png" ,Lex TV
+http://granicusliveus2-a.akamaihd.net/lfucg/G0264_002/chunklist_w831870727.m3u8
+#EXTINF:-1 group-title="🇺🇸CANAIS AMERICANOS🇺🇸" tvg-logo="https://i.imgur.com/Anlb1SP.png" ,Life TV
+https://d3cbe0gidjd4k2.cloudfront.net/channel_6/channel6/playlist.m3u8
+#EXTINF:-1 group-title="🇺🇸CANAIS AMERICANOS🇺🇸" tvg-logo="https://i.imgur.com/8aNLwPG.png" ,Lifebae
+https://stitcheraws.unreel.me/wse-node02.powr.com/live/5bf22681932c8304fc453418/playlist.m3u8
+#EXTINF:-1 group-title="🇺🇸CANAIS AMERICANOS🇺🇸" tvg-logo="https://i.imgur.com/Anlb1SP.png" ,LifevisionTV
+http://uni5rtmp.tulix.tv/lifevision/lifevision.stream/playlist.m3u8
+#EXTINF:-1 group-title="🇺🇸CANAIS AMERICANOS🇺🇸" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/lively-place-logo.png" ,Lively Place
+https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-5f74cf82ffbe690040689f47?X-Plex-Token=MorUy57ijWhGe4ixZb_T
+#EXTINF:-1 group-title="🇺🇸CANAIS AMERICANOS🇺🇸" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/loop-80s.png" ,Loop 80's
+https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-5eea71d75252710041e0ccbf?X-Plex-Token=MorUy57ijWhGe4ixZb_T
+#EXTINF:-1 group-title="🇺🇸CANAIS AMERICANOS🇺🇸" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/loop-90s.png" ,Loop 90's
+https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-5eea71d85252710041e0ccdd?X-Plex-Token=MorUy57ijWhGe4ixZb_T
+#EXTINF:-1 group-title="🇺🇸CANAIS AMERICANOS🇺🇸" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/loop-beast.png" ,Loop Beast
+https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-5eea71d75252710041e0ccc2?X-Plex-Token=MorUy57ijWhGe4ixZb_T
+#EXTINF:-1 group-title="🇺🇸CANAIS AMERICANOS🇺🇸" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/loop-bedroom.png" ,Loop Bedroom
+https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-5eea71d75252710041e0ccc5?X-Plex-Token=MorUy57ijWhGe4ixZb_T
+#EXTINF:-1 group-title="🇺🇸CANAIS AMERICANOS🇺🇸" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/loop-electronica.png" ,Loop Electronica
+https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-5eea71d85252710041e0ccf2?X-Plex-Token=MorUy57ijWhGe4ixZb_T
+#EXTINF:-1 group-title="🇺🇸CANAIS AMERICANOS🇺🇸" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/loop-far-out.png" ,Loop Far Out
+https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-5f2863338bc40f00420a0694?X-Plex-Token=MorUy57ijWhGe4ixZb_T
+#EXTINF:-1 group-title="🇺🇸CANAIS AMERICANOS🇺🇸" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/loop-flashback.png" ,Loop Flashback
+https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-5eea71d85252710041e0ccd7?X-Plex-Token=MorUy57ijWhGe4ixZb_T
+#EXTINF:-1 group-title="🇺🇸CANAIS AMERICANOS🇺🇸" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/loop-hip-hop.png" ,Loop Hip Hop
+https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-5eea71d75252710041e0cccb?X-Plex-Token=MorUy57ijWhGe4ixZb_T
+#EXTINF:-1 group-title="🇺🇸CANAIS AMERICANOS🇺🇸" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/loop-hottest.png" ,Loop Hottest
+https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-5eea71d75252710041e0ccd1?X-Plex-Token=MorUy57ijWhGe4ixZb_T
+#EXTINF:-1 group-title="🇺🇸CANAIS AMERICANOS🇺🇸" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/loop-randb.png" ,Loop R&B
+https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-5eea71d75252710041e0ccce?X-Plex-Token=MorUy57ijWhGe4ixZb_T
+#EXTINF:-1 group-title="🇺🇸CANAIS AMERICANOS🇺🇸" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/loop-synapse.png" ,Loop Synapse
+https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-5eea71d85252710041e0ccda?X-Plex-Token=MorUy57ijWhGe4ixZb_T
+#EXTINF:-1 group-title="🇺🇸CANAIS AMERICANOS🇺🇸" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/loop-texas-tunes.png" ,Loop Texas Tunes
+https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-5eea71d85252710041e0cce0?X-Plex-Token=MorUy57ijWhGe4ixZb_T
+#EXTINF:-1 group-title="🇺🇸CANAIS AMERICANOS🇺🇸" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/loop-tgif.png" ,Loop TGIF
+https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-5eea71d75252710041e0ccc8?X-Plex-Token=MorUy57ijWhGe4ixZb_T
+#EXTINF:-1 group-title="🇺🇸CANAIS AMERICANOS🇺🇸" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/loop-thats-hot-v2.png" ,Loop That's Hot
+https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-5eea71d85252710041e0cce6?X-Plex-Token=MorUy57ijWhGe4ixZb_T
+#EXTINF:-1 group-title="🇺🇸CANAIS AMERICANOS🇺🇸" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/loop-trending-v2.png" ,Loop Trending
+https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-5eea71d85252710041e0cce9?X-Plex-Token=MorUy57ijWhGe4ixZb_T
+#EXTINF:-1 group-title="🇺🇸CANAIS AMERICANOS🇺🇸" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/loop-unwind-v2.png" ,Loop Unwind
+https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-5eea71d85252710041e0ccec?X-Plex-Token=MorUy57ijWhGe4ixZb_T
+#EXTINF:-1 group-title="🇺🇸CANAIS AMERICANOS🇺🇸" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/loop-yacht-rock-v2.png" ,Loop Yacht Rock
+https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-5eea71d85252710041e0ccef?X-Plex-Token=MorUy57ijWhGe4ixZb_T
+#EXTINF:-1 group-title="🇺🇸CANAIS AMERICANOS🇺🇸" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/love-destination.png" ,Love Destination
+https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-5eea605674085f0040ddc7a9?X-Plex-Token=MorUy57ijWhGe4ixZb_T
+#EXTINF:-1 group-title="🇺🇸CANAIS AMERICANOS🇺🇸" tvg-logo="https://i.imgur.com/YnOZtNm.png" ,LoveWorld USA
+https://loveworldusa-lh.akamaihd.net/i/lwusa2_1@514985/master.m3u8
+#EXTINF:-1 group-title="🇺🇸CANAIS AMERICANOS🇺🇸" tvg-logo="https://i.imgur.com/Anlb1SP.png" ,Luys TV (TR)
+http://luyse.mediatriple.net/luystv/luystv.smil/chunklist.m3u8
+#EXTINF:-1 group-title="🇺🇸CANAIS AMERICANOS🇺🇸" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/connection3_ent.png" ,Made In Hollywood
+https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-5efe1de6e0b3f5003f5d9f85?X-Plex-Token=MorUy57ijWhGe4ixZb_T
+#EXTINF:-1 group-title="🇺🇸CANAIS AMERICANOS🇺🇸" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/magellantv_1.png" ,MagellanTV NOW
+https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-5f5132e262fe160040f26bf2?X-Plex-Token=MorUy57ijWhGe4ixZb_T
+#EXTINF:-1 group-title="🇺🇸CANAIS AMERICANOS🇺🇸" tvg-logo="https://i.imgur.com/4GQ78zv.png" ,Master Builders
+https://stitcheraws.unreel.me/wse-node02.powr.com/live/5bf2256ed5eeee0f5a4094bb/playlist.m3u8
+#EXTINF:-1 group-title="🇺🇸CANAIS AMERICANOS🇺🇸" tvg-logo="https://i.imgur.com/HXi8HG8.png" ,Maury
+https://43eed3df38d04ed7a3be7cc4ee510b43.mediatailor.us-east-1.amazonaws.com/v1/master/82ded7a88773aef3d6dd1fedce15ba2d57eb6bca/wse_powr_com_5eb1e88458ad7801fa2cfc2e/playlist.m3u8
+#EXTINF:-1 group-title="🇺🇸CANAIS AMERICANOS🇺🇸" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/mavtv_1.png" ,MAV TV Select
+https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-5f0641d0e8ffda004033aff4?X-Plex-Token=MorUy57ijWhGe4ixZb_T
+#EXTINF:-1 group-title="🇺🇸CANAIS AMERICANOS🇺🇸" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/maverick_maverick_black_cinema_2.png" ,Maverick Black Cinema
+https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-5ef4e1b40d9ad000423c4430?X-Plex-Token=MorUy57ijWhGe4ixZb_T
+#EXTINF:-1 group-title="🇺🇸CANAIS AMERICANOS🇺🇸" tvg-logo="https://i.imgur.com/K1kJf1s.png" ,Maverick Black Cinema
+https://maverick-maverick-black-cinema-3.roku.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 group-title="🇺🇸CANAIS AMERICANOS🇺🇸" tvg-logo="https://i.imgur.com/iK3OHVr.png" ,Maverick Movies
+http://dai2.xumo.com/xumocdn/p=redbox&deviceid=&is_lat=&subp=RedboxdesktopWebLinux/amagi_hls_data_xumo1212A-redbox-maverickmovies/CDN/playlist.m3u8
+#EXTINF:-1 group-title="🇺🇸CANAIS AMERICANOS🇺🇸" tvg-logo="https://i.imgur.com/Anlb1SP.png" ,Medi 1 TV Afrique
+https://streaming.medi1tv.com/live/Medi1tvAfrique.sdp/playlist.m3u8
+#EXTINF:-1 group-title="🇺🇸CANAIS AMERICANOS🇺🇸" tvg-logo="https://i.imgur.com/Anlb1SP.png" ,Medi 1 TV Maghreb
+https://streaming.medi1tv.com/live/Medi1tvmaghreb.sdp/playlist.m3u8
+#EXTINF:-1 group-title="🇺🇸CANAIS AMERICANOS🇺🇸" tvg-logo="https://i.imgur.com/Anlb1SP.png" ,Mello TV
+https://wowzaprod133-i.akamaihd.net/hls/live/577385/a1e0ad3f/playlist.m3u8
+#EXTINF:-1 group-title="🇺🇸CANAIS AMERICANOS🇺🇸" tvg-logo="https://i.imgur.com/Anlb1SP.png" ,Merkez TV Bolu
+http://broadcasttr.com:1935/merkeztv/smil:merkeztv.smil/chunklist.m3u8
+#EXTINF:-1 group-title="🇺🇸CANAIS AMERICANOS🇺🇸" tvg-logo="https://i.imgur.com/HJohrzO.png" ,Miami City TV
+https://granicusliveus9-a.akamaihd.net/miamifl/G2076_003/playlist.m3u8
+#EXTINF:-1 group-title="🇺🇸CANAIS AMERICANOS🇺🇸" tvg-logo="https://i.imgur.com/JmUUVL1.png" ,Miami TV
+https://59ec5453559f0.streamlock.net/miamitv/smil:miamitvROKU/chunklist_w823630935_b2592000.m3u8
+#EXTINF:-1 group-title="🇺🇸CANAIS AMERICANOS🇺🇸" tvg-logo="https://i.imgur.com/Anlb1SP.png" ,Microvision 10
+http://190.103.183.24:1935/live/MicroHD/chunklist_w1468779956.m3u8
+#EXTINF:-1 group-title="🇺🇸CANAIS AMERICANOS🇺🇸" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/midnightpulp_samsung.png" ,Midnight Pulp
+https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-5ef4e1b40d9ad000423c4427?X-Plex-Token=MorUy57ijWhGe4ixZb_T
+#EXTINF:-1 group-title="🇺🇸CANAIS AMERICANOS🇺🇸" tvg-logo="https://i.imgur.com/K1kJf1s.png" ,Midnight Pulp
+https://midnightpulp-samsung.roku.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 group-title="🇺🇸CANAIS AMERICANOS🇺🇸" tvg-logo="https://i.imgur.com/Anlb1SP.png" ,Milenio TV
+http://bcoveliveios-i.akamaihd.net:80/hls/live/201661/57828478001/milenio_center_512k@51752.m3u8
+#EXTINF:-1 group-title="🇺🇸CANAIS AMERICANOS🇺🇸" tvg-logo="https://i.imgur.com/5F3CgdU.png" ,Mo Laughter TV
+https://59d39900ebfb8.streamlock.net/molaughtertv/molaughtertv/playlist.m3u8
+#EXTINF:-1 group-title="🇺🇸CANAIS AMERICANOS🇺🇸" tvg-logo="https://i.imgur.com/Lwzdz8U.png" ,Mobcrush
+https://ott.mobcrush.com/hls/0/ott.m3u8
+#EXTINF:-1 group-title="🇺🇸CANAIS AMERICANOS🇺🇸" tvg-logo="https://i.imgur.com/XzKinh7.jpg" ,Models Inc.
+https://bozztv.com/36bay2/gin/giniko_modelinc_2000kb_36bay2/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="🇺🇸CANAIS AMERICANOS🇺🇸" tvg-logo="https://i.imgur.com/G0eQuH9.png" ,Moldova 2 HD
+http://www.trm.md/live/MoldovaDoi2/chunklist_w100565256.m3u8
+#EXTINF:-1 group-title="🇺🇸CANAIS AMERICANOS🇺🇸" tvg-logo="https://i.imgur.com/iSqYInb.png" ,Monarch TV
+https://a.jsrdn.com/broadcast/0c9a09c94c/+0000/low/c.m3u8
+#EXTINF:-1 group-title="🇺🇸CANAIS AMERICANOS🇺🇸" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/vitor_monsterkids_1-v2.png" ,Monster Kids
+https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-5efe1de5e0b3f5003f5d9f7c?X-Plex-Token=MorUy57ijWhGe4ixZb_T
+#EXTINF:-1 group-title="🇺🇸CANAIS AMERICANOS🇺🇸" tvg-logo="https://i.imgur.com/Anlb1SP.png" ,MONTE MARIA | SD (MX)
+http://162.212.176.51:1935/live/myStream/playlist.m3u8
+#EXTINF:-1 group-title="🇺🇸CANAIS AMERICANOS🇺🇸" tvg-logo="https://i.imgur.com/sIXA1mh.png" ,Motorcyclist
+http://a.jsrdn.com/broadcast/256ad9e679/+0000/high/c.m3u8
+#EXTINF:-1 group-title="🇺🇸CANAIS AMERICANOS🇺🇸" tvg-logo="https://i.imgur.com/VBkJrGv.png" ,Motorcyclist
+https://stitcheraws.unreel.me/wse-node02.powr.com/live/5bf2218bd5eeee0f5a40941b/playlist.m3u8
+#EXTINF:-1 group-title="🇺🇸CANAIS AMERICANOS🇺🇸" tvg-logo="https://i.imgur.com/XthH1RM.png" ,Mountains Live
+https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c95387b932c837b49397357/playlist.m3u8
+#EXTINF:-1 group-title="🇺🇸CANAIS AMERICANOS🇺🇸" tvg-logo="https://i.imgur.com/YgRz2Cc.png" ,Movie Kingdom TV
+https://a.jsrdn.com/broadcast/e9b4093a41/+0000/high/c.m3u8
+#EXTINF:-1 group-title="🇺🇸CANAIS AMERICANOS🇺🇸" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/moviesphere_logo_dark.png" ,MOVIESPHERE
+https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-5fb84bc1b7ad2d002dcb735f?X-Plex-Token=MorUy57ijWhGe4ixZb_T
+#EXTINF:-1 group-title="🇺🇸CANAIS AMERICANOS🇺🇸" tvg-logo="https://i.imgur.com/Anlb1SP.png" ,MTV (Latin America)
+http://161.0.157.9/PLTV/88888888/224/3221226825/index.m3u8
+#EXTINF:-1 group-title="🇺🇸CANAIS AMERICANOS🇺🇸" tvg-logo="https://i.imgur.com/Anlb1SP.png" ,MVM Noticias Oaxaca
+http://dcunilive21-lh.akamaihd.net/i/dclive_1@59479/index_1_av-p.m3u8
+#EXTINF:-1 group-title="🇺🇸CANAIS AMERICANOS🇺🇸" tvg-logo="https://i.imgur.com/JBEqPZP.png" ,Mythos
+https://nrpus.bozztv.com/36bay2/gusa-mythos/index.m3u8
+#EXTINF:-1 group-title="🇺🇸CANAIS AMERICANOS🇺🇸" tvg-logo="https://i.imgur.com/l75bDTx.png" ,n TV (US Eastern)
+https://a.jsrdn.com/broadcast/22680_3BR3zocwi9/-0500/c.m3u8
+#EXTINF:-1 group-title="🇺🇸CANAIS AMERICANOS🇺🇸" tvg-logo="https://i.imgur.com/Anlb1SP.png" ,Nabaa TV
+http://31.14.40.238:1935/live/Nabaa/chunklist.m3u8
+#EXTINF:-1 group-title="🇺🇸CANAIS AMERICANOS🇺🇸" tvg-logo="https://i.imgur.com/Anlb1SP.png" ,Nago TV
+http://haititivi.com:8088/haititv/tele6NY/tracks-v1a1/index.m3u8
+#EXTINF:-1 group-title="🇺🇸CANAIS AMERICANOS🇺🇸" tvg-logo="https://komonews.com/resources/media2/3x1/full/119/center/90/441fd841-4cd4-42d0-8471-98d55a05ad47-small3x1_STIRR_Logo_0320_NASA_1920x1080_EPG.png?cb=c81e728d9d4c2f636f067f89cc14862c" ,NASATV
+https://uplynkcontent.sinclairstoryline.com/channel/ddd76fdc1c0a456ba537e4f48e827d3e.m3u8
+#EXTINF:-1 group-title="🇺🇸CANAIS AMERICANOS🇺🇸" tvg-logo="https://i.imgur.com/uNKEoa4.png" ,NAU-TV - Northern Arizona University
+http://stream.ec.nau.edu/live/amlst:channelfour/playlist.m3u8
+#EXTINF:-1 group-title="🇺🇸CANAIS AMERICANOS🇺🇸" tvg-logo="https://i.imgur.com/Anlb1SP.png" ,NBC
+http://161.0.157.5/PLTV/88888888/224/3221227040/index.m3u8
+#EXTINF:-1 group-title="🇺🇸CANAIS AMERICANOS🇺🇸" tvg-logo="https://i.imgur.com/apjLF1L.png" ,NBC
+http://161.0.157.8/PLTV/88888888/224/3221227040/index.m3u8
+#EXTINF:-1 group-title="🇺🇸CANAIS AMERICANOS🇺🇸" tvg-logo="https://i.imgur.com/Anlb1SP.png" ,NBC (WTVJ) (EST)
+http://161.0.157.51/PLTV/88888888/224/3221227040/index.m3u8
+#EXTINF:-1 group-title="🇺🇸CANAIS AMERICANOS🇺🇸" tvg-logo="https://i.imgur.com/Anlb1SP.png" ,NBC 11 Pittsburgh PA (WPXI-HD)
+http://svc-lvanvato-cxtv-wpxi.cmgvideo.com/wpxi/2564k/index.m3u8
+#EXTINF:-1 group-title="🇺🇸CANAIS AMERICANOS🇺🇸" tvg-logo="https://i.imgur.com/Anlb1SP.png" ,NBC 15 Madison WI (WMTVNBC)
+http://ad-playlistserver.aws.syncbak.com/playlist/899088/master.m3u8?access_token=eyJhbGciOiJIUzI1NiIsImtpZCI6IkdyYXkyMDE2MDgyOSIsInN1YiI6IioiLCJ0eXAiOiJKV1QifQ.eyJleHAiOjE3OTAzNjkxMDUsImlzcyI6IldMUyIsIm1kNSI6ImJhZTU4Y2ZlZWM2NmU1MjZkNmVjZmE1YmUzNTQxMzQ4IiwibWlkIjoiODk5MDg4In0.vBWkHmqS3z3dpq8UWfbk4wFd-vQlj6B0up-rpt7X_7Q&IMDSFULL
+#EXTINF:-1 group-title="🇺🇸CANAIS AMERICANOS🇺🇸" tvg-logo="https://i.imgur.com/Anlb1SP.png" ,NBC 26 (WGBA)
+https://content.uplynk.com/channel/1fbfb28ae5044f619f75ae0adb011989.m3u8
+#EXTINF:-1 group-title="🇺🇸CANAIS AMERICANOS🇺🇸" tvg-logo="https://i.imgur.com/Anlb1SP.png" ,NBC 6 Miami FL (WTVJ)
+http://161.0.157.51/PLTV/88888888/224/3221227040/03.m3u8
+#EXTINF:-1 group-title="🇺🇸CANAIS AMERICANOS🇺🇸" tvg-logo="https://i.imgur.com/v48mMRT.png" ,NBC News Now
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-xumo-nbcnewsnow/CDN/master.m3u8
+#EXTINF:-1 group-title="🇺🇸CANAIS AMERICANOS🇺🇸" tvg-logo="http://127.0.0.1/" ,Network  AutoPlay
+https://nimble.dashstreams.net/onestudio/aptv/playlist.m3u8
+#EXTINF:-1 group-title="🇺🇸CANAIS AMERICANOS🇺🇸" tvg-logo="http://127.0.0.1/" ,Network  BCTV
+https://nimble.dashstreams.net/onestudio/blackmedia/playlist.m3u8
+#EXTINF:-1 group-title="🇺🇸CANAIS AMERICANOS🇺🇸" tvg-logo="https://i.imgur.com/wha8zxc.png" ,Network  Bluegrass Music
+https://nimble.dashstreams.net/onestudio/bluegrassmusic4u/playlist.m3u8
+#EXTINF:-1 group-title="🇺🇸CANAIS AMERICANOS🇺🇸" tvg-logo="http://127.0.0.1/" ,Network  California Music Channel
+https://nimble.dashstreams.net/onestudio/californiamusicchannel/playlist.m3u8
+#EXTINF:-1 group-title="🇺🇸CANAIS AMERICANOS🇺🇸" tvg-logo="http://127.0.0.1/" ,Network  Classic Arts Showcase
+https://classicarts.global.ssl.fastly.net/live/cas/master_3000k.m3u8
+#EXTINF:-1 group-title="🇺🇸CANAIS AMERICANOS🇺🇸" tvg-logo="http://127.0.0.1/" ,Network  Energy Network
+https://nimble.dashstreams.net/onestudio/energytv/playlist.m3u8
+#EXTINF:-1 group-title="🇺🇸CANAIS AMERICANOS🇺🇸" tvg-logo="http://127.0.0.1/" ,Network  Family Friendly Entertainment
+https://nimble.dashstreams.net/onestudio/gmt/playlist.m3u8
+#EXTINF:-1 group-title="🇺🇸CANAIS AMERICANOS🇺🇸" tvg-logo="http://127.0.0.1/" ,Network  Going To War
+https://nimble.dashstreams.net/onestudio/going_to_war/playlist.m3u8
+#EXTINF:-1 group-title="🇺🇸CANAIS AMERICANOS🇺🇸" tvg-logo="http://127.0.0.1/" ,Network  Lets Talk About It
+https://nimble.dashstreams.net/onestudio/lets_talk_about_it/playlist.m3u8
+#EXTINF:-1 group-title="🇺🇸CANAIS AMERICANOS🇺🇸" tvg-logo="http://127.0.0.1/" ,Network  News Net
+https://nimble.dashstreams.net/onestudio/newsnet/playlist.m3u8
+#EXTINF:-1 group-title="🇺🇸CANAIS AMERICANOS🇺🇸" tvg-logo="http://127.0.0.1/" ,Network  nPowered TV
+https://nimble.dashstreams.net/onestudio/npowered/playlist.m3u8
+#EXTINF:-1 group-title="🇺🇸CANAIS AMERICANOS🇺🇸" tvg-logo="http://127.0.0.1/" ,Network  OK TV
+https://nimble.dashstreams.net/onestudio/myoktv/playlist.m3u8
+#EXTINF:-1 group-title="🇺🇸CANAIS AMERICANOS🇺🇸" tvg-logo="http://127.0.0.1/" ,Network  Planet Cannabis Shopping
+https://nimble.dashstreams.net/onestudio/planetshopping/playlist.m3u8
+#EXTINF:-1 group-title="🇺🇸CANAIS AMERICANOS🇺🇸" tvg-logo="http://127.0.0.1/" ,Network  Really TV
+https://nimble.dashstreams.net/onestudio/ReallyTv/playlist.m3u8
+#EXTINF:-1 group-title="🇺🇸CANAIS AMERICANOS🇺🇸" tvg-logo="http://127.0.0.1/" ,Network  Wink TV
+https://nimble.dashstreams.net/onestudio/winktv/playlist.m3u8
+#EXTINF:-1 group-title="🇺🇸CANAIS AMERICANOS🇺🇸" tvg-logo="https://i.imgur.com/Anlb1SP.png" ,New Orleans TV
+http://bit.ly/2N6lxn9
+#EXTINF:-1 group-title="🇺🇸CANAIS AMERICANOS🇺🇸" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/news12ny_logo_dark.png" ,News 12 NY
+https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-5fc6f3a62b6f7b002e77ffaa?X-Plex-Token=MorUy57ijWhGe4ixZb_T
+#EXTINF:-1 group-title="🇺🇸CANAIS AMERICANOS🇺🇸" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/newsmax_logo_dark.png" ,Newsmax
+https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-5fb81660b7ad2d002dcb7335?X-Plex-Token=MorUy57ijWhGe4ixZb_T
+#EXTINF:-1 group-title="🇺🇸CANAIS AMERICANOS🇺🇸" tvg-logo="https://i.imgur.com/L0PC2YI.png" ,Newsmax TV
+https://nmxlive.akamaized.net/hls/live/529965/Live_1/index_1080.m3u8
+#EXTINF:-1 group-title="🇺🇸CANAIS AMERICANOS🇺🇸" tvg-logo="https://i.imgur.com/Anlb1SP.png" ,Newsmax TV
+https://nmxlive.akamaized.net/hls/live/529965/Live_1/index_720.m3u8
+#EXTINF:-1 group-title="🇺🇸CANAIS AMERICANOS🇺🇸" tvg-logo="https://i.imgur.com/Fc40om4.jpg" ,NewsNet
+http://broadcastny.yournewsnet.com:8081/master/newsnetweb/playlist.m3u8
+#EXTINF:-1 group-title="🇺🇸CANAIS AMERICANOS🇺🇸" tvg-logo="https://i.imgur.com/9HxlD7c.jpg" ,NewsNOW from FOX
+http://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="🇺🇸CANAIS AMERICANOS🇺🇸" tvg-logo="https://i.imgur.com/Anlb1SP.png" ,Newsy
+https://content.uplynk.com/channel/4bb4901b934c4e029fd4c1abfc766c37.m3u8
+#EXTINF:-1 group-title="🇺🇸CANAIS AMERICANOS🇺🇸" tvg-logo="https://i.imgur.com/Otw0sN1.png" ,Newsy
+https://content.uplynk.com/channel/4bb4901b934c4e029fd4c1abfc766c37.m3u8?ad=newsyweb
+#EXTINF:-1 group-title="🇺🇸CANAIS AMERICANOS🇺🇸" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/newsy-linear-v2.png" ,Newsy
+https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-5f5132d962fe160040f26b49?X-Plex-Token=MorUy57ijWhGe4ixZb_T
+#EXTINF:-1 group-title="🇺🇸CANAIS AMERICANOS🇺🇸" tvg-logo="https://i.imgur.com/Anlb1SP.png" ,NJPW World
+https://aka-amd-njpwworld-hls-enlive.akamaized.net/hls/video/njpw_en/njpw_en_channel01_3/chunklist_DVR.m3u8
+#EXTINF:-1 group-title="🇺🇸CANAIS AMERICANOS🇺🇸" tvg-logo="https://i.imgur.com/G0eQuH9.png" ,Noroc TV
+http://live.noroc.tv/hls/noroctv_chisinau.m3u8
+#EXTINF:-1 group-title="🇺🇸CANAIS AMERICANOS🇺🇸" tvg-logo="https://i.imgur.com/Anlb1SP.png" ,Nos Pais TV
+https://558bd16067b67.streamlock.net/nos_pais_24_7/smil:livestream.stream.smil/chunklist_w997519270_b2000000.m3u8
+#EXTINF:-1 group-title="🇺🇸CANAIS AMERICANOS🇺🇸" tvg-logo="https://image.xumo.com/v1/channels/channel/9999922/248x140.png?type=channelTile" ,Nosey
+https://dai2.xumo.com/xumocdn/p=redbox&deviceid=&is_lat=&subp=RedboxdesktopWebLinux/amagi_hls_data_xumo1212A-redbox-nosey/CDN/playlist.m3u8
+#EXTINF:-1 group-title="🇺🇸CANAIS AMERICANOS🇺🇸" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/nosey_2.png" ,Nosey
+https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-5f0ff262d71dcb00449ec015?X-Plex-Token=MorUy57ijWhGe4ixZb_T
+#EXTINF:-1 group-title="🇺🇸CANAIS AMERICANOS🇺🇸" tvg-logo="https://i.imgur.com/QSH4Z4p.png" ,Nothing Scripted
+http://30a-tv.com/NothingScripted.m3u8
+#EXTINF:-1 group-title="🇺🇸CANAIS AMERICANOS🇺🇸" tvg-logo="https://i.imgur.com/SXWwfca.png" ,Now This
+https://dai2.xumo.com/xumocdn/p=redbox&deviceid=&is_lat=&subp=RedboxdesktopWebLinux/amagi_hls_data_xumo1212A-redboxnowthis/CDN/playlist.m3u8
+#EXTINF:-1 group-title="🇺🇸CANAIS AMERICANOS🇺🇸" tvg-logo="https://i.imgur.com/BGGhItM.png" ,Now You Know
+https://stitcheraws.unreel.me/wse-node04.powr.com/live/5b284f40d5eeee07522b775e/playlist.m3u8
+#EXTINF:-1 group-title="🇺🇸CANAIS AMERICANOS🇺🇸" tvg-logo="https://i.imgur.com/FUUFhoW.jpg" ,NRB TV
+http://uni6rtmp.tulix.tv/nrbnetwork/myStream.sdp/playlist.m3u8
+#EXTINF:-1 group-title="🇺🇸CANAIS AMERICANOS🇺🇸" tvg-logo="https://i.imgur.com/Anlb1SP.png" ,NRWISION
+https://fms.nrwision.de/live/livestreamHD.stream_source/chunklist_w1070249849.m3u8
+#EXTINF:-1 group-title="🇺🇸CANAIS AMERICANOS🇺🇸" tvg-logo="https://i.imgur.com/Anlb1SP.png" ,NTV CA
+https://2-fss-2.streamhoster.com/pl_138/201748-1282640-1/chunklist.m3u8
+#EXTINF:-1 group-title="🇺🇸CANAIS AMERICANOS🇺🇸" tvg-logo="https://i.imgur.com/Anlb1SP.png" ,NTV HD
+http://nt4p9nef.rocketcdn.com/ntvhd.stream_720p/index.m3u8
+#EXTINF:-1 group-title="🇺🇸CANAIS AMERICANOS🇺🇸" tvg-logo="https://i.imgur.com/9S4ZbPL.jpg" ,OAN Encore
+https://oneamericanews-roku-us.amagi.tv/hls/amagi_hls_data_oneameric-oneamericanews/CDN/512x288_875600/index.m3u8
+#EXTINF:-1 group-title="🇺🇸CANAIS AMERICANOS🇺🇸" tvg-logo="https://i.imgur.com/Anlb1SP.png" ,OK Merseburg
+http://62.113.210.250:1935/medienasa-live/ok-merseburg_high/playlist.m3u8
+#EXTINF:-1 group-title="🇺🇸CANAIS AMERICANOS🇺🇸" tvg-logo="https://i.imgur.com/Z7RBRkZ.png" ,Olelo 49
+http://granicusliveus12-a.akamaihd.net/olelo/G0125_009/chunklist.m3u8
+#EXTINF:-1 group-title="🇺🇸CANAIS AMERICANOS🇺🇸" tvg-logo="https://i.imgur.com/Z7RBRkZ.png" ,Olelo 53
+http://granicusliveus12-a.akamaihd.net/olelo/G0125_011/chunklist.m3u8
+#EXTINF:-1 group-title="🇺🇸CANAIS AMERICANOS🇺🇸" tvg-logo="https://i.imgur.com/Z7RBRkZ.png" ,Olelo 54
+http://granicusliveus12-a.akamaihd.net/olelo/G0125_012/chunklist.m3u8
+#EXTINF:-1 group-title="🇺🇸CANAIS AMERICANOS🇺🇸" tvg-logo="https://i.imgur.com/Z7RBRkZ.png" ,Olelo 55
+http://granicusliveus12-a.akamaihd.net/olelo/G0125_013/chunklist.m3u8
+#EXTINF:-1 group-title="🇺🇸CANAIS AMERICANOS🇺🇸" tvg-logo="https://i.imgur.com/DDwsaHh.png" ,Olympic Channel
+https://iocchannel-i.akamaihd.net/hls/live/514135/olylinear0629221316/DomesticOlympicsLinear_VIDEO_0_7064000.m3u8
+#EXTINF:-1 group-title="🇺🇸CANAIS AMERICANOS🇺🇸" tvg-logo="https://i.imgur.com/Anlb1SP.png" ,Onda Algeciras TV
+http://cloudtv.provideo.es/live/algecirastv-livestream.m3u8
+#EXTINF:-1 group-title="🇺🇸CANAIS AMERICANOS🇺🇸" tvg-logo="https://i.imgur.com/Anlb1SP.png" ,Onda Cadiz (Opt-1)
+http://adc-hls.flumotion.com/playlist.m3u8
+#EXTINF:-1 group-title="🇺🇸CANAIS AMERICANOS🇺🇸" tvg-logo="https://i.imgur.com/Anlb1SP.png" ,Onda Madrid
+http://ondamadridhls-live.hls.adaptive.level3.net/telemadrid/ondamadrid1/index.m3u8
+#EXTINF:-1 group-title="🇺🇸CANAIS AMERICANOS🇺🇸" tvg-logo="https://i.imgur.com/Anlb1SP.png" ,ONDA TV CANAL 10
+http://ss6.domint.net:2052/otv_str/tv10/chunklist_w1442080980.m3u8
+#EXTINF:-1 group-title="🇺🇸CANAIS AMERICANOS🇺🇸" tvg-logo="https://i.imgur.com/G6e7Hcl.png" ,One America News
+http://n1.klowdtv.net/live1/oan_720p/chunks.m3u8
+#EXTINF:-1 group-title="🇺🇸CANAIS AMERICANOS🇺🇸" tvg-logo="https://images2.imgbox.com/1f/8c/vA9CqYr4_o.jpeg" ,One America News
+https://cdn.klowdtv.net/803B48A/oan_aws_ms/OAN.m3u8
+#EXTINF:-1 group-title="🇺🇸CANAIS AMERICANOS🇺🇸" tvg-logo="https://i.imgur.com/RMnzfj1.png" ,Opportunity Knocks TV
+https://nimble.dashstreams.net/onestudio/myoktv/chunks.m3u8
+#EXTINF:-1 group-title="🇺🇸CANAIS AMERICANOS🇺🇸" tvg-logo="https://i.imgur.com/Anlb1SP.png" ,Orange TV
+http://otv3.ocfl.net:1936/OrangeTV/smil:OrangeTV.smil/chunklist_w1007974604_b894100_sleng.m3u8
+#EXTINF:-1 group-title="🇺🇸CANAIS AMERICANOS🇺🇸" tvg-logo="https://i.imgur.com/VF3Mlwa.jpg" ,Orange TV
+http://otv3.ocfl.net:1936/OrangeTV/smil:OrangeTV.smil/playlist.m3u8
+#EXTINF:-1 group-title="🇺🇸CANAIS AMERICANOS🇺🇸" tvg-logo="https://i.imgur.com/Anlb1SP.png" ,Otto Channel
+https://meridelive-lh.akamaihd.net/i/ottop_1@118465/master.m3u8
+#EXTINF:-1 group-title="🇺🇸CANAIS AMERICANOS🇺🇸" tvg-logo="https://i.imgur.com/9uz9lyg.png" ,OUR TV
+https://hls-cdn.tvstartup.net/barakyah-channel/play/mp4:ourtvedge/chunklist.m3u8
+#EXTINF:-1 group-title="🇺🇸CANAIS AMERICANOS🇺🇸" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/outdooramerica_logo_dark.png" ,Outdoor America
+https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-5fd115b8b7ef8d002dcf181a?X-Plex-Token=MorUy57ijWhGe4ixZb_T
+#EXTINF:-1 group-title="🇺🇸CANAIS AMERICANOS🇺🇸" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/loop-party-v2.png" ,Party
+https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-5eea71d85252710041e0ccf5?X-Plex-Token=MorUy57ijWhGe4ixZb_T
+#EXTINF:-1 group-title="🇺🇸CANAIS AMERICANOS🇺🇸" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/party-tyme-karaoke.png" ,Party Tyme Karaoke
+https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-5eea605674085f0040ddc7ac?X-Plex-Token=MorUy57ijWhGe4ixZb_T
+#EXTINF:-1 group-title="🇺🇸CANAIS AMERICANOS🇺🇸" tvg-logo="https://i.imgur.com/9PEAPwY.png" ,PCC-TV - Pinellas County Florida
+http://granicusliveus1-a.akamaihd.net/pinellas/G1551_004/playlist.m3u8
+#EXTINF:-1 group-title="🇺🇸CANAIS AMERICANOS🇺🇸" tvg-logo="https://i.imgur.com/6DB5ChS.png" ,Peace TV
+http://peacetv.api.visionip.tv/live/ASHTTP/peacetv-peacetv-peacetv-english-hsslive-25f-16x9-MB/playlist.m3u8
+#EXTINF:-1 group-title="🇺🇸CANAIS AMERICANOS🇺🇸" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/jukin_peopleareawesome_1.png" ,People are Awesome
+https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-5f170d64b898490041b49386?X-Plex-Token=MorUy57ijWhGe4ixZb_T
+#EXTINF:-1 group-title="🇺🇸CANAIS AMERICANOS🇺🇸" tvg-logo="https://i.imgur.com/Anlb1SP.png" ,Pintana TV
+http://cdn.vms.grupoz.cl/lapintanatv/content/5a7c8e25e19d3e641aca9fb2/hls/playlist.m3u8
+#EXTINF:-1 group-title="🇺🇸CANAIS AMERICANOS🇺🇸" tvg-logo="https://i.imgur.com/iwd9Jxb.png" ,Plant-Based Network
+https://hls-cdn.tvstartup.net/barakyah-channel/live/pbtv/chunklist_w1880221002.m3u8
+#EXTINF:-1 group-title="🇺🇸CANAIS AMERICANOS🇺🇸" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/playerstv-logo.png" ,PlayersTV
+https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-5f74cf81ffbe690040689f44?X-Plex-Token=MorUy57ijWhGe4ixZb_T
+#EXTINF:-1 group-title="🇺🇸CANAIS AMERICANOS🇺🇸" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/playworksdigital_playworks_1.png" ,PlayWorks
+https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-5f0ff263d71dcb00449ec01e?X-Plex-Token=MorUy57ijWhGe4ixZb_T
+#EXTINF:-1 group-title="🇺🇸CANAIS AMERICANOS🇺🇸" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/pocketwatch-logo.png" ,pocket.watch
+https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-5f91c4ea96a391002df9a661?X-Plex-Token=MorUy57ijWhGe4ixZb_T
+#EXTINF:-1 group-title="🇺🇸CANAIS AMERICANOS🇺🇸" tvg-logo="https://i.imgur.com/Anlb1SP.png" ,Pop
+https://live-poptv-fastly-prod.global.ssl.fastly.net/pop/master.m3u8
+#EXTINF:-1 group-title="🇺🇸CANAIS AMERICANOS🇺🇸" tvg-logo="https://i.imgur.com/2sfC2Gu.png" ,Pop Star
+https://a.jsrdn.com/broadcast/wAlxn4cs/c.m3u8
+#EXTINF:-1 group-title="🇺🇸CANAIS AMERICANOS🇺🇸" tvg-logo="https://i.imgur.com/CgYnCxA.png" ,Popcorn Flix Action
+https://stitcheraws.unreel.me/wse-node02.powr.com/live/5d4b21643f4d602ba521b06c/playlist.m3u8
+#EXTINF:-1 group-title="🇺🇸CANAIS AMERICANOS🇺🇸" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/popstar-tv.png" ,PopStar! TV
+https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-5ef11487d33ab9004048a1d6?X-Plex-Token=MorUy57ijWhGe4ixZb_T
+#EXTINF:-1 group-title="🇺🇸CANAIS AMERICANOS🇺🇸" tvg-logo="https://i.imgur.com/K36sd0M.png" ,Prime Time Drama
+https://nrpus.bozztv.com/36bay2/gusa-ptd/index.m3u8
+#EXTINF:-1 group-title="🇺🇸CANAIS AMERICANOS🇺🇸" tvg-logo="https://i.imgur.com/EhISpCd.png" ,PTL TV Network
+http://morningside-lh.akamaihd.net/i/jblive_1@303354/index_2008_av-p.m3u8
+#EXTINF:-1 group-title="🇺🇸CANAIS AMERICANOS🇺🇸" tvg-logo="https://i.imgur.com/Anlb1SP.png" ,Punal TV
+http://cm.hostlagarto.com:8081/Punaltv/punaltvHD.myStream/chunks.m3u8
+#EXTINF:-1 group-title="🇺🇸CANAIS AMERICANOS🇺🇸" tvg-logo="https://i.imgur.com/Anlb1SP.png" ,Punktum S�dharz
+http://62.113.210.250/medienasa-live/punktum_high/master.m3u8
+#EXTINF:-1 group-title="🇺🇸CANAIS AMERICANOS🇺🇸" tvg-logo="https://i.imgur.com/Anlb1SP.png" ,QVC
+https://lsqvc1uscln-lh.akamaihd.net/i/lsqvc1uscln_01@809410/master.m3u8
+#EXTINF:-1 group-title="🇺🇸CANAIS AMERICANOS🇺🇸" tvg-logo="https://i.imgur.com/Anlb1SP.png" ,QVC 2
+https://lsqvc2us-lh.akamaihd.net/i/lsqvc2us_01@809440/master.m3u8
+#EXTINF:-1 group-title="🇺🇸CANAIS AMERICANOS🇺🇸" tvg-logo="https://i.imgur.com/Anlb1SP.png" ,QVC 3
+https://lsqvc3us-lh.akamaihd.net/i/lsqvc3us_01@809459/master.m3u8
+#EXTINF:-1 group-title="🇺🇸CANAIS AMERICANOS🇺🇸" tvg-logo="https://i.imgur.com/Anlb1SP.png" ,Radio TeleBoston (USA)
+http://162.244.81.145:3333/live//telebostonrtb/playlist.m3u8
+#EXTINF:-1 group-title="🇺🇸CANAIS AMERICANOS🇺🇸" tvg-logo="https://i.imgur.com/236PqNm.jpg" ,Radiou TV (US)
+https://cdnlive.radiou.com/LS-ATL-43240-1/index.m3u8
+#EXTINF:-1 group-title="🇺🇸CANAIS AMERICANOS🇺🇸" tvg-logo="https://i.imgur.com/Anlb1SP.png" ,RAN1
+http://62.113.210.250/medienasa-live/mp4:ran1_high/master.m3u8
+#EXTINF:-1 group-title="🇺🇸CANAIS AMERICANOS🇺🇸" tvg-logo="https://i.imgur.com/Anlb1SP.png" ,RBW
+http://62.113.210.250/medienasa-live/rbw_high/master.m3u8
+#EXTINF:-1 group-title="🇺🇸CANAIS AMERICANOS🇺🇸" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/realfamilies_logo_dark.png" ,Real Families
+https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-5fd9089d102006002d33c0fc?X-Plex-Token=MorUy57ijWhGe4ixZb_T
+#EXTINF:-1 group-title="🇺🇸CANAIS AMERICANOS🇺🇸" tvg-logo="https://image.xumo.com/v1/channels/channel/9999388/300x300.png?type=smartCast_channelTile" ,Real Nosey
+https://dai2.xumo.com/xumocdn/p=redbox&deviceid=&is_lat=&subp=RedboxdesktopWebLinux/amagi_hls_data_xumo1212A-redboxrealnosey/CDN/playlist.m3u8
+#EXTINF:-1 group-title="🇺🇸CANAIS AMERICANOS🇺🇸" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/nosey_realnosey_1.png" ,Real Nosey
+https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-5f0ff262d71dcb00449ec018?X-Plex-Token=MorUy57ijWhGe4ixZb_T
+#EXTINF:-1 group-title="🇺🇸CANAIS AMERICANOS🇺🇸" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/real-stories-logo.png" ,Real Stories
+https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-5f74cf83ffbe690040689f4a?X-Plex-Token=MorUy57ijWhGe4ixZb_T
+#EXTINF:-1 group-title="🇺🇸CANAIS AMERICANOS🇺🇸" tvg-logo="https://i.imgur.com/YfDWYmN.png" ,Recoil TV
+https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c7dff0f932c8368bdbfd5fd/playlist.m3u8
+#EXTINF:-1 group-title="🇺🇸CANAIS AMERICANOS🇺🇸" tvg-logo="https://i.imgur.com/ICcQUCH.png" ,Red Apple 21 - Fairfax County Public Schools - Virginia
+https://cs.ebmcdn.net/eastbay-live-hs-1/fcps/mp4:fcps/playlist.m3u8
+#EXTINF:-1 group-title="🇺🇸CANAIS AMERICANOS🇺🇸" tvg-logo="https://i.imgur.com/Anlb1SP.png" ,Red Bull TV
+http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
+#EXTINF:-1 group-title="🇺🇸CANAIS AMERICANOS🇺🇸" tvg-logo="https://i.imgur.com/TvmeXdZ.png" ,Red Bull TV
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
+#EXTINF:-1 group-title="🇺🇸CANAIS AMERICANOS🇺🇸" tvg-logo="https://i.imgur.com/Anlb1SP.png" ,Rehber TV
+http://rehbertv.canliyayin.org/P871000884/rehbertv/chunklist_w1174978711.m3u8
+#EXTINF:-1 group-title="🇺🇸CANAIS AMERICANOS🇺🇸" tvg-logo="https://i.imgur.com/K1kJf1s.png" ,Retro Crush
+https://digitalmediarights-retrocrush-1.roku.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 group-title="🇺🇸CANAIS AMERICANOS🇺🇸" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/digitalmediarights_retrocrush_1.png" ,RetroCrush
+https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-5ef4e1b40d9ad000423c442a?X-Plex-Token=MorUy57ijWhGe4ixZb_T
+#EXTINF:-1 group-title="🇺🇸CANAIS AMERICANOS🇺🇸" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/reuters_reutersnow_1.png" ,Reuters Now
+https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-5eea71d65252710041e0ccbc?X-Plex-Token=MorUy57ijWhGe4ixZb_T
+#EXTINF:-1 group-title="🇺🇸CANAIS AMERICANOS🇺🇸" tvg-logo="https://i.imgur.com/sOVdYJZ.png" ,Revelation TV
+http://rtv.cdn.mangomolo.com/rtv/smil:switch.smil/playlist.m3u8
+#EXTINF:-1 group-title="🇺🇸CANAIS AMERICANOS🇺🇸" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/revry-logo-v2.png" ,Revry
+https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-5ef11487d33ab9004048a1d9?X-Plex-Token=MorUy57ijWhGe4ixZb_T
+#EXTINF:-1 group-title="🇺🇸CANAIS AMERICANOS🇺🇸" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/revry2-logo-v2.png" ,Revry2
+https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-5f17665483581000409b46e5?X-Plex-Token=MorUy57ijWhGe4ixZb_T
+#EXTINF:-1 group-title="🇺🇸CANAIS AMERICANOS🇺🇸" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/revrynews-logo-v2.png" ,RevryNews
+https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-5f458dded93f4a0041cb1f63?X-Plex-Token=MorUy57ijWhGe4ixZb_T
+#EXTINF:-1 group-title="🇺🇸CANAIS AMERICANOS🇺🇸" tvg-logo="https://i.imgur.com/Anlb1SP.png" ,RFH Harz
+http://62.113.210.250/medienasa-live/RFH_high/master.m3u8
+#EXTINF:-1 group-title="🇺🇸CANAIS AMERICANOS🇺🇸" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/stadium_ringofhonor_1_logo.png" ,Ring of Honor
+https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-5f6142d3fc6ce20041ec3c9a?X-Plex-Token=MorUy57ijWhGe4ixZb_T
+#EXTINF:-1 group-title="🇺🇸CANAIS AMERICANOS🇺🇸" tvg-logo="https://i.imgur.com/asqplX6.png" ,Rivers Live
+https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c95388f932c837b4939735a/playlist.m3u8
+#EXTINF:-1 group-title="🇺🇸CANAIS AMERICANOS🇺🇸" tvg-logo="https://i.imgur.com/Anlb1SP.png" ,Rocco TV
+http://evo.eltelon.com:1935/live/rocco-tv/chunklist_w1064108788.m3u8
+#EXTINF:-1 group-title="🇺🇸CANAIS AMERICANOS🇺🇸" tvg-logo="https://i.imgur.com/Anlb1SP.png" ,Romana TV Canal 42
+http://tv.romanatv42.com/hls/live.m3u8
+#EXTINF:-1 group-title="🇺🇸CANAIS AMERICANOS🇺🇸" tvg-logo="https://i.imgur.com/oo3Dre9.png" ,Romance
+https://cca515f696634820833689103bb04704.mediatailor.us-east-1.amazonaws.com/v1/master/82ded7a88773aef3d6dd1fedce15ba2d57eb6bca/wse_powr_com_5f89af26264e201f49eec999/playlist.m3u8
+#EXTINF:-1 group-title="🇺🇸CANAIS AMERICANOS🇺🇸" tvg-logo="https://i.imgur.com/3o9cG76.png" ,Rooster Teeth TV
+https://d2klx6wjx7p5vm.cloudfront.net/Rooster-teeth/ngrp:Rooster-teeth_all/playlist.m3u8
+#EXTINF:-1 group-title="🇺🇸CANAIS AMERICANOS🇺🇸" tvg-logo="https://i.imgur.com/qdEbn9i.png" ,Rope 2 Rope
+https://nrpus.bozztv.com/36bay2/gusa-rope2rope/index.m3u8
+#EXTINF:-1 group-title="🇺🇸CANAIS AMERICANOS🇺🇸" tvg-logo="https://i.imgur.com/RqKVFRz.png" ,RT America US
+https://rt-usa.secure.footprint.net/1105.m3u8
+#EXTINF:-1 group-title="🇺🇸CANAIS AMERICANOS🇺🇸" tvg-logo="https://i.imgur.com/dlrYA9L.png" ,RTP PT
+https://streaming-live.rtp.pt/liverepeater/smil:rtpi.smil/playlist.m3u8
+#EXTINF:-1 group-title="🇺🇸CANAIS AMERICANOS🇺🇸" tvg-logo="https://i.imgur.com/Anlb1SP.png" ,RTQ Queretaro
+http://wms.tecnoxia.com:1935/rytqrolive/rytqrolive/master.m3u8
+#EXTINF:-1 group-title="🇺🇸CANAIS AMERICANOS🇺🇸" tvg-logo="https://i.imgur.com/Anlb1SP.png" ,RTVM Mogan
+https://5b38ce71f1f00.streamlock.net/8162/8162/.m3u8
+#EXTINF:-1 group-title="🇺🇸CANAIS AMERICANOS🇺🇸" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/runtime-logo.png" ,Runtime
+https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-5f47b0b87cb6a400422f9146?X-Plex-Token=MorUy57ijWhGe4ixZb_T
+#EXTINF:-1 group-title="🇺🇸CANAIS AMERICANOS🇺🇸" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/runtime-espanol.png" ,Runtime Español
+https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-5f5132e362fe160040f26c15?X-Plex-Token=MorUy57ijWhGe4ixZb_T
+#EXTINF:-1 group-title="🇺🇸CANAIS AMERICANOS🇺🇸" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/ryan-and-friends-logo.png" ,Ryan and Friends
+https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-5f91c4ea96a391002df9a664?X-Plex-Token=MorUy57ijWhGe4ixZb_T
+#EXTINF:-1 group-title="🇺🇸CANAIS AMERICANOS🇺🇸" tvg-logo="https://i.imgur.com/sDGZCpL.png" ,SafeTV4U
+http://18.191.91.130:1935/live/safetv/playlist.m3u8
+#EXTINF:-1 group-title="🇺🇸CANAIS AMERICANOS🇺🇸" tvg-logo="http://i.imgur.com/2EsFuSR.png" ,San Francisco - California - KNTV Cam [M3U8]
+http://kntvlive-f.akamaihd.net/i/kntvb1_1@15530/master.m3u8
+#EXTINF:-1 group-title="🇺🇸CANAIS AMERICANOS🇺🇸" tvg-logo="http://i.imgur.com/2EsFuSR.png" ,Sandusky - Ohio - Cedar Point Park 01 [M3U8]
+http://cs2.pixelcaster.com:1935/live/cedar1.stream/playlist.m3u8
+#EXTINF:-1 group-title="🇺🇸CANAIS AMERICANOS🇺🇸" tvg-logo="http://i.imgur.com/2EsFuSR.png" ,Sandusky - Ohio - Cedar Point Park 03 [M3U8]
+http://cs2.pixelcaster.com:1935/live/cedar2.stream/playlist.m3u8
+#EXTINF:-1 group-title="🇺🇸CANAIS AMERICANOS🇺🇸" tvg-logo="https://i.imgur.com/Anlb1SP.png" ,Satran� TV
+http://139.162.182.79/live/test/index.m3u8
+#EXTINF:-1 group-title="🇺🇸CANAIS AMERICANOS🇺🇸" tvg-logo="https://i.imgur.com/h0MqKbJ.png" ,Saveur
+http://a.jsrdn.com/broadcast/060753d37e/+0000/high/c.m3u8
+#EXTINF:-1 group-title="🇺🇸CANAIS AMERICANOS🇺🇸" tvg-logo="https://i.imgur.com/aUVVsSq.png" ,SciFi
+https://7f6c646754a74e90b9afad0ed13b1e32.mediatailor.us-east-1.amazonaws.com/v1/master/82ded7a88773aef3d6dd1fedce15ba2d57eb6bca/wse_powr_com_5f89af5a39cfef1f2542d365/playlist.m3u8
+#EXTINF:-1 group-title="🇺🇸CANAIS AMERICANOS🇺🇸" tvg-logo="https://i.imgur.com/FtrMhwH.png" ,Screamfest
+https://vcnleomarkstudios.teleosmedia.com/stream/leomarkstudios/screamfest/playlist.m3u8
+#EXTINF:-1 group-title="🇺🇸CANAIS AMERICANOS🇺🇸" tvg-logo="https://i.imgur.com/Anlb1SP.png" ,Screamfest
+https://vcnleomarkstudios.teleosmedia.com/stream/leomarkstudios/screamfest/seglist_720p.m3u8
+#EXTINF:-1 group-title="🇺🇸CANAIS AMERICANOS🇺🇸" tvg-logo="https://i.imgur.com/Anlb1SP.png" ,SEA TV
+http://203.176.130.123:8989/live/seatv_480k.stream/playlist.m3u8
+#EXTINF:-1 group-title="🇺🇸CANAIS AMERICANOS🇺🇸" tvg-logo="https://i.imgur.com/NfE5jtp.png" ,Seattle Channel - Washington
+https://wowzaprod188-i.akamaihd.net/hls/live/730322/3fa8d5f5/playlist.m3u8
+#EXTINF:-1 group-title="🇺🇸CANAIS AMERICANOS🇺🇸" tvg-logo="https://i.imgur.com/Anlb1SP.png" ,Sercano TV
+http://stream.grupoabchn.com:1935/SERCANOHD/SERCANOLive.smil/chunklist_w330137931_b1848000.m3u8
+#EXTINF:-1 group-title="🇺🇸CANAIS AMERICANOS🇺🇸" tvg-logo="https://i.imgur.com/Anlb1SP.png" ,Shop HQ
+https://aos01-evine.secure.footprint.net/evine/cleanfeed/VIDEO_0_2064000.m3u8
+#EXTINF:-1 group-title="🇺🇸CANAIS AMERICANOS🇺🇸" tvg-logo="https://i.imgur.com/ttsZkJM.png" ,Shorts Channel
+https://b29da26d9a17436eafe339c08e488f33.mediatailor.us-east-1.amazonaws.com/v1/master/82ded7a88773aef3d6dd1fedce15ba2d57eb6bca/wse_powr_com_5f8609010d552957bf5aa546/playlist.m3u8
+#EXTINF:-1 group-title="🇺🇸CANAIS AMERICANOS🇺🇸" tvg-logo="http://image.xumo.com/v1/channels/channel/9999265/300x300.png?type=smartCast_channelTile" ,Shout! Factory TV
+http://shoutfactory-redbox.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="🇺🇸CANAIS AMERICANOS🇺🇸" tvg-logo="https://i.imgur.com/hyEyWIq.png" ,Sidewalks
+http://30a-tv.com/sidewalks.m3u8
+#EXTINF:-1 group-title="🇺🇸CANAIS AMERICANOS🇺🇸" tvg-logo="https://i.imgur.com/Anlb1SP.png" ,Sipse TV Cancun
+https://webprod.sipse.com.mx:8080/show/tvcun.m3u8
+#EXTINF:-1 group-title="🇺🇸CANAIS AMERICANOS🇺🇸" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/skills-and-thrills-logo.png" ,Skills + Thrills
+https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-5f74cf7effbe690040689f3e?X-Plex-Token=MorUy57ijWhGe4ixZb_T
+#EXTINF:-1 group-title="🇺🇸CANAIS AMERICANOS🇺🇸" tvg-logo="https://i.imgur.com/kFJ3Qa4.png" ,Skills + Thrills Channel 1
+https://aenetworks-skills-thrills-1.plex.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 group-title="🇺🇸CANAIS AMERICANOS🇺🇸" tvg-logo="https://i.imgur.com/kFJ3Qa4.png" ,Skills + Thrills Channel 2
+https://aenetworks-skills-thrills-1.roku.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 group-title="🇺🇸CANAIS AMERICANOS🇺🇸" tvg-logo="https://i.imgur.com/kFJ3Qa4.png" ,Skills + Thrills Channel 3
+https://aenetworks-skills-thrills-1.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 group-title="🇺🇸CANAIS AMERICANOS🇺🇸" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/skwad-logo.png" ,SKWAD
+https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-5f170d62b898490041b49374?X-Plex-Token=MorUy57ijWhGe4ixZb_T
+#EXTINF:-1 group-title="🇺🇸CANAIS AMERICANOS🇺🇸" tvg-logo="https://i.imgur.com/Anlb1SP.png" ,SL48 TV Lazio
+http://media.velcom.it:1935/sl48/sl48/playlist.m3u8
+#EXTINF:-1 group-title="🇺🇸CANAIS AMERICANOS🇺🇸" tvg-logo="https://i.imgur.com/MMCKDpf.png" ,Slimo
+https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c7e2783932c8368bdbfd8a5/playlist.m3u8
+#EXTINF:-1 group-title="🇺🇸CANAIS AMERICANOS🇺🇸" tvg-logo="https://i.imgur.com/Anlb1SP.png" ,Smart Lifestyle TV
+https://t01587-lh.akamaihd.net/i/t01587SmartLifeStyle_1@692079/index_1200_av-p.m3u8
+#EXTINF:-1 group-title="🇺🇸CANAIS AMERICANOS🇺🇸" tvg-logo="https://i.imgur.com/UyIkHU3.png" ,Smart Lifestyle TV
+https://t01587-lh.akamaihd.net/i/t01587SmartLifeStyle_1@692079/index_1200_av-p.m3u8?sd=10&set-akamai-hls-revision=5&rebase=on
+#EXTINF:-1 group-title="🇺🇸CANAIS AMERICANOS🇺🇸" tvg-logo="https://i.imgur.com/PbkQkhq.png" ,Smosh
+https://stitcheraws.unreel.me/wse-node02.powr.com/live/5e2625af5748670f12a3bee9/playlist.m3u8
+#EXTINF:-1 group-title="🇺🇸CANAIS AMERICANOS🇺🇸" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/cinedigm_so_real_1.png" ,So...Real
+https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-5f0ff262d71dcb00449ec012?X-Plex-Token=MorUy57ijWhGe4ixZb_T
+#EXTINF:-1 group-title="🇺🇸CANAIS AMERICANOS🇺🇸" tvg-logo="https://i.imgur.com/G0eQuH9.png" ,Somax TV
+http://webmobile.xdev.ro:81/tv12/playlist.m3u8?fluxustv.m3u8
+#EXTINF:-1 group-title="🇺🇸CANAIS AMERICANOS🇺🇸" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/sony_canal_comedias_logo_dark.png" ,Sony Canal Comedias
+https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-5f5132e262fe160040f26c05?X-Plex-Token=MorUy57ijWhGe4ixZb_T
+#EXTINF:-1 group-title="🇺🇸CANAIS AMERICANOS🇺🇸" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/sony_canal_competencias_logo_dark.png" ,Sony Canal Competencias
+https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-5f5132e362fe160040f26c0a?X-Plex-Token=MorUy57ijWhGe4ixZb_T
+#EXTINF:-1 group-title="🇺🇸CANAIS AMERICANOS🇺🇸" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/sony_canal_novelas_logo_dark.png" ,Sony Canal Novelas
+https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-5f5132e362fe160040f26c0f?X-Plex-Token=MorUy57ijWhGe4ixZb_T
+#EXTINF:-1 group-title="🇺🇸CANAIS AMERICANOS🇺🇸" tvg-logo="https://i.imgur.com/Anlb1SP.png" ,Spike (Opt-2)
+https://viacomitalytest-lh.akamaihd.net/i/sbshdlive_1@829515/index_2500_av-p.m3u8
+#EXTINF:-1 group-title="🇺🇸CANAIS AMERICANOS🇺🇸" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/sportsgrid.png" ,SportsGrid
+https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-5ef11485d33ab9004048a1ca?X-Plex-Token=MorUy57ijWhGe4ixZb_T
+#EXTINF:-1 group-title="🇺🇸CANAIS AMERICANOS🇺🇸" tvg-logo="https://i.imgur.com/Anlb1SP.png" ,Sportskool
+https://a.jsrdn.com/broadcast/22697/+0000/hi/c.m3u8
+#EXTINF:-1 group-title="🇺🇸CANAIS AMERICANOS🇺🇸" tvg-logo="https://i.imgur.com/Anlb1SP.png" ,SportsMax
+http://161.0.157.5/PLTV/88888888/224/3221226766/02.m3u8
+#EXTINF:-1 group-title="🇺🇸CANAIS AMERICANOS🇺🇸" tvg-logo="https://i.imgur.com/KqjTIh8.png" ,Spotlight
+https://spotlight-redbox.amagi.tv/hls/amagi_hls_data_redboxAAA-spotlight/CDN/playlist.m3u8
+#EXTINF:-1 group-title="🇺🇸CANAIS AMERICANOS🇺🇸" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/stadium_gracenote_logo.png" ,Stadium
+https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-5f6142d2fc6ce20041ec3c92?X-Plex-Token=MorUy57ijWhGe4ixZb_T
+#EXTINF:-1 group-title="🇺🇸CANAIS AMERICANOS🇺🇸" tvg-logo="https://i.imgur.com/n38w3FD.png" ,Stadium  (Stirr)
+https://stadiumlivein-i.akamaihd.net/hls/live/522512/mux_4/master.m3u8
+#EXTINF:-1 group-title="🇺🇸CANAIS AMERICANOS🇺🇸" tvg-logo="https://i.imgur.com/CzrTxt2.png" ,Steve Wilkos
+https://ff025cd3f4b44af9915c7303489f823c.mediatailor.us-east-1.amazonaws.com/v1/master/82ded7a88773aef3d6dd1fedce15ba2d57eb6bca/wse_powr_com_5eb1e84c95ee0253b97679d7/playlist.m3u8
+#EXTINF:-1 group-title="🇺🇸CANAIS AMERICANOS🇺🇸" tvg-logo="https://komonews.com/resources/media2/3x1/full/119/center/90/dcf6dea4-94f1-49c2-8387-82569dde9f45-small3x1_stirr_1219_epg_singrayclassicrock_1920x1080.png?cb=eccbc87e4b5ce2fe28308fd9f2a7baf3" ,Stingray Classic Rock
+https://ott-linear-channels.stingray.com/hls/stirr/101.m3u8
+#EXTINF:-1 group-title="🇺🇸CANAIS AMERICANOS🇺🇸" tvg-logo="https://komonews.com/resources/media2/3x1/full/119/center/90/90d2dbf6-a533-4cc1-b1a3-6196c40efb16-small3x1_STIRR_LOGO_0220_StingrayEverything80s_1920x1080_EPG.png?cb=eccbc87e4b5ce2fe28308fd9f2a7baf3" ,Stingray Everything 80s
+https://ott-linear-channels.stingray.com/hls/stirr/128.m3u8
+#EXTINF:-1 group-title="🇺🇸CANAIS AMERICANOS🇺🇸" tvg-logo="https://komonews.com/resources/media2/3x1/full/119/center/90/4b83571f-2374-4e84-a27b-e772b0c94c51-small3x1_stirr_1219_epg_stingrayflashback70s_1920x1080.png?cb=eccbc87e4b5ce2fe28308fd9f2a7baf3" ,Stingray Flashback 70s
+https://ott-linear-channels.stingray.com/hls/stirr/115.m3u8
+#EXTINF:-1 group-title="🇺🇸CANAIS AMERICANOS🇺🇸" tvg-logo="https://komonews.com/resources/media2/3x1/full/119/center/90/d35ab388-cc91-4070-876d-b5c48d989a60-small3x1_stirr_1219_epg_singrayhitlist_1920x1080.png?cb=eccbc87e4b5ce2fe28308fd9f2a7baf3" ,Stingray Hit List
+https://ott-linear-channels.stingray.com/hls/stirr/107.m3u8
+#EXTINF:-1 group-title="🇺🇸CANAIS AMERICANOS🇺🇸" tvg-logo="https://komonews.com/resources/media2/3x1/full/119/center/90/518a9541-fade-45ec-9d64-5b0a65806270-small3x1_stirr_1219_epg_stingraygreatesthits_1920x1080.png?cb=c81e728d9d4c2f636f067f89cc14862c" ,Stingray Holiday Hits
+https://ott-linear-channels.stingray.com/hls/stirr/155.m3u8
+#EXTINF:-1 group-title="🇺🇸CANAIS AMERICANOS🇺🇸" tvg-logo="https://komonews.com/resources/media2/3x1/full/119/center/90/d2dac750-5e2b-4107-a037-6467fca68e93-small3x1_stirr_1219_epg_stingrayhotcountry_1920x1080.png?cb=eccbc87e4b5ce2fe28308fd9f2a7baf3" ,Stingray Hot Country
+https://ott-linear-channels.stingray.com/hls/stirr/108.m3u8
+#EXTINF:-1 group-title="🇺🇸CANAIS AMERICANOS🇺🇸" tvg-logo="https://komonews.com/resources/media2/3x1/full/119/center/90/f7fe1378-d4a8-434e-8c1a-d7e001560404-small3x1_stirr_1219_epg_stingraypopadult_1920x1080.png?cb=eccbc87e4b5ce2fe28308fd9f2a7baf3" ,Stingray Pop Adult
+https://ott-linear-channels.stingray.com/hls/stirr/104.m3u8
+#EXTINF:-1 group-title="🇺🇸CANAIS AMERICANOS🇺🇸" tvg-logo="https://komonews.com/resources/media2/3x1/full/119/center/90/ff902b0a-f978-495d-8b37-171eb5fee8a4-small3x1_STIRR_Logo_0720_Alternative_1920x1080_EPG.png?cb=c81e728d9d4c2f636f067f89cc14862c" ,Stingray Rock Alternative
+https://ott-linear-channels.stingray.com/hls/stirr/102.m3u8
+#EXTINF:-1 group-title="🇺🇸CANAIS AMERICANOS🇺🇸" tvg-logo="https://komonews.com/resources/media2/3x1/full/119/center/90/b1d83dd9-b335-4871-89a1-b92cf2651b65-small3x1_STIRR_Logo_0720_StingrayLatinPop_1920x1080_EPG.png?cb=c81e728d9d4c2f636f067f89cc14862c" ,Stingray Today's Latin Pop
+https://ott-linear-channels.stingray.com/hls/stirr/190.m3u8
+#EXTINF:-1 group-title="🇺🇸CANAIS AMERICANOS🇺🇸" tvg-logo="https://komonews.com/resources/media2/3x1/full/119/center/90/d2056e60-df7d-4fac-8533-19503d5af78e-small3x1_STIRR_Logo_0720_HipHopRB_1920x1080_EPG.png?cb=c81e728d9d4c2f636f067f89cc14862c" ,Stingray Urban Beats
+https://ott-linear-channels.stingray.com/hls/stirr/133.m3u8
+#EXTINF:-1 group-title="🇺🇸CANAIS AMERICANOS🇺🇸" tvg-logo="https://i.imgur.com/lofrKGg.png" ,Street Music 4U
+https://nimble.dashstreams.net/onestudio/StreetMusic4U/playlist.m3u8
+#EXTINF:-1 group-title="🇺🇸CANAIS AMERICANOS🇺🇸" tvg-logo="https://i.imgur.com/O7gIg07.png" ,Sunsets Live
+https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c9538a5932c837b4939735b/playlist.m3u8
+#EXTINF:-1 group-title="🇺🇸CANAIS AMERICANOS🇺🇸" tvg-logo="https://i.imgur.com/Anlb1SP.png" ,Super J TV Teramo (Opt-1)
+https://54627d4fc5996.streamlock.net/SuperJtv/SuperJtv/playlist.m3u8
+#EXTINF:-1 group-title="🇺🇸CANAIS AMERICANOS🇺🇸" tvg-logo="https://i.imgur.com/Anlb1SP.png" ,Super TV 55 Santiago
+https://ss8.domint.net:3128/stv_str/tv55/master.m3u8
+#EXTINF:-1 group-title="🇺🇸CANAIS AMERICANOS🇺🇸" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/1091_surfnowtv_1.png" ,Surf Now TV
+https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-5eea605474085f0040ddc779?X-Plex-Token=MorUy57ijWhGe4ixZb_T
+#EXTINF:-1 group-title="🇺🇸CANAIS AMERICANOS🇺🇸" tvg-logo="https://i.imgur.com/Anlb1SP.png" ,Syrian TV (Opt-2)
+http://www.elahmad.com/tv/m3u8/syriatv.m3u8?id=syriatv&IMDSFULL
+#EXTINF:-1 group-title="🇺🇸CANAIS AMERICANOS🇺🇸" tvg-logo="https://i.imgur.com/3YwJzZg.png" ,TAG TV
+https://cdn30.liveonlineservices.com/hls/tagtv.m3u8
+#EXTINF:-1 group-title="🇺🇸CANAIS AMERICANOS🇺🇸" tvg-logo="https://i.imgur.com/Anlb1SP.png" ,Tamil Vision TV
+http://live.tamilvision.tv:8081/TVI/SD/chunks.m3u8
+#EXTINF:-1 group-title="🇺🇸CANAIS AMERICANOS🇺🇸" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/playworksdigital_tankee_1-v2.png" ,Tankee
+https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-5efe1de5e0b3f5003f5d9f7f?X-Plex-Token=MorUy57ijWhGe4ixZb_T
+#EXTINF:-1 group-title="🇺🇸CANAIS AMERICANOS🇺🇸" tvg-logo="https://i.imgur.com/VR1E6WB.png" ,Taste It
+https://stitcheraws.unreel.me/wse-node02.powr.com/live/5af61f59d5eeee7af3d1db8f/playlist.m3u8
+#EXTINF:-1 group-title="🇺🇸CANAIS AMERICANOS🇺🇸" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/tastemade-v2.png" ,Tastemade
+https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-5ef51c802ddee5003f1c0225?X-Plex-Token=MorUy57ijWhGe4ixZb_T
+#EXTINF:-1 group-title="🇺🇸CANAIS AMERICANOS🇺🇸" tvg-logo="https://i.imgur.com/e7EDq02.png" ,Tastemade
+https://tastemadessai.akamaized.net/amagi_hls_data_tastemade-tastemade/CDN/playlist.m3u8
+#EXTINF:-1 group-title="🇺🇸CANAIS AMERICANOS🇺🇸" tvg-logo="https://i.imgur.com/YeSygn7.png" ,TBD
+http://content.uplynk.com/channel/1831163f97674328ad9f4b4814ed39c5.m3u8
+#EXTINF:-1 group-title="🇺🇸CANAIS AMERICANOS🇺🇸" tvg-logo="https://i.imgur.com/Anlb1SP.png" ,Tea TV
+https://livefta.malimarcdn.com/ftaedge00/teatv2.sdp/playlist.m3u8
+#EXTINF:-1 group-title="🇺🇸CANAIS AMERICANOS🇺🇸" tvg-logo="https://i.imgur.com/Anlb1SP.png" ,Tele Louange
+https://5790d294af2dc.streamlock.net/8124/8124/chunklist.m3u8
+#EXTINF:-1 group-title="🇺🇸CANAIS AMERICANOS🇺🇸" tvg-logo="https://i.imgur.com/G0eQuH9.png" ,TELE MOLDOVA
+http://webmobile.xdev.ro:81/tv16/playlist.m3u8
+#EXTINF:-1 group-title="🇺🇸CANAIS AMERICANOS🇺🇸" tvg-logo="https://i.imgur.com/Anlb1SP.png" ,TeleBendicion
+http://ss8.domint.net:2124/tbt_str/telebendicion/playlist.m3u8
+#EXTINF:-1 group-title="🇺🇸CANAIS AMERICANOS🇺🇸" tvg-logo="https://i.imgur.com/Anlb1SP.png" ,Telecaribe
+https://telecaribe-hd.gcdn.anvato.net/hls/live/telecaribehd/496k/index.m3u8
+#EXTINF:-1 group-title="🇺🇸CANAIS AMERICANOS🇺🇸" tvg-logo="https://i.imgur.com/Anlb1SP.png" ,Teleceiba Canal 7
+http://190.11.224.14:8134/liveevent.m3u8
+#EXTINF:-1 group-title="🇺🇸CANAIS AMERICANOS🇺🇸" tvg-logo="https://i.imgur.com/Anlb1SP.png" ,Telefuturo 23
+http://ss8.domint.net:2118/tf_str/futu/chunklist_w1249734061.m3u8
+#EXTINF:-1 group-title="🇺🇸CANAIS AMERICANOS🇺🇸" tvg-logo="https://i.imgur.com/Anlb1SP.png" ,Teleislas (Opt-2)
+http://vbox2.cehis.net/live-teleislas/_definst_/mp4:teleislas/chunklist_w1846604063.m3u8
+#EXTINF:-1 group-title="🇺🇸CANAIS AMERICANOS🇺🇸" tvg-logo="https://i.imgur.com/Anlb1SP.png" ,Telemax
+http://s5.mexside.net:1935/telemax/telemax/.m3u8
+#EXTINF:-1 group-title="🇺🇸CANAIS AMERICANOS🇺🇸" tvg-logo="https://i.imgur.com/Anlb1SP.png" ,TeleNordest Friuli
+https://59d7d6f47d7fc.streamlock.net/telenord/telenord/playlist.m3u8
+#EXTINF:-1 group-title="🇺🇸CANAIS AMERICANOS🇺🇸" tvg-logo="https://i.imgur.com/Anlb1SP.png" ,TeleUno TV
+http://tv.teleunotv.cr:1935/TVUNO/TVUNO/playlist.m3u8
+#EXTINF:-1 group-title="🇺🇸CANAIS AMERICANOS🇺🇸" tvg-logo="https://i.imgur.com/Anlb1SP.png" ,Telever Canal 12
+http://tengomusica.ddns.net:1935/telever/telever.sdp/playlist.m3u8
+#EXTINF:-1 group-title="🇺🇸CANAIS AMERICANOS🇺🇸" tvg-logo="https://i.imgur.com/Anlb1SP.png" ,TELEVISION DEL ESTE
+http://cm.hostlagarto.com:8081/ESTV/estv.myStream/playlist.m3u8
+#EXTINF:-1 group-title="🇺🇸CANAIS AMERICANOS🇺🇸" tvg-logo="https://i.imgur.com/YchkfWy.png" ,Temple TV
+https://streaming.temple.edu/tutvlive/_definst_/mp4:8BRYCQMB/chunklist_w1944862924.m3u8
+#EXTINF:-1 group-title="🇺🇸CANAIS AMERICANOS🇺🇸" tvg-logo="https://i.imgur.com/Anlb1SP.png" ,TEN Canal 10
+http://stream.grupoabchn.com:1935/TENHD/TENLive.smil/playlist.m3u8
+#EXTINF:-1 group-title="🇺🇸CANAIS AMERICANOS🇺🇸" tvg-logo="https://i.imgur.com/d9BFa0l.png" ,Tennis Channel
+https://playoutengine.sinclairstoryline.com/playout/9f87522c-5a0e-4ff4-b82c-d5564216132f/g.m3u8
+#EXTINF:-1 group-title="🇺🇸CANAIS AMERICANOS🇺🇸" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/tg-junior-us.png" ,TG Junior
+https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-5f170d64b898490041b4938f?X-Plex-Token=MorUy57ijWhGe4ixZb_T
+#EXTINF:-1 group-title="🇺🇸CANAIS AMERICANOS🇺🇸" tvg-logo="https://i.imgur.com/Anlb1SP.png" ,Thanthi TV
+https://vidcdn.vidgyor.com/thanthi-origin/liveabr/thanthi-origin/live2/chunks.m3u8
+#EXTINF:-1 group-title="🇺🇸CANAIS AMERICANOS🇺🇸" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/the-archive.png" ,The Archive
+https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-5eea605674085f0040ddc7a0?X-Plex-Token=MorUy57ijWhGe4ixZb_T
+#EXTINF:-1 group-title="🇺🇸CANAIS AMERICANOS🇺🇸" tvg-logo="https://i.imgur.com/1pxXEtP.png" ,The Asylum (Stirr)
+https://dai2.xumo.com/xumocdn/p=roku/amagi_hls_data_xumo1212A-theasylum/CDN/1280x720_2500000/index.m3u8
+#EXTINF:-1 group-title="🇺🇸CANAIS AMERICANOS🇺🇸" tvg-logo="https://i.imgur.com/0j5Aget.png" ,The Beach Show
+http://30a-tv.com/beachy.m3u8
+#EXTINF:-1 group-title="🇺🇸CANAIS AMERICANOS🇺🇸" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/vitor_theboatshow_1.png" ,The Boat Show
+https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-5efe1de6e0b3f5003f5d9f82?X-Plex-Token=MorUy57ijWhGe4ixZb_T
+#EXTINF:-1 group-title="🇺🇸CANAIS AMERICANOS🇺🇸" tvg-logo="https://i.imgur.com/55vA85a.png" ,The Boat Show TV
+https://a.jsrdn.com/broadcast/256ccf645e/+0000/c.m3u8
+#EXTINF:-1 group-title="🇺🇸CANAIS AMERICANOS🇺🇸" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/cinedigm_bobross_1.png" ,The Bob Ross Channel
+https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-5efe1de6e0b3f5003f5d9f88?X-Plex-Token=MorUy57ijWhGe4ixZb_T
+#EXTINF:-1 group-title="🇺🇸CANAIS AMERICANOS🇺🇸" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/thedesignnetwork_tdn_5.png" ,The Design Network
+https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-5f0641d3e8ffda004033b16e?X-Plex-Token=MorUy57ijWhGe4ixZb_T
+#EXTINF:-1 group-title="🇺🇸CANAIS AMERICANOS🇺🇸" tvg-logo="https://i.imgur.com/VrZkqvM.png" ,The Design Network
+https://thedesignnetwork-tdn-2.roku.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 group-title="🇺🇸CANAIS AMERICANOS🇺🇸" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/the-film-detective.png" ,The Film Detective
+https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-5eea605674085f0040ddc7a3?X-Plex-Token=MorUy57ijWhGe4ixZb_T
+#EXTINF:-1 group-title="🇺🇸CANAIS AMERICANOS🇺🇸" tvg-logo="https://i.imgur.com/nCB6LNt.png" ,The Film Detective TV
+https://a.jsrdn.com/broadcast/9Kl3dcb5l/indexfd_640x360.m3u8
+#EXTINF:-1 group-title="🇺🇸CANAIS AMERICANOS🇺🇸" tvg-logo="https://i.imgur.com/CmzfreA.png" ,The Florida Channel
+https://wowzaprod4-i.akamaihd.net/hls/live/254057/6380fec3/playlist.m3u8
+#EXTINF:-1 group-title="🇺🇸CANAIS AMERICANOS🇺🇸" tvg-logo="https://i.imgur.com/Anlb1SP.png" ,The Islamic Network
+http://162.244.81.145:2215/live/livestream/playlist.m3u8
+#EXTINF:-1 group-title="🇺🇸CANAIS AMERICANOS🇺🇸" tvg-logo="https://i.imgur.com/Anlb1SP.png" ,The Now Network
+https://link.frontlayer.com/services/hls2/fl619843/index.m3u8
+#EXTINF:-1 group-title="🇺🇸CANAIS AMERICANOS🇺🇸" tvg-logo="https://i.imgur.com/03XLqNz.png" ,The Outdoor Cooking Channel
+http://edge1.tikilive.com:1935/unrestricted_tikilive/25947/amlst:NWKlw6jwyXpz/chunklist_w981409619_b1105254.m3u8
+#EXTINF:-1 group-title="🇺🇸CANAIS AMERICANOS🇺🇸" tvg-logo="https://i.imgur.com/xhsHccQ.png" ,The Pet Collective
+https://dai2.xumo.com/xumocdn/p=redbox&deviceid=&is_lat=&subp=RedboxdesktopWebLinux/amagi_hls_data_xumo1212A-redboxpetcollective/CDN/playlist.m3u8
+#EXTINF:-1 group-title="🇺🇸CANAIS AMERICANOS🇺🇸" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/the_pet_collective_samsung_.png" ,The Pet Collective
+https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-5eea605574085f0040ddc78e?X-Plex-Token=MorUy57ijWhGe4ixZb_T
+#EXTINF:-1 group-title="🇺🇸CANAIS AMERICANOS🇺🇸" tvg-logo="https://i.imgur.com/DPls9e7.png" ,The Pet Collective (Stirr)
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-petcollective/CDN/1280x720_5000000/index.m3u8
+#EXTINF:-1 group-title="🇺🇸CANAIS AMERICANOS🇺🇸" tvg-logo="https://i.imgur.com/0mvGibX.jpg" ,The Rockville Channel
+http://granicusliveus12-a.akamaihd.net/rockvillemd/G0458_001/chunklist.m3u8
+#EXTINF:-1 group-title="🇺🇸CANAIS AMERICANOS🇺🇸" tvg-logo="https://i.imgur.com/Anlb1SP.png" ,The Shopping Channel HD
+https://tscstreaming-lh.akamaihd.net/i/TSCLiveStreaming_1@91031/index_1_av-p.m3u8
+#EXTINF:-1 group-title="🇺🇸CANAIS AMERICANOS🇺🇸" tvg-logo="https://komonews.com/resources/media2/3x1/full/119/center/90/887ab420-6923-4600-b1ed-3cba74db10fd-small3x1_STIRR_Logo_0320_TheT_1920x1080_EPG.png?cb=c81e728d9d4c2f636f067f89cc14862c" ,The T
+https://playoutengine.sinclairstoryline.com/playout/9f87522c-5a0e-4ff4-b82c-d5564216132f.m3u8
+#EXTINF:-1 group-title="🇺🇸CANAIS AMERICANOS🇺🇸" tvg-logo="https://i.imgur.com/Anlb1SP.png" ,The Weather Channel
+http://bit.ly/2wQwd1G
+#EXTINF:-1 group-title="🇺🇸CANAIS AMERICANOS🇺🇸" tvg-logo="https://i.imgur.com/8z7UeY8.png" ,The Weather Channel
+https://weather-lh.akamaihd.net/i/twc_1@92006/master.m3u8
+#EXTINF:-1 group-title="🇺🇸CANAIS AMERICANOS🇺🇸" tvg-logo="https://i.imgur.com/LNzPgeF.png" ,Thinknoodles
+https://stitcheraws.unreel.me/wse-node04.powr.com/live/5afc810e932c833522744733/playlist.m3u8
+#EXTINF:-1 group-title="🇺🇸CANAIS AMERICANOS🇺🇸" tvg-logo="https://i.imgur.com/FQCVaSR.png" ,This TV Network
+https://cdn.igocast.com/channel11_hls/channel11_master.m3u8
+#EXTINF:-1 group-title="🇺🇸CANAIS AMERICANOS🇺🇸" tvg-logo="https://i.imgur.com/rDY2LWP.png" ,Thriller
+https://d57cdb1c61b14a8da311d2c9d4513546.mediatailor.us-east-1.amazonaws.com/v1/master/82ded7a88773aef3d6dd1fedce15ba2d57eb6bca/wse_powr_com_5f89ae7966822c1f43b457fe/playlist.m3u8
+#EXTINF:-1 group-title="🇺🇸CANAIS AMERICANOS🇺🇸" tvg-logo="https://i.imgur.com/Anlb1SP.png" ,Tierramia TV
+http://live-edge01.telecentro.net.ar/live/smil:trm.smil/playlist.m3u8
+#EXTINF:-1 group-title="🇺🇸CANAIS AMERICANOS🇺🇸" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/timeline-logo.png" ,Timeline
+https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-5f74cf83ffbe690040689f50?X-Plex-Token=MorUy57ijWhGe4ixZb_T
+#EXTINF:-1 group-title="🇺🇸CANAIS AMERICANOS🇺🇸" tvg-logo="https://i.imgur.com/Anlb1SP.png" ,Times Now (Opt-2)
+http://timesnow-lh.akamaihd.net/i/TNHD_1@129288/master.m3u8
+#EXTINF:-1 group-title="🇺🇸CANAIS AMERICANOS🇺🇸" tvg-logo="https://i.imgur.com/Anlb1SP.png" ,Titanic TV
+https://a.jsrdn.com/broadcast/22719/+0000/hi/c.m3u8
+#EXTINF:-1 group-title="🇺🇸CANAIS AMERICANOS🇺🇸" tvg-logo="https://i.imgur.com/wzBD6fy.png" ,TMZ
+https://dai2.xumo.com/xumocdn/p=roku/amagi_hls_data_xumo1234A-tmz/CDN/1280x720_5000000/index.m3u8
+#EXTINF:-1 group-title="🇺🇸CANAIS AMERICANOS🇺🇸" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/tg-toon-goggles-us.png" ,Toon Goggles
+https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-5f170d60b898490041b49359?X-Plex-Token=MorUy57ijWhGe4ixZb_T
+#EXTINF:-1 group-title="🇺🇸CANAIS AMERICANOS🇺🇸" tvg-logo="https://i.imgur.com/Anlb1SP.png" ,Town of Vienna Community Network [HQ]
+https://granicusliveus2-a.akamaihd.net/vienna-va/G1359_003/playlist.m3u8
+#EXTINF:-1 group-title="🇺🇸CANAIS AMERICANOS🇺🇸" tvg-logo="https://i.imgur.com/pE9Vv17.png" ,Toy Zone
+https://stitcheraws.unreel.me/wse-node02.powr.com/live/5bf22491932c8304fc4533e4/playlist.m3u8
+#EXTINF:-1 group-title="🇺🇸CANAIS AMERICANOS🇺🇸" tvg-logo="https://i.imgur.com/Anlb1SP.png" ,Transmedia TV Morelia
+http://streamingcws20.com:1935/tmtv/videotmtv/chunklist_w1798696550.m3u8
+#EXTINF:-1 group-title="🇺🇸CANAIS AMERICANOS🇺🇸" tvg-logo="https://i.imgur.com/GFyJviy.png" ,Travel 4U
+https://nimble.dashstreams.net/onestudio/travel4u/playlist.m3u8
+#EXTINF:-1 group-title="🇺🇸CANAIS AMERICANOS🇺🇸" tvg-logo="https://i.imgur.com/Anlb1SP.png" ,Trident 10 TV
+http://161.0.157.9/PLTV/88888888/224/3221226832/index.m3u8
+#EXTINF:-1 group-title="🇺🇸CANAIS AMERICANOS🇺🇸" tvg-logo="https://i.imgur.com/Q7Zss1U.png" ,Trinity & Beyond
+https://stitcheraws.unreel.me/wse-node02.powr.com/live/5e2626030145130f25474626/playlist.m3u8
+#EXTINF:-1 group-title="🇺🇸CANAIS AMERICANOS🇺🇸" tvg-logo="https://i.imgur.com/Anlb1SP.png" ,Trinity Channel
+http://rtmp1.abnsat.com/hls/trinity.m3u8
+#EXTINF:-1 group-title="🇺🇸CANAIS AMERICANOS🇺🇸" tvg-logo="https://i.imgur.com/lvCjTl5.png" ,Tropics Live
+https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c9538b9932c837b4939735c/playlist.m3u8
+#EXTINF:-1 group-title="🇺🇸CANAIS AMERICANOS🇺🇸" tvg-logo="https://i.imgur.com/tV8tVxQ.png" ,TSTV
+http://tstv-stream.tsm.utexas.edu/hls/livestream_hi/index.m3u8
+#EXTINF:-1 group-title="🇺🇸CANAIS AMERICANOS🇺🇸" tvg-logo="https://i.imgur.com/Anlb1SP.png" ,Turkmen Owazy
+http://217.174.225.146/legacyhls/ch005_400/index.m3u8
+#EXTINF:-1 group-title="🇺🇸CANAIS AMERICANOS🇺🇸" tvg-logo="https://i.imgur.com/Anlb1SP.png" ,TV 41
+http://stream.taksimbilisim.com:1935/tv41/smil:tv41.smil/chunklist.m3u8
+#EXTINF:-1 group-title="🇺🇸CANAIS AMERICANOS🇺🇸" tvg-logo="https://i.imgur.com/Anlb1SP.png" ,TV Direct 13
+https://edge1.tvdirect13.com/live/playlist_720p.m3u8
+#EXTINF:-1 group-title="🇺🇸CANAIS AMERICANOS🇺🇸" tvg-logo="https://i.imgur.com/Anlb1SP.png" ,TV Montaña Canal 10
+http://ss6.domint.net:2060/tvm_str/montanatv/master.m3u8
+#EXTINF:-1 group-title="🇺🇸CANAIS AMERICANOS🇺🇸" tvg-logo="https://i.imgur.com/Anlb1SP.png" ,TV Municipal Cordoba (Opt-2)
+http://teledifusion.tv/cordoba/cordobalive/playlist.m3u8
+#EXTINF:-1 group-title="🇺🇸CANAIS AMERICANOS🇺🇸" tvg-logo="https://i.imgur.com/Anlb1SP.png" ,TV Sei Teramo
+http://185.202.128.1:1935/Tv6Stream/tv6TV.stream_tlm/playlist.m3u8
+#EXTINF:-1 group-title="🇺🇸CANAIS AMERICANOS🇺🇸" tvg-logo="https://i.imgur.com/Anlb1SP.png" ,TVK
+http://203.176.130.123:8989/live/tvk_480k.stream/playlist.m3u8
+#EXTINF:-1 group-title="🇺🇸CANAIS AMERICANOS🇺🇸" tvg-logo="https://i.imgur.com/pXOyNEy.png" ,TVS Boxing Network
+https://nrpus.bozztv.com/36bay2/gusa-tvsboxing/index.m3u8
+#EXTINF:-1 group-title="🇺🇸CANAIS AMERICANOS🇺🇸" tvg-logo="https://i.imgur.com/Anlb1SP.png" ,TVS Canal 22
+http://cm.hostlagarto.com:8081/Tvstv/TvstvHD.myStream/chunks.m3u8
+#EXTINF:-1 group-title="🇺🇸CANAIS AMERICANOS🇺🇸" tvg-logo="https://i.imgur.com/pXOyNEy.png" ,TVS Classic Movies
+http://nrpus.bozztv.com/36bay2/gusa-tvsclassicmovies/index.m3u8
+#EXTINF:-1 group-title="🇺🇸CANAIS AMERICANOS🇺🇸" tvg-logo="https://i.imgur.com/pXOyNEy.png" ,TVS Classic Sports
+https://nrpus.bozztv.com/36bay2/gusa-tvs/index.m3u8
+#EXTINF:-1 group-title="🇺🇸CANAIS AMERICANOS🇺🇸" tvg-logo="https://i.imgur.com/pXOyNEy.png" ,TVS Drive-in Movie
+http://nrpus.bozztv.com/36bay2/gusa-tvsdriveinmovie/index.m3u8
+#EXTINF:-1 group-title="🇺🇸CANAIS AMERICANOS🇺🇸" tvg-logo="https://i.imgur.com/pXOyNEy.png" ,TVS Family Channel
+http://nrpus.bozztv.com/36bay2/gusa-TVSFamilyChannel/index.m3u8
+#EXTINF:-1 group-title="🇺🇸CANAIS AMERICANOS🇺🇸" tvg-logo="https://i.imgur.com/pXOyNEy.png" ,TVS Film Noir Network
+https://nrpus.bozztv.com/36bay2/gusa-TVSFilmNoir/index.m3u8
+#EXTINF:-1 group-title="🇺🇸CANAIS AMERICANOS🇺🇸" tvg-logo="https://i.imgur.com/pXOyNEy.png" ,TVS Flashback Network
+https://nrpus.bozztv.com/36bay2/gusa-TVSFlashback/index.m3u8
+#EXTINF:-1 group-title="🇺🇸CANAIS AMERICANOS🇺🇸" tvg-logo="https://i.imgur.com/pXOyNEy.png" ,TVS Front Page Detective
+https://nrpus.bozztv.com/36bay2/gusa-tvsfrontpagedetective/index.m3u8
+#EXTINF:-1 group-title="🇺🇸CANAIS AMERICANOS🇺🇸" tvg-logo="https://i.imgur.com/pXOyNEy.png" ,TVS Frontier
+https://nrpus.bozztv.com/36bay2/gusa-tvsfrontier/index.m3u8
+#EXTINF:-1 group-title="🇺🇸CANAIS AMERICANOS🇺🇸" tvg-logo="https://i.imgur.com/pXOyNEy.png" ,TVS Hi Tops
+https://nrpus.bozztv.com/36bay2/gusa-hitops/index.m3u8
+#EXTINF:-1 group-title="🇺🇸CANAIS AMERICANOS🇺🇸" tvg-logo="https://i.imgur.com/pXOyNEy.png" ,TVS Hollywood History
+http://nrpus.bozztv.com/36bay2/gusa-tvshollywoohistory/index.m3u8
+#EXTINF:-1 group-title="🇺🇸CANAIS AMERICANOS🇺🇸" tvg-logo="https://i.imgur.com/pXOyNEy.png" ,TVS Horror
+https://nrpus.bozztv.com/36bay2/gusa-tvshorror/index.m3u8
+#EXTINF:-1 group-title="🇺🇸CANAIS AMERICANOS🇺🇸" tvg-logo="https://i.imgur.com/pXOyNEy.png" ,TVS Inspirational Network
+https://nrpus.bozztv.com/36bay2/gusa-TVSInspirationalNetwork/index.m3u8
+#EXTINF:-1 group-title="🇺🇸CANAIS AMERICANOS🇺🇸" tvg-logo="https://i.imgur.com/pXOyNEy.png" ,TVS Main Street
+https://nrpus.bozztv.com/36bay2/gusa-tvsmainst/index.m3u8
+#EXTINF:-1 group-title="🇺🇸CANAIS AMERICANOS🇺🇸" tvg-logo="https://i.imgur.com/pXOyNEy.png" ,TVS Music Network
+https://nrpus.bozztv.com/36bay2/gusa-tvsmusic/tracks-v1a1/index.m3u8
+#EXTINF:-1 group-title="🇺🇸CANAIS AMERICANOS🇺🇸" tvg-logo="https://i.imgur.com/pXOyNEy.png" ,TVS Nostalgia
+https://nrpus.bozztv.com/36bay2/gusa-nostalgia/index.m3u8
+#EXTINF:-1 group-title="🇺🇸CANAIS AMERICANOS🇺🇸" tvg-logo="https://i.imgur.com/pXOyNEy.png" ,TVS Nostalgia Movies Network
+http://nrpus.bozztv.com/36bay2/gusa-tvsNostalgiaMovies/index.m3u8
+#EXTINF:-1 group-title="🇺🇸CANAIS AMERICANOS🇺🇸" tvg-logo="https://i.imgur.com/pXOyNEy.png" ,TVS Quiz Show Network
+https://nrpus.bozztv.com/36bay2/gusa-tvsgameshow/index.m3u8
+#EXTINF:-1 group-title="🇺🇸CANAIS AMERICANOS🇺🇸" tvg-logo="https://i.imgur.com/pXOyNEy.png" ,TVS Select Network
+https://nrpus.bozztv.com/36bay2/gusa-tvsselect/index.m3u8
+#EXTINF:-1 group-title="🇺🇸CANAIS AMERICANOS🇺🇸" tvg-logo="https://i.imgur.com/pXOyNEy.png" ,TVS Sitcom
+https://nrpus.bozztv.com/36bay2/gusa-tvscomedy/index.m3u8
+#EXTINF:-1 group-title="🇺🇸CANAIS AMERICANOS🇺🇸" tvg-logo="https://i.imgur.com/pXOyNEy.png" ,TVS Sports Network
+https://nrpus.bozztv.com/36bay2/gusa-tvssports/index.m3u8
+#EXTINF:-1 group-title="🇺🇸CANAIS AMERICANOS🇺🇸" tvg-logo="https://i.imgur.com/pXOyNEy.png" ,TVS Tally Ho
+https://nrpus.bozztv.com/36bay2/gusa-tvstallyho/index.m3u8
+#EXTINF:-1 group-title="🇺🇸CANAIS AMERICANOS🇺🇸" tvg-logo="https://i.imgur.com/pXOyNEy.png" ,TVS Tavern TV
+https://nrpus.bozztv.com/36bay2/gusa-tavern/index.m3u8
+#EXTINF:-1 group-title="🇺🇸CANAIS AMERICANOS🇺🇸" tvg-logo="https://i.imgur.com/pXOyNEy.png" ,TVS Television Network
+http://nrpus.bozztv.com/36bay2/gusa-tvstn/index.m3u8
+#EXTINF:-1 group-title="🇺🇸CANAIS AMERICANOS🇺🇸" tvg-logo="https://i.imgur.com/pXOyNEy.png" ,TVS Today Home Entertainment Network
+https://nrpus.bozztv.com/36bay2/gusa-TVSTodayHomeEntertainment/tracks-v1a1/index.m3u8
+#EXTINF:-1 group-title="🇺🇸CANAIS AMERICANOS🇺🇸" tvg-logo="https://i.imgur.com/pXOyNEy.png" ,TVS Travel Network
+https://nrpus.bozztv.com/36bay2/gusa-tvstravel/index.m3u8
+#EXTINF:-1 group-title="🇺🇸CANAIS AMERICANOS🇺🇸" tvg-logo="https://i.imgur.com/pXOyNEy.png" ,TVS Turbo Network
+https://nrpus.bozztv.com/36bay2/gusa-tvsturbo/index.m3u8
+#EXTINF:-1 group-title="🇺🇸CANAIS AMERICANOS🇺🇸" tvg-logo="https://i.imgur.com/pXOyNEy.png" ,TVS Western Movie
+http://nrpus.bozztv.com/36bay2/gusa-tvswesternmovies/index.m3u8
+#EXTINF:-1 group-title="🇺🇸CANAIS AMERICANOS🇺🇸" tvg-logo="https://i.imgur.com/pXOyNEy.png" ,TVS Women´s Sports Network
+https://nrpus.bozztv.com/36bay2/gusa-tvswsn/index.m3u8
+#EXTINF:-1 group-title="🇺🇸CANAIS AMERICANOS🇺🇸" tvg-logo="https://i.imgur.com/SrRxU67.png" ,TVW
+http://d3ktuc8v2sjk6m.cloudfront.net/livetv/ngrp:TVWAIR_all/chucklist.m3u8
+#EXTINF:-1 group-title="🇺🇸CANAIS AMERICANOS🇺🇸" tvg-logo="https://icanlive.tv/pictures/tvw.jpg" ,TVW
+https://d3ktuc8v2sjk6m.cloudfront.net/livetv/ngrp:TVWAIR_all/playlist.m3u8
+#EXTINF:-1 group-title="🇺🇸CANAIS AMERICANOS🇺🇸" tvg-logo="http://127.0.0.1/" ,TWIT
+http://iphone-streaming.ustream.tv:80/uhls/1524/streams/live/playlist.m3u8
+#EXTINF:-1 group-title="🇺🇸CANAIS AMERICANOS🇺🇸" tvg-logo="https://i.imgur.com/Anlb1SP.png" ,UALR TV
+http://na-all23.secdn.net/pegstream3-live/play/65ea794b-dd82-41ce-8e98-a9177289a063/master.m3u8
+#EXTINF:-1 group-title="🇺🇸CANAIS AMERICANOS🇺🇸" tvg-logo="https://i.imgur.com/ehMz9T5.png" ,UCTV - University of California
+https://59e8e1c60a2b2.streamlock.net/509/509.stream/playlist.m3u8
+#EXTINF:-1 group-title="🇺🇸CANAIS AMERICANOS🇺🇸" tvg-logo="https://i.imgur.com/lPyJhBN.png" ,UN Web TV
+https://bcliveunivsecure-lh.akamaihd.net/i/un150_A1_1@575439/master.m3u8
+#EXTINF:-1 group-title="🇺🇸CANAIS AMERICANOS🇺🇸" tvg-logo="https://i.imgur.com/Anlb1SP.png" ,Uncion 24
+http://68.235.37.11:1935/uncion24/Uncion24/playlist.m3u8
+#EXTINF:-1 group-title="🇺🇸CANAIS AMERICANOS🇺🇸" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/unidentified.png" ,Unidentified
+https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-5eea605374085f0040ddc764?X-Plex-Token=MorUy57ijWhGe4ixZb_T
+#EXTINF:-1 group-title="🇺🇸CANAIS AMERICANOS🇺🇸" tvg-logo="https://i.imgur.com/Anlb1SP.png" ,United States: ABC 9 Orlando FL (WFTV-HD)
+http://svc-lvanvato-cxtv-wftv.cmgvideo.com/wftv/2564k/index.m3u8
+#EXTINF:-1 group-title="🇺🇸CANAIS AMERICANOS🇺🇸" tvg-logo="https://i.imgur.com/Anlb1SP.png" ,United States: ABC News Digital 1
+https://abclive1-lh.akamaihd.net/i/abc_live01@423395/master.m3u8
+#EXTINF:-1 group-title="🇺🇸CANAIS AMERICANOS🇺🇸" tvg-logo="https://i.imgur.com/Anlb1SP.png" ,United States: ABC News Digital 10
+https://abclive1-lh.akamaihd.net/i/abc_live10@420897/master.m3u8
+#EXTINF:-1 group-title="🇺🇸CANAIS AMERICANOS🇺🇸" tvg-logo="https://i.imgur.com/Anlb1SP.png" ,United States: ABC News Digital 2
+https://abclive1-lh.akamaihd.net/i/abc_live02@423396/master.m3u8
+#EXTINF:-1 group-title="🇺🇸CANAIS AMERICANOS🇺🇸" tvg-logo="https://i.imgur.com/Anlb1SP.png" ,United States: ABC News Digital 3
+https://abclive1-lh.akamaihd.net/i/abc_live03@423397/master.m3u8
+#EXTINF:-1 group-title="🇺🇸CANAIS AMERICANOS🇺🇸" tvg-logo="https://i.imgur.com/Anlb1SP.png" ,United States: ABC News Digital 4
+https://abclive1-lh.akamaihd.net/i/abc_live04@423398/master.m3u8
+#EXTINF:-1 group-title="🇺🇸CANAIS AMERICANOS🇺🇸" tvg-logo="https://i.imgur.com/Anlb1SP.png" ,United States: ABC News Digital 5
+https://abclive1-lh.akamaihd.net/i/abc_live05@423399/master.m3u8
+#EXTINF:-1 group-title="🇺🇸CANAIS AMERICANOS🇺🇸" tvg-logo="https://i.imgur.com/Anlb1SP.png" ,United States: ABC News Digital 6
+https://abclive1-lh.akamaihd.net/i/abc_live06@423400/master.m3u8
+#EXTINF:-1 group-title="🇺🇸CANAIS AMERICANOS🇺🇸" tvg-logo="https://i.imgur.com/Anlb1SP.png" ,United States: ABC News Digital 7
+https://abclive1-lh.akamaihd.net/i/abc_live07@423401/master.m3u8
+#EXTINF:-1 group-title="🇺🇸CANAIS AMERICANOS🇺🇸" tvg-logo="https://i.imgur.com/Anlb1SP.png" ,United States: ABC News Digital 8
+https://abclive1-lh.akamaihd.net/i/abc_live08@423402/master.m3u8
+#EXTINF:-1 group-title="🇺🇸CANAIS AMERICANOS🇺🇸" tvg-logo="https://i.imgur.com/Anlb1SP.png" ,United States: Bloomberg TV
+http://210.210.155.35/session/1f4b9814-7ed5-11e8-aa50-c81f66f89318/uq2663/h/h03/01.m3u8
+#EXTINF:-1 group-title="🇺🇸CANAIS AMERICANOS🇺🇸" tvg-logo="https://i.imgur.com/Anlb1SP.png" ,United States: Catholic TV
+http://catholictvhd-lh.akamaihd.net:80/i/ctvhd_1@88148/master.m3u8
+#EXTINF:-1 group-title="🇺🇸CANAIS AMERICANOS🇺🇸" tvg-logo="https://i.imgur.com/Anlb1SP.png" ,United States: CC-TV (Charlotte County)
+http://granicusliveus3-a.akamaihd.net/charlotte/G0055_002/chunklist.m3u8
+#EXTINF:-1 group-title="🇺🇸CANAIS AMERICANOS🇺🇸" tvg-logo="https://i.imgur.com/Anlb1SP.png" ,United States: CT-N Live Stream 2
+http://video.ct-n.com/live/web2stream/chunklist_w1202315245_DVR.m3u8
+#EXTINF:-1 group-title="🇺🇸CANAIS AMERICANOS🇺🇸" tvg-logo="https://i.imgur.com/Anlb1SP.png" ,United States: Edge Sports
+https://imgedge.akamaized.net/amagi_hls_data_imgAAA2AA-edgesports/CDN/playlist.m3u8
+#EXTINF:-1 group-title="🇺🇸CANAIS AMERICANOS🇺🇸" tvg-logo="https://i.imgur.com/Anlb1SP.png" ,United States: ESNE TV
+https://zypelive-lh.akamaihd.net/i/default_1@710948/master.m3u8
+#EXTINF:-1 group-title="🇺🇸CANAIS AMERICANOS🇺🇸" tvg-logo="https://i.imgur.com/Anlb1SP.png" ,United States: Fairfax Public Access
+http://cs.ebmcdn.net/eastbay-live-hs-1/fairfax-pull/_definst_/mp4:fairfax.stream/chunklist.m3u8
+#EXTINF:-1 group-title="🇺🇸CANAIS AMERICANOS🇺🇸" tvg-logo="https://i.imgur.com/Anlb1SP.png" ,United States: Faith & Life TV
+http://na-all9.secdn.net/logos-channel/live/faithlifetv/playlist.m3u8
+#EXTINF:-1 group-title="🇺🇸CANAIS AMERICANOS🇺🇸" tvg-logo="https://i.imgur.com/Anlb1SP.png" ,United States: Fight Sports
+http://210.210.155.35/session/b09f20ac-0755-11e9-90c8-c81f66f89318/uq2663/h/h05/02.m3u8
+#EXTINF:-1 group-title="🇺🇸CANAIS AMERICANOS🇺🇸" tvg-logo="https://i.imgur.com/Anlb1SP.png" ,United States: FOX 23 Tulsa OK (KOKI-TV)
+http://svc-lvanvato-cxtv-koki.cmgvideo.com/koki/2564k/index.m3u8
+#EXTINF:-1 group-title="🇺🇸CANAIS AMERICANOS🇺🇸" tvg-logo="https://i.imgur.com/Anlb1SP.png" ,United States: FOX 28 Savannah GA (WTGS)
+http://content.uplynk.com/channel/e56ba52a1b9d45ad8c8a033fd83fe480.m3u8
+#EXTINF:-1 group-title="🇺🇸CANAIS AMERICANOS🇺🇸" tvg-logo="https://i.imgur.com/Anlb1SP.png" ,United States: FOX Sport HD 1
+http://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master1280x720.m3u8
+#EXTINF:-1 group-title="🇺🇸CANAIS AMERICANOS🇺🇸" tvg-logo="https://i.imgur.com/Anlb1SP.png" ,United States: GOD TV
+https://zypelive-lh.akamaihd.net/i/default_1@710958/master.m3u8
+#EXTINF:-1 group-title="🇺🇸CANAIS AMERICANOS🇺🇸" tvg-logo="https://i.imgur.com/Anlb1SP.png" ,United States: Gospel Truth TV
+https://bstna.tulix.tv/live/bs_2m/index.m3u8
+#EXTINF:-1 group-title="🇺🇸CANAIS AMERICANOS🇺🇸" tvg-logo="https://i.imgur.com/Anlb1SP.png" ,United States: Honor TV
+https://a.jsrdn.com/broadcast/d5b48/+0000/low/c.m3u8
+#EXTINF:-1 group-title="🇺🇸CANAIS AMERICANOS🇺🇸" tvg-logo="https://i.imgur.com/Anlb1SP.png" ,United States: Inspiration TV
+http://inspnetworks-lh.akamaihd.net/i/insp_2@393793/master.m3u8
+#EXTINF:-1 group-title="🇺🇸CANAIS AMERICANOS🇺🇸" tvg-logo="https://i.imgur.com/Anlb1SP.png" ,United States: ISN
+http://cpdc101-lh.akamaihd.net/i/ISNCPDCMB1_1@314337/master.m3u8
+#EXTINF:-1 group-title="🇺🇸CANAIS AMERICANOS🇺🇸" tvg-logo="https://i.imgur.com/Anlb1SP.png" ,United States: Jewelry Television
+http://wowzaprod134-i.akamaihd.net/hls/live/577814/ccddaf02/playlist.m3u8
+#EXTINF:-1 group-title="🇺🇸CANAIS AMERICANOS🇺🇸" tvg-logo="https://i.imgur.com/Anlb1SP.png" ,United States: Miami TV
+https://59ec5453559f0.streamlock.net/miamitv/smil:miamitvROKU/chunklist_w1195980091_b2592000.m3u8
+#EXTINF:-1 group-title="🇺🇸CANAIS AMERICANOS🇺🇸" tvg-logo="https://i.imgur.com/Anlb1SP.png" ,United States: Miami TV Jenny Live
+https://59ec5453559f0.streamlock.net/mexicotv/smil:miamitvmexicoROKU/chunklist_w1869403172_b1896000.m3u8
+#EXTINF:-1 group-title="🇺🇸CANAIS AMERICANOS🇺🇸" tvg-logo="https://i.imgur.com/Anlb1SP.png" ,United States: Miami TV Latino
+https://59ec5453559f0.streamlock.net/canal18/smil:canal18/chunklist_w577650521_b2592000.m3u8
+#EXTINF:-1 group-title="🇺🇸CANAIS AMERICANOS🇺🇸" tvg-logo="https://i.imgur.com/Anlb1SP.png" ,United States: NBC Charlotte NC (WCNC-TV)
+http://wcnc-lh.akamaihd.net/i/WCNC_Breaking_1@195112/master.m3u8
+#EXTINF:-1 group-title="🇺🇸CANAIS AMERICANOS🇺🇸" tvg-logo="https://i.imgur.com/Anlb1SP.png" ,United States: NBC San Jose CA (KNTV)
+https://kntvlive-f.akamaihd.net/i/kntvb1_1@15530/master.m3u8
+#EXTINF:-1 group-title="🇺🇸CANAIS AMERICANOS🇺🇸" tvg-logo="https://i.imgur.com/Anlb1SP.png" ,United States: PBC Tapesh TV
+http://iptv.tapesh.tv/tapesh/playlist.m3u8
+#EXTINF:-1 group-title="🇺🇸CANAIS AMERICANOS🇺🇸" tvg-logo="https://i.imgur.com/Anlb1SP.png" ,United States: SBN
+http://sonlife7-i.akamaihd.net/hls/live/585011/ch7/master.m3u8
+#EXTINF:-1 group-title="🇺🇸CANAIS AMERICANOS🇺🇸" tvg-logo="https://i.imgur.com/Anlb1SP.png" ,United States: SBN Global
+http://sonlife10-i.akamaihd.net/hls/live/585013/ch10/master.m3u8
+#EXTINF:-1 group-title="🇺🇸CANAIS AMERICANOS🇺🇸" tvg-logo="https://i.imgur.com/Anlb1SP.png" ,United States: SubRang TV
+http://cdn61.liveonlineservices.com/hls/subrang.m3u8
+#EXTINF:-1 group-title="🇺🇸CANAIS AMERICANOS🇺🇸" tvg-logo="https://i.imgur.com/Anlb1SP.png" ,United States: TBD
+http://content.uplynk.com/channel/1831163f97674328ad9f4b4814ed39c5.m3u8?tc=1&exp=1614631202&rn=614441536&ct=c&cid=1831163f97674328ad9f4b4814ed39c5&ad=comet&ad.adUnit=%2FTBD%2FLivestream_midroll&ad._debug=TBDNET_ssai_livestream_midroll&ad.ad_rule=1&ad.pmad=12&ad.output=xml_vmap1&sig=5d194a4e4c5a4d59023d6a39a2ba5ba82dcd817b615e9f82115c41d9b26ffd0a
+#EXTINF:-1 group-title="🇺🇸CANAIS AMERICANOS🇺🇸" tvg-logo="https://i.imgur.com/Anlb1SP.png" ,United States: TCT
+http://bcoveliveios-i.akamaihd.net/hls/live/206632/1997976452001/TCTHLS/TCTHLS_Live_1200.m3u8
+#EXTINF:-1 group-title="🇺🇸CANAIS AMERICANOS🇺🇸" tvg-logo="https://i.imgur.com/Anlb1SP.png" ,United States: TCT Kids
+http://bcoveliveios-i.akamaihd.net:80/hls/live/206632/1997976452001/FamilyHLS/FamilyHLS_Live_1200.m3u8
+#EXTINF:-1 group-title="🇺🇸CANAIS AMERICANOS🇺🇸" tvg-logo="https://i.imgur.com/Anlb1SP.png" ,United States: Telemundo 44
+https://wrclive-f.akamaihd.net/i/wrcb2_1@46880/master.m3u8
+#EXTINF:-1 group-title="🇺🇸CANAIS AMERICANOS🇺🇸" tvg-logo="https://i.imgur.com/Anlb1SP.png" ,United States: Tempe 11
+http://granicusliveus1-a.akamaihd.net/tempe/G0355_003/chunklist.m3u8
+#EXTINF:-1 group-title="🇺🇸CANAIS AMERICANOS🇺🇸" tvg-logo="https://i.imgur.com/Anlb1SP.png" ,United States: WOW! TV
+http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/playlist.m3u8?JoCaRoIPTV.m3u8
+#EXTINF:-1 group-title="🇺🇸CANAIS AMERICANOS🇺🇸" tvg-logo="https://i.imgur.com/Anlb1SP.png" ,Uno TV
+http://ooyalahd2-f.akamaihd.net/i/UnoTV01_delivery@122640/master.m3u8
+#EXTINF:-1 group-title="🇺🇸CANAIS AMERICANOS🇺🇸" tvg-logo="http://127.0.0.1/" ,UrbanMusic 4U
+https://nimble.dashstreams.net/onestudio/UrbanMusic4U/playlist.m3u8
+#EXTINF:-1 group-title="🇺🇸CANAIS AMERICANOS🇺🇸" tvg-logo="https://i.imgur.com/Anlb1SP.png" ,UTV San Clemente
+http://v3.tustreaming.cl/utvsc/live1/playlist.m3u8
+#EXTINF:-1 group-title="🇺🇸CANAIS AMERICANOS🇺🇸" tvg-logo="https://i.imgur.com/Anlb1SP.png" ,Vallevision TV
+http://190.103.183.24:1935/Vallevision/ValleHD/chunklist_w1921252657.m3u8
+#EXTINF:-1 group-title="🇺🇸CANAIS AMERICANOS🇺🇸" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/venn-logo.png" ,VENN
+https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-5f74cf7dffbe690040689f3b?X-Plex-Token=MorUy57ijWhGe4ixZb_T
+#EXTINF:-1 group-title="🇺🇸CANAIS AMERICANOS🇺🇸" tvg-logo="https://i.imgur.com/1FRvMEX.png" ,Venus TV (US Eastern)
+https://a.jsrdn.com/broadcast/22690/-0500/c.m3u8
+#EXTINF:-1 group-title="🇺🇸CANAIS AMERICANOS🇺🇸" tvg-logo="https://i.imgur.com/1FRvMEX.png" ,Venus TV (US Pacific)
+https://a.jsrdn.com/broadcast/22690/-0800/c.m3u8
+#EXTINF:-1 group-title="🇺🇸CANAIS AMERICANOS🇺🇸" tvg-logo="https://i.imgur.com/Anlb1SP.png" ,Vepaco TV (Opt-2)
+http://vcp1.myplaytv.com:1935/tvepaco/tvepaco/chunklist_w2073389661.m3u8
+#EXTINF:-1 group-title="🇺🇸CANAIS AMERICANOS🇺🇸" tvg-logo="https://i.imgur.com/Anlb1SP.png" ,Victory Television Network
+http://184.173.179.163:1935/victorytelevisionnetwork/victorytelevisionnetwork/playlist.m3u8
+#EXTINF:-1 group-title="🇺🇸CANAIS AMERICANOS🇺🇸" tvg-logo="https://i.imgur.com/Anlb1SP.png" ,Viva Cristo TV
+http://ss6.domint.net:1946/vct_str/vctv/playlist.m3u8
+#EXTINF:-1 group-title="🇺🇸CANAIS AMERICANOS🇺🇸" tvg-logo="https://i.imgur.com/Anlb1SP.png" ,VoA TV
+https://voa-lh.akamaihd.net/i/voa_mpls_tvmc6@320298/master.m3u8
+#EXTINF:-1 group-title="🇺🇸CANAIS AMERICANOS🇺🇸" tvg-logo="https://i.imgur.com/G0eQuH9.png" ,Vocea Basarabiei
+http://hls.voceabasarabiei.md/hls/vocea_basarabiei.m3u8
+#EXTINF:-1 group-title="🇺🇸CANAIS AMERICANOS🇺🇸" tvg-logo="https://i.imgur.com/ieoPf2G.png" ,Voice of America
+http://voa-lh.akamaihd.net/i/voa_mpls_tvmc3_3@320295/master.m3u8
+#EXTINF:-1 group-title="🇺🇸CANAIS AMERICANOS🇺🇸" tvg-logo="https://i.imgur.com/Anlb1SP.png" ,Voice of America (PST)
+http://voa-lh.akamaihd.net/i/voa_mpls_tvmc6@320298/master.m3u8
+#EXTINF:-1 group-title="🇺🇸CANAIS AMERICANOS🇺🇸" tvg-logo="https://i.imgur.com/Anlb1SP.png" ,Vuslat TV (Opt-2)
+https://59cba4d34b678.streamlock.net/live/vuslattv/chunklist.m3u8
+#EXTINF:-1 group-title="🇺🇸CANAIS AMERICANOS🇺🇸" tvg-logo="https://i.imgur.com/D8uMAuV.png" ,WABI 5 - Bangor - Maine
+https://ad-playlistserver.aws.syncbak.com/playlist/13613390/master.m3u8?access_token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6IkdyYXkyMDE2MDgyOSJ9.eyJtaWQiOjEzNjEzMzkwLCJtZDUiOiI2Y2M5MzczYjIxZWIwNzQ4ZDA0YTRlYzYyMjU2YjBhMiIsImlhdCI6MTQ5NzM4MTU5NywiaXNzIjoiU3luY2JhayIsInN1YiI6IkdyYXkifQ.qJPiMCbnGjAn9wgPrGjVl3M9Xfc4CVSyoZTZ5OH-1jo
+#EXTINF:-1 group-title="🇺🇸CANAIS AMERICANOS🇺🇸" tvg-logo="https://i.imgur.com/Anlb1SP.png" ,WABI 5 - Bangor - Maine
+https://ad-playlistserver.aws.syncbak.com/playlist/13613390/master.m3u8?access_token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6IkdyYXkyMDE2MDgyOSJ9.eyJtaWQiOjEzNjEzMzkwLCJtZDUiOiI2Y2M5MzczYjIxZWIwNzQ4ZDA0YTRlYzYyMjU2YjBhMiIsImlhdCI6MTQ5NzM4MTU5NywiaXNzIjoiU3luY2JhayIsInN1YiI6IkdyYXkifQ.qJPiMCbnGjAn9wgPrGjVl3M9Xfc4CVSyoZTZ5OH-1jo&IMDSFULL
+#EXTINF:-1 group-title="🇺🇸CANAIS AMERICANOS🇺🇸" tvg-logo="https://i.imgur.com/rFL5oBe.png" ,Wanderluster
+https://stitcheraws.unreel.me/wse-node02.powr.com/live/5bf2267fd5eeee0f5a4094c0/playlist.m3u8
+#EXTINF:-1 group-title="🇺🇸CANAIS AMERICANOS🇺🇸" tvg-logo="https://i.imgur.com/b0jl5EG.png" ,Waterfalls Live
+https://95771f8415a84e31bd152fe9c6c9905c.mediatailor.us-east-1.amazonaws.com/v1/master/82ded7a88773aef3d6dd1fedce15ba2d57eb6bca/wse_powr_com_5c953910932c837b4939735d/playlist.m3u8
+#EXTINF:-1 group-title="🇺🇸CANAIS AMERICANOS🇺🇸" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/waypointtv_logo_dark.png" ,Waypoint TV
+https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-5fd115b8b7ef8d002dcf1817?X-Plex-Token=MorUy57ijWhGe4ixZb_T
+#EXTINF:-1 group-title="🇺🇸CANAIS AMERICANOS🇺🇸" tvg-logo="https://i.imgur.com/Anlb1SP.png" ,WBRZ-TV (Baton Rouge)
+http://cms-wowza.lunabyte.io/wbrz-live-1/_definst_/smil:wbrz-live.smil/chunklist_b1300000.m3u8
+#EXTINF:-1 group-title="🇺🇸CANAIS AMERICANOS🇺🇸" tvg-logo="http://127.0.0.1/" ,Weather 4U
+https://nimble.dashstreams.net/onestudio/weather4u/playlist.m3u8
+#EXTINF:-1 group-title="🇺🇸CANAIS AMERICANOS🇺🇸" tvg-logo="https://i.imgur.com/Anlb1SP.png" ,Weather Nation
+http://cdnapi.kaltura.com/p/931702/sp/93170200/playManifest/entryId/1_oorxcge2/format/applehttp/protocol/http/uiConfId/28428751.m3u8
+#EXTINF:-1 group-title="🇺🇸CANAIS AMERICANOS🇺🇸" tvg-logo="https://i.imgur.com/X23p0GB.png" ,Weather Nation
+http://cdnapi.kaltura.com/p/931702/sp/93170200/playManifest/entryId/1_oorxcge2/format/applehttp/protocol/http/uiConfId/28428751/a.m3u8
+#EXTINF:-1 group-title="🇺🇸CANAIS AMERICANOS🇺🇸" tvg-logo="https://i.imgur.com/K1kJf1s.png" ,Weather Nation
+https://weathernationtv.roku.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 group-title="🇺🇸CANAIS AMERICANOS🇺🇸" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/jukin_weatherspy_1.png" ,WeatherSpy
+https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-5f170d66b898490041b493ad?X-Plex-Token=MorUy57ijWhGe4ixZb_T
+#EXTINF:-1 group-title="🇺🇸CANAIS AMERICANOS🇺🇸" tvg-logo="https://i.imgur.com/S3fqmWY.png" ,WFTV Channel 9 - Florida - Orlando
+https://d3nzocdfkx2ybv.cloudfront.net/in/cmg-wftve2-hls-v3/live.m3u8
+#EXTINF:-1 group-title="🇺🇸CANAIS AMERICANOS🇺🇸" tvg-logo="https://i.imgur.com/Anlb1SP.png" ,WHIO
+http://svc-lvanvato-cxtv-whio.cmgvideo.com:80/whio/2596k/index.m3u8
+#EXTINF:-1 group-title="🇺🇸CANAIS AMERICANOS🇺🇸" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/whistle_1.png" ,Whistle TV
+https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-5f0ff263d71dcb00449ec01b?X-Plex-Token=MorUy57ijWhGe4ixZb_T
+#EXTINF:-1 group-title="🇺🇸CANAIS AMERICANOS🇺🇸" tvg-logo="https://i.imgur.com/hhjrOB1.png" ,White Plains Community Media
+http://stream.swagit.com/live-edge/whiteplainsny/smil:std-4x3-1-b/chunklist_w1456643228_b512000.m3u8
+#EXTINF:-1 group-title="🇺🇸CANAIS AMERICANOS🇺🇸" tvg-logo="https://i.imgur.com/oua9m6O.jpg" ,WHOH TV - Hastings-On-Hudson - NY
+http://stream.swagit.com/live-edge/hastingsonhudsonny/smil:std-4x3-1-a/playlist.m3u8
+#EXTINF:-1 group-title="🇺🇸CANAIS AMERICANOS🇺🇸" tvg-logo="https://i.imgur.com/Gys19EC.png" ,WHPR
+http://162.244.81.156:1935/whprtv33roku/whprtv33roku/playlist.m3u8
+#EXTINF:-1 group-title="🇺🇸CANAIS AMERICANOS🇺🇸" tvg-logo="https://i.imgur.com/K1kJf1s.png" ,Wipeout Xtra
+https://endemol-wipeoutxtra-1.roku.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 group-title="🇺🇸CANAIS AMERICANOS🇺🇸" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/endemol_wipeoutxtra_1.png" ,Wipeout Xtra
+https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-5eea605574085f0040ddc785?X-Plex-Token=MorUy57ijWhGe4ixZb_T
+#EXTINF:-1 group-title="🇺🇸CANAIS AMERICANOS🇺🇸" tvg-logo="https://i.imgur.com/LW3Dfbt.png" ,WJAX Action News - Jacksonville
+https://d2eit0bra9qkiw.cloudfront.net/v1/master/77872db67918a151b697b5fbc23151e5765767dc/cmg_PROD_cmg-tv-10050_b9ac3c93-be86-4f7e-82b8-796b7f8bfda3_LE/in/cmg-wjaxtv-hls-v3/live.m3u8?aws.sessionId=dcb19887-c2ac-40ff-94fa-4f9c8692f754
+#EXTINF:-1 group-title="🇺🇸CANAIS AMERICANOS🇺🇸" tvg-logo="https://icanlive.tv/pictures/wjla.jpg" ,WJLA
+https://content.uplynk.com/40cec2bf074c40f08932da03ab4510be.m3u8?tc=1&exp=1603450324&rn=639963239&ct=a&cid=40cec2bf074c40f08932da03ab4510be&sig=07bfefa5ee84a9197e4091c661d702754ac9fa540e6a5e40dd16c098a5a1bf9a
+#EXTINF:-1 group-title="🇺🇸CANAIS AMERICANOS🇺🇸" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/wonder-logo.png" ,Wonder
+https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-5f74cf83ffbe690040689f4d?X-Plex-Token=MorUy57ijWhGe4ixZb_T
+#EXTINF:-1 group-title="🇺🇸CANAIS AMERICANOS🇺🇸" tvg-logo="https://i.imgur.com/oitvOug.png" ,World Of Free Sports TV
+https://a.jsrdn.com/broadcast/ab14783a09/+0000/c.m3u8
+#EXTINF:-1 group-title="🇺🇸CANAIS AMERICANOS🇺🇸" tvg-logo="https://komonews.com/resources/media2/3x1/full/119/center/90/b0bcc7de-1b66-4bb0-aaba-f6b124b6446e-small3x1_STIRR_Logo_0520_WorldPokerTour_1920x1080_EPG.png?cb=c81e728d9d4c2f636f067f89cc14862c" ,World Poker Tour
+https://0f2030e8d8b24ee5bf5144417e07d65a.mediatailor.us-west-2.amazonaws.com/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/WPT-Stirr/119.m3u8
+#EXTINF:-1 group-title="🇺🇸CANAIS AMERICANOS🇺🇸" tvg-logo="https://i.imgur.com/Anlb1SP.png" ,WOW!TV
+http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/chunklist_w454258933.m3u8
+#EXTINF:-1 group-title="🇺🇸CANAIS AMERICANOS🇺🇸" tvg-logo="https://i.imgur.com/Anlb1SP.png" ,WOW!TV HD
+http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/chunklist_w84588335.m3u8
+#EXTINF:-1 group-title="🇺🇸CANAIS AMERICANOS🇺🇸" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/wpt_logo.png" ,WPT
+https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-5f6b8e7900b0950040d0f2b2?X-Plex-Token=MorUy57ijWhGe4ixZb_T
+#EXTINF:-1 group-title="🇺🇸CANAIS AMERICANOS🇺🇸" tvg-logo="https://i.imgur.com/Anlb1SP.png" ,WSJ
+http://wsjlivehls-lh.akamaihd.net/i/events1_1@174990/master.m3u8
+#EXTINF:-1 group-title="🇺🇸CANAIS AMERICANOS🇺🇸" tvg-logo="https://i.imgur.com/2IOP6LI.jpg" ,WSJ
+https://wsjlivehls-lh.akamaihd.net/i/events1_1@174990/master.m3u8
+#EXTINF:-1 group-title="🇺🇸CANAIS AMERICANOS🇺🇸" tvg-logo="https://i.imgur.com/SlS8xic.png" ,WSVI TV - Virgin Islands USA
+http://dcunilive30-lh.akamaihd.net/i/dclive_1@534251/master.m3u8
+#EXTINF:-1 group-title="🇺🇸CANAIS AMERICANOS🇺🇸" tvg-logo="https://i.imgur.com/o8IBLar.jpg" ,WSVN 7 News Miami
+https://bcsecurelivehls-i.akamaihd.net/hls/live/598043/4368278029001_1/onair/master.m3u8
+#EXTINF:-1 group-title="🇺🇸CANAIS AMERICANOS🇺🇸" tvg-logo="https://i.imgur.com/irjmbE9.png" ,WTJR TV
+http://wtjrtv3.srfms.com:1935/wtjrtv3/livestream/playlist.m3u8
+#EXTINF:-1 group-title="🇺🇸CANAIS AMERICANOS🇺🇸" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/wu-tang-collection.png" ,Wu Tang Collection
+https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-5eea605474085f0040ddc770?X-Plex-Token=MorUy57ijWhGe4ixZb_T
+#EXTINF:-1 group-title="🇺🇸CANAIS AMERICANOS🇺🇸" tvg-logo="https://i.imgur.com/Anlb1SP.png" ,WXYZ ABC 7 Detroit (New!)
+https://content-auso2.uplynk.com/channel/9c9e4e410b5a471391c116166d8c010e.m3u8
+#EXTINF:-1 group-title="🇺🇸CANAIS AMERICANOS🇺🇸" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/yahoo-finance.png" ,Yahoo! Finance
+https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-5f170f01b898490041b49dd1?X-Plex-Token=MorUy57ijWhGe4ixZb_T
+#EXTINF:-1 group-title="🇺🇸CANAIS AMERICANOS🇺🇸" tvg-logo="https://i.imgur.com/Anlb1SP.png" ,Yildiz TV
+http://s01.vpis.io/sinopyildiz/sinopyildiz.m3u8
+#EXTINF:-1 group-title="🇺🇸CANAIS AMERICANOS🇺🇸" tvg-logo="https://i.imgur.com/3se2VEB.png" ,Youtoo America
+https://gideommd.mmdlive.lldns.net/gideommd/d5b6a753f86e4e51b8e15c7d23887a4f/chunklist_b1128000.m3u8
+#EXTINF:-1 group-title="🇺🇸CANAIS AMERICANOS🇺🇸" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/yuyu_samsung.png" ,YUYU TV
+https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-5ef4e1b40d9ad000423c442d?X-Plex-Token=MorUy57ijWhGe4ixZb_T
+#EXTINF:-1 group-title="🇺🇸CANAIS AMERICANOS🇺🇸" tvg-logo="https://i.imgur.com/c3Z5i2L.png" ,Z Living
+https://y5w8j4a9.ssl.hwcdn.net/zlivingusa_r/index.m3u8
+#EXTINF:-1 group-title="🇺🇸CANAIS AMERICANOS🇺🇸" tvg-logo="https://i.imgur.com/Anlb1SP.png" ,Z Living
+https://y5w8j4a9.ssl.hwcdn.net/zlivingusa_r_prod/tracks-v1a1/index.m3u8
+#EXTINF:-1 group-title="País | 🇺🇾 Uruguai" tvg-logo="http://127.0.0.1/" ,Teledoce
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=LVUY0001
+#EXTINF:-1 group-title="País | 🇺🇾 Uruguai" tvg-logo="276.png" ,Vera TV
+http://wms.shared.streamshow.it/veratv/veratv/playlist.m3u8
+#EXTINF:-1 group-title="País | 🇻🇪 Venezuela" tvg-logo="https://www.telesurtv.net/export/sites/telesur/arte/Texto-telesur-hd.png_1571705870.png" ,TeleSur
+https://d2ajt1gpdtnw25.cloudfront.net/mbliveMain/480p/playlist.m3u8
+#EXTINF:-1 group-title="País | 🇻🇪 Venezuela" tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/f073024b8b2a638c0af1309adb282fb0.png" ,Teletrack
+http://unlimited1-us.dps.live/sportinghd/sportinghd.smil/playlist.m3u8
