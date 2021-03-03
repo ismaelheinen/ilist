@@ -1,0 +1,1 @@
+http://dnsx.co:80/xmltv.php?username=7885037935&password=fireurl.co&type=m3u_plus&output=ts
