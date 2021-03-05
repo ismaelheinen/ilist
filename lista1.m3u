@@ -1,763 +1,5 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="http://a5.vc/3pE" group-title="●Alternativos●", Band SP FHD [Alter]
-http://dnsx.co:80/live/amanda.iptv/a1aw5s/90610.ts
-
-#EXTINF:-1 tvg-logo="http://a5.vc/3pE" group-title="●Alternativos●", Band SP HD [Alter]
-http://dnsx.co:80/live/amanda.iptv/a1aw5s/90611.ts
-
-#EXTINF:-1 tvg-logo="http://a5.vc/3pE" group-title="●Alternativos●", Band SP SD [Alter]
-http://dnsx.co:80/live/amanda.iptv/a1aw5s/90612.ts
-
-#EXTINF:-1 tvg-logo="http://a5.vc/TDh" group-title="●Alternativos●", BIS FHD [Alter]
-http://dnsx.co:80/live/amanda.iptv/a1aw5s/90604.ts
-
-#EXTINF:-1 tvg-logo="http://a5.vc/TDh" group-title="●Alternativos●", BIS HD [Alter]
-http://dnsx.co:80/live/amanda.iptv/a1aw5s/90605.ts
-
-#EXTINF:-1 tvg-logo="http://a5.vc/TDh" group-title="●Alternativos●", BIS SD [Alter]
-http://dnsx.co:80/live/amanda.iptv/a1aw5s/90606.ts
-
-#EXTINF:-1 tvg-logo="http://a5.vc/DtS" group-title="●Alternativos●", Boomerang FHD [Alter]
-http://dnsx.co:80/live/amanda.iptv/a1aw5s/90601.ts
-
-#EXTINF:-1 tvg-logo="http://a5.vc/DtS" group-title="●Alternativos●", Boomerang HD [Alter]
-http://dnsx.co:80/live/amanda.iptv/a1aw5s/90602.ts
-
-#EXTINF:-1 tvg-logo="http://a5.vc/DtS" group-title="●Alternativos●", Boomerang SD [Alter]
-http://dnsx.co:80/live/amanda.iptv/a1aw5s/90603.ts
-
-#EXTINF:-1 tvg-logo="http://a5.vc/1MP" group-title="●Alternativos●", Canal Brasil FHD [Alter]
-http://dnsx.co:80/live/amanda.iptv/a1aw5s/90598.ts
-
-#EXTINF:-1 tvg-logo="http://a5.vc/1MP" group-title="●Alternativos●", Canal Brasil HD [Alter]
-http://dnsx.co:80/live/amanda.iptv/a1aw5s/90599.ts
-
-#EXTINF:-1 tvg-logo="http://a5.vc/1MP" group-title="●Alternativos●", Canal Brasil SD [Alter]
-http://dnsx.co:80/live/amanda.iptv/a1aw5s/90600.ts
-
-#EXTINF:-1 tvg-logo="http://a5.vc/Ts9" group-title="●Alternativos●", Cartoon Network FHD [Alter]
-http://dnsx.co:80/live/amanda.iptv/a1aw5s/90595.ts
-
-#EXTINF:-1 tvg-logo="http://a5.vc/Ts9" group-title="●Alternativos●", Cartoon Network HD [Alter]
-http://dnsx.co:80/live/amanda.iptv/a1aw5s/90596.ts
-
-#EXTINF:-1 tvg-logo="http://a5.vc/Ts9" group-title="●Alternativos●", Cartoon Network SD [Alter]
-http://dnsx.co:80/live/amanda.iptv/a1aw5s/90597.ts
-
-#EXTINF:-1 tvg-logo="http://a5.vc/kBr" group-title="●Alternativos●", CNN Brasil FHD [Alter]
-http://dnsx.co:80/live/amanda.iptv/a1aw5s/90589.ts
-
-#EXTINF:-1 tvg-logo="http://a5.vc/kBr" group-title="●Alternativos●", CNN Brasil HD [Alter]
-http://dnsx.co:80/live/amanda.iptv/a1aw5s/90590.ts
-
-#EXTINF:-1 tvg-logo="http://a5.vc/kBr" group-title="●Alternativos●", CNN Brasil SD [Alter]
-http://dnsx.co:80/live/amanda.iptv/a1aw5s/90591.ts
-
-#EXTINF:-1 tvg-logo="http://a5.vc/Flm" group-title="●Alternativos●", Combate FHD [Alter]
-http://dnsx.co:80/live/amanda.iptv/a1aw5s/90586.ts
-
-#EXTINF:-1 tvg-logo="http://a5.vc/Flm" group-title="●Alternativos●", Combate HD [Alter]
-http://dnsx.co:80/live/amanda.iptv/a1aw5s/90587.ts
-
-#EXTINF:-1 tvg-logo="http://a5.vc/Flm" group-title="●Alternativos●", Combate SD [Alter]
-http://dnsx.co:80/live/amanda.iptv/a1aw5s/90588.ts
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Q7PzTSJ.png" group-title="●Alternativos●", Conmebol TV 1 FHD [Alter]
-http://dnsx.co:80/7885037935/fireurl.co/90580
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Q7PzTSJ.png" group-title="●Alternativos●", Conmebol TV 1 HD [Alter]
-http://dnsx.co:80/7885037935/fireurl.co/90581
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Q7PzTSJ.png" group-title="●Alternativos●", Conmebol TV 1 SD [Alter]
-http://dnsx.co:80/7885037935/fireurl.co/90582
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Q7PzTSJ.png" group-title="●Alternativos●", Conmebol TV 2 FHD [Alter]
-http://dnsx.co:80/7885037935/fireurl.co/90577
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Q7PzTSJ.png" group-title="●Alternativos●", Conmebol TV 2 HD [Alter]
-http://dnsx.co:80/7885037935/fireurl.co/90578
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Q7PzTSJ.png" group-title="●Alternativos●", Conmebol TV 2 SD [Alter]
-http://dnsx.co:80/7885037935/fireurl.co/90579
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Q7PzTSJ.png" group-title="●Alternativos●", Conmebol TV 3 FHD [Alter]
-http://dnsx.co:80/7885037935/fireurl.co/90574
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Q7PzTSJ.png" group-title="●Alternativos●", Conmebol TV 3 HD [Alter]
-http://dnsx.co:80/7885037935/fireurl.co/90575
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Q7PzTSJ.png" group-title="●Alternativos●", Conmebol TV 3 SD [Alter]
-http://dnsx.co:80/7885037935/fireurl.co/90576
-
-#EXTINF:-1 tvg-logo="http://a5.vc/XcV" group-title="●Alternativos●", Discovery H&H FHD [Alter]
-http://dnsx.co:80/live/amanda.iptv/a1aw5s/90568.ts
-
-#EXTINF:-1 tvg-logo="http://a5.vc/XcV" group-title="●Alternativos●", Discovery H&H HD [Alter]
-http://dnsx.co:80/live/amanda.iptv/a1aw5s/90569.ts
-
-#EXTINF:-1 tvg-logo="http://a5.vc/XcV" group-title="●Alternativos●", Discovery H&H SD [Alter]
-http://dnsx.co:80/live/amanda.iptv/a1aw5s/90570.ts
-
-#EXTINF:-1 tvg-logo="http://a5.vc/KvX" group-title="●Alternativos●", Discovery Kids FHD [Alter]
-http://dnsx.co:80/live/amanda.iptv/a1aw5s/90565.ts
-
-#EXTINF:-1 tvg-logo="http://a5.vc/KvX" group-title="●Alternativos●", Discovery Kids HD [Alter]
-http://dnsx.co:80/live/amanda.iptv/a1aw5s/90566.ts
-
-#EXTINF:-1 tvg-logo="http://a5.vc/KvX" group-title="●Alternativos●", Discovery Kids SD [Alter]
-http://dnsx.co:80/live/amanda.iptv/a1aw5s/90567.ts
-
-#EXTINF:-1 tvg-logo="http://a5.vc/0gi" group-title="●Alternativos●", Discovery Science FHD [Alter]
-http://dnsx.co:80/live/amanda.iptv/a1aw5s/90562.ts
-
-#EXTINF:-1 tvg-logo="http://a5.vc/0gi" group-title="●Alternativos●", Discovery Science HD [Alter]
-http://dnsx.co:80/live/amanda.iptv/a1aw5s/90563.ts
-
-#EXTINF:-1 tvg-logo="http://a5.vc/0gi" group-title="●Alternativos●", Discovery Science SD [Alter]
-http://dnsx.co:80/live/amanda.iptv/a1aw5s/90564.ts
-
-#EXTINF:-1 tvg-logo="http://a5.vc/Nib" group-title="●Alternativos●", Discovery Theater FHD [Alter]
-http://dnsx.co:80/live/amanda.iptv/a1aw5s/90559.ts
-
-#EXTINF:-1 tvg-logo="http://a5.vc/Nib" group-title="●Alternativos●", Discovery Theater HD [Alter]
-http://dnsx.co:80/live/amanda.iptv/a1aw5s/90560.ts
-
-#EXTINF:-1 tvg-logo="http://a5.vc/Nib" group-title="●Alternativos●", Discovery Theater SD [Alter]
-http://dnsx.co:80/live/amanda.iptv/a1aw5s/90561.ts
-
-#EXTINF:-1 tvg-logo="http://a5.vc/uCQ" group-title="●Alternativos●", Discovery Turbo FHD [Alter]
-http://dnsx.co:80/live/amanda.iptv/a1aw5s/90556.ts
-
-#EXTINF:-1 tvg-logo="http://a5.vc/uCQ" group-title="●Alternativos●", Discovery Turbo HD [Alter]
-http://dnsx.co:80/live/amanda.iptv/a1aw5s/90557.ts
-
-#EXTINF:-1 tvg-logo="http://a5.vc/uCQ" group-title="●Alternativos●", Discovery Turbo SD [Alter]
-http://dnsx.co:80/live/amanda.iptv/a1aw5s/90558.ts
-
-#EXTINF:-1 tvg-logo="http://a5.vc/wgC" group-title="●Alternativos●", Discovery World FHD [Alter]
-http://dnsx.co:80/live/amanda.iptv/a1aw5s/90553.ts
-
-#EXTINF:-1 tvg-logo="http://a5.vc/wgC" group-title="●Alternativos●", Discovery World HD [Alter]
-http://dnsx.co:80/live/amanda.iptv/a1aw5s/90554.ts
-
-#EXTINF:-1 tvg-logo="http://a5.vc/wgC" group-title="●Alternativos●", Discovery World SD [Alter]
-http://dnsx.co:80/live/amanda.iptv/a1aw5s/90555.ts
-
-#EXTINF:-1 tvg-logo="http://a5.vc/MJq" group-title="●Alternativos●", Disney Channel FHD [Alter]
-http://dnsx.co:80/live/amanda.iptv/a1aw5s/90550.ts
-
-#EXTINF:-1 tvg-logo="http://a5.vc/MJq" group-title="●Alternativos●", Disney Channel HD [Alter]
-http://dnsx.co:80/live/amanda.iptv/a1aw5s/90551.ts
-
-#EXTINF:-1 tvg-logo="http://a5.vc/MJq" group-title="●Alternativos●", Disney Channel SD [Alter]
-http://dnsx.co:80/live/amanda.iptv/a1aw5s/90552.ts
-
-#EXTINF:-1 tvg-logo="http://a5.vc/kzm" group-title="●Alternativos●", Disney Junior FHD [Alter]
-http://dnsx.co:80/live/amanda.iptv/a1aw5s/90547.ts
-
-#EXTINF:-1 tvg-logo="http://a5.vc/kzm" group-title="●Alternativos●", Disney Junior HD [Alter]
-http://dnsx.co:80/live/amanda.iptv/a1aw5s/90548.ts
-
-#EXTINF:-1 tvg-logo="http://a5.vc/kzm" group-title="●Alternativos●", Disney Junior SD [Alter]
-http://dnsx.co:80/live/amanda.iptv/a1aw5s/90549.ts
-
-#EXTINF:-1 tvg-logo="http://a5.vc/DKx" group-title="●Alternativos●", E! FHD [Alter]
-http://dnsx.co:80/live/amanda.iptv/a1aw5s/90544.ts
-
-#EXTINF:-1 tvg-logo="http://a5.vc/DKx" group-title="●Alternativos●", E! HD [Alter]
-http://dnsx.co:80/live/amanda.iptv/a1aw5s/90545.ts
-
-#EXTINF:-1 tvg-logo="http://a5.vc/DKx" group-title="●Alternativos●", E! SD [Alter]
-http://dnsx.co:80/live/amanda.iptv/a1aw5s/90546.ts
-
-#EXTINF:-1 tvg-logo="http://a5.vc/KCw" group-title="●Alternativos●", ESPN 2 FHD [Alter]
-http://dnsx.co:80/live/amanda.iptv/a1aw5s/90541.ts
-
-#EXTINF:-1 tvg-logo="http://a5.vc/KCw" group-title="●Alternativos●", ESPN 2 HD [Alter]
-http://dnsx.co:80/live/amanda.iptv/a1aw5s/90542.ts
-
-#EXTINF:-1 tvg-logo="http://a5.vc/YpF" group-title="●Alternativos●", ESPN Brasil HD [Alter]
-http://dnsx.co:80/live/amanda.iptv/a1aw5s/90536.ts
-
-#EXTINF:-1 tvg-logo="http://a5.vc/YpF" group-title="●Alternativos●", ESPN Brasil SD [Alter]
-http://dnsx.co:80/live/amanda.iptv/a1aw5s/90537.ts
-
-#EXTINF:-1 tvg-logo="http://a5.vc/i1l" group-title="●Alternativos●", ESPN Extra FHD [Alter]
-http://dnsx.co:80/live/amanda.iptv/a1aw5s/90532.ts
-
-#EXTINF:-1 tvg-logo="http://a5.vc/i1l" group-title="●Alternativos●", ESPN Extra HD [Alter]
-http://dnsx.co:80/live/amanda.iptv/a1aw5s/90533.ts
-
-#EXTINF:-1 tvg-logo="http://a5.vc/i1l" group-title="●Alternativos●", ESPN Extra SD [Alter]
-http://dnsx.co:80/live/amanda.iptv/a1aw5s/90534.ts
-
-#EXTINF:-1 tvg-logo="http://a5.vc/8lJ" group-title="●Alternativos●", ESPN FHD [Alter]
-http://dnsx.co:80/live/amanda.iptv/a1aw5s/90538.ts
-
-#EXTINF:-1 tvg-logo="http://a5.vc/8lJ" group-title="●Alternativos●", ESPN HD [Alter]
-http://dnsx.co:80/live/amanda.iptv/a1aw5s/90539.ts
-
-#EXTINF:-1 tvg-logo="http://a5.vc/8lJ" group-title="●Alternativos●", ESPN SD [Alter]
-http://dnsx.co:80/live/amanda.iptv/a1aw5s/90540.ts
-
-#EXTINF:-1 tvg-logo="http://a5.vc/ZHe" group-title="●Alternativos●", Food Network FHD [Alter]
-http://dnsx.co:80/live/amanda.iptv/a1aw5s/90529.ts
-
-#EXTINF:-1 tvg-logo="http://a5.vc/ZHe" group-title="●Alternativos●", Food Network HD [Alter]
-http://dnsx.co:80/live/amanda.iptv/a1aw5s/90530.ts
-
-#EXTINF:-1 tvg-logo="http://a5.vc/ZHe" group-title="●Alternativos●", Food Network SD [Alter]
-http://dnsx.co:80/live/amanda.iptv/a1aw5s/90531.ts
-
-#EXTINF:-1 tvg-logo="http://a5.vc/DXo" group-title="●Alternativos●", Fox Sports 2 FHD [Alter]
-http://dnsx.co:80/live/amanda.iptv/a1aw5s/90514.ts
-
-#EXTINF:-1 tvg-logo="http://a5.vc/DXo" group-title="●Alternativos●", Fox Sports 2 HD [Alter]
-http://dnsx.co:80/live/amanda.iptv/a1aw5s/90515.ts
-
-#EXTINF:-1 tvg-logo="http://a5.vc/DXo" group-title="●Alternativos●", Fox Sports 2 SD [Alter]
-http://dnsx.co:80/live/amanda.iptv/a1aw5s/90516.ts
-
-#EXTINF:-1 tvg-logo="http://a5.vc/55i" group-title="●Alternativos●", Fox Sports FHD [Alter]
-http://dnsx.co:80/live/amanda.iptv/a1aw5s/90511.ts
-
-#EXTINF:-1 tvg-logo="http://a5.vc/55i" group-title="●Alternativos●", Fox Sports HD [Alter]
-http://dnsx.co:80/live/amanda.iptv/a1aw5s/90512.ts
-
-#EXTINF:-1 tvg-logo="http://a5.vc/55i" group-title="●Alternativos●", Fox Sports SD [Alter]
-http://dnsx.co:80/live/amanda.iptv/a1aw5s/90513.ts
-
-#EXTINF:-1 tvg-logo="http://a5.vc/JsW" group-title="●Alternativos●", FX FHD [Alter]
-http://dnsx.co:80/live/amanda.iptv/a1aw5s/90508.ts
-
-#EXTINF:-1 tvg-logo="http://a5.vc/JsW" group-title="●Alternativos●", FX HD [Alter]
-http://dnsx.co:80/live/amanda.iptv/a1aw5s/90509.ts
-
-#EXTINF:-1 tvg-logo="http://a5.vc/JsW" group-title="●Alternativos●", FX SD [Alter]
-http://dnsx.co:80/live/amanda.iptv/a1aw5s/90510.ts
-
-#EXTINF:-1 tvg-logo="http://a5.vc/Xmr" group-title="●Alternativos●", Globo News FHD [Alter]
-http://dnsx.co:80/live/amanda.iptv/a1aw5s/90496.ts
-
-#EXTINF:-1 tvg-logo="http://a5.vc/Xmr" group-title="●Alternativos●", Globo News HD [Alter]
-http://dnsx.co:80/live/amanda.iptv/a1aw5s/90497.ts
-
-#EXTINF:-1 tvg-logo="http://a5.vc/Xmr" group-title="●Alternativos●", Globo News SD [Alter]
-http://dnsx.co:80/live/amanda.iptv/a1aw5s/90498.ts
-
-#EXTINF:-1 tvg-logo="http://a5.vc/J6W" group-title="●Alternativos●", Gloob FHD [Alter]
-http://dnsx.co:80/live/amanda.iptv/a1aw5s/90445.ts
-
-#EXTINF:-1 tvg-logo="http://a5.vc/J6W" group-title="●Alternativos●", Gloob HD [Alter]
-http://dnsx.co:80/live/amanda.iptv/a1aw5s/90446.ts
-
-#EXTINF:-1 tvg-logo="http://static.clubsrv.me/logos/canais/gloobinho.png" group-title="●Alternativos●", Gloobinho FHD [Alter]
-http://dnsx.co:80/live/amanda.iptv/a1aw5s/90442.ts
-
-#EXTINF:-1 tvg-logo="http://static.clubsrv.me/logos/canais/gloobinho.png" group-title="●Alternativos●", Gloobinho HD [Alter]
-http://dnsx.co:80/live/amanda.iptv/a1aw5s/90443.ts
-
-#EXTINF:-1 tvg-logo="http://static.clubsrv.me/logos/canais/gloobinho.png" group-title="●Alternativos●", Gloobinho SD [Alter]
-http://dnsx.co:80/live/amanda.iptv/a1aw5s/90444.ts
-
-#EXTINF:-1 tvg-logo="http://a5.vc/J6W" group-title="●Alternativos●", Gloob SD [Alter]
-http://dnsx.co:80/live/amanda.iptv/a1aw5s/90447.ts
-
-#EXTINF:-1 tvg-logo="http://a5.vc/scT" group-title="●Alternativos●", GNT FHD [Alter]
-http://dnsx.co:80/live/amanda.iptv/a1aw5s/90439.ts
-
-#EXTINF:-1 tvg-logo="http://a5.vc/scT" group-title="●Alternativos●", GNT HD [Alter]
-http://dnsx.co:80/live/amanda.iptv/a1aw5s/90440.ts
-
-#EXTINF:-1 tvg-logo="http://a5.vc/scT" group-title="●Alternativos●", GNT SD [Alter]
-http://dnsx.co:80/live/amanda.iptv/a1aw5s/90441.ts
-
-#EXTINF:-1 tvg-logo="http://a5.vc/Zwg" group-title="●Alternativos●", H2 FHD [Alter]
-http://dnsx.co:80/live/amanda.iptv/a1aw5s/90436.ts
-
-#EXTINF:-1 tvg-logo="http://a5.vc/Zwg" group-title="●Alternativos●", H2 HD [Alter]
-http://dnsx.co:80/live/amanda.iptv/a1aw5s/90437.ts
-
-#EXTINF:-1 tvg-logo="http://a5.vc/Zwg" group-title="●Alternativos●", H2 SD [Alter]
-http://dnsx.co:80/live/amanda.iptv/a1aw5s/90438.ts
-
-#EXTINF:-1 tvg-logo="http://a5.vc/0qQ" group-title="●Alternativos●", HBO 2 FHD [Alter]
-http://dnsx.co:80/live/amanda.iptv/a1aw5s/90433.ts
-
-#EXTINF:-1 tvg-logo="http://a5.vc/0qQ" group-title="●Alternativos●", HBO 2 HD [Alter]
-http://dnsx.co:80/live/amanda.iptv/a1aw5s/90434.ts
-
-#EXTINF:-1 tvg-logo="http://a5.vc/0qQ" group-title="●Alternativos●", HBO 2 SD [Alter]
-http://dnsx.co:80/live/amanda.iptv/a1aw5s/90435.ts
-
-#EXTINF:-1 tvg-logo="http://a5.vc/u4M" group-title="●Alternativos●", HBO Family FHD [Alter]
-http://dnsx.co:80/live/amanda.iptv/a1aw5s/90427.ts
-
-#EXTINF:-1 tvg-logo="http://a5.vc/u4M" group-title="●Alternativos●", HBO Family HD [Alter]
-http://dnsx.co:80/live/amanda.iptv/a1aw5s/90428.ts
-
-#EXTINF:-1 tvg-logo="http://a5.vc/u4M" group-title="●Alternativos●", HBO Family SD [Alter]
-http://dnsx.co:80/live/amanda.iptv/a1aw5s/90429.ts
-
-#EXTINF:-1 tvg-logo="http://a5.vc/ezc" group-title="●Alternativos●", HBO FHD [Alter]
-http://dnsx.co:80/live/amanda.iptv/a1aw5s/90430.ts
-
-#EXTINF:-1 tvg-logo="http://a5.vc/ezc" group-title="●Alternativos●", HBO HD [Alter]
-http://dnsx.co:80/live/amanda.iptv/a1aw5s/90431.ts
-
-#EXTINF:-1 tvg-logo="http://a5.vc/ezc" group-title="●Alternativos●", HBO SD [Alter]
-http://dnsx.co:80/live/amanda.iptv/a1aw5s/90432.ts
-
-#EXTINF:-1 tvg-logo="http://a5.vc/60H" group-title="●Alternativos●", HBO Plus FHD [Alter]
-http://dnsx.co:80/live/amanda.iptv/a1aw5s/90424.ts
-
-#EXTINF:-1 tvg-logo="http://a5.vc/60H" group-title="●Alternativos●", HBO Plus HD [Alter]
-http://dnsx.co:80/live/amanda.iptv/a1aw5s/90425.ts
-
-#EXTINF:-1 tvg-logo="http://a5.vc/60H" group-title="●Alternativos●", HBO Plus SD [Alter]
-http://dnsx.co:80/live/amanda.iptv/a1aw5s/90426.ts
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/CyW3g9p.png" group-title="●Alternativos●", HGTV FHD [Alter]
-http://dnsx.co:80/live/amanda.iptv/a1aw5s/90421.ts
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/CyW3g9p.png" group-title="●Alternativos●", HGTV HD [Alter]
-http://dnsx.co:80/live/amanda.iptv/a1aw5s/90422.ts
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/CyW3g9p.png" group-title="●Alternativos●", HGTV SD [Alter]
-http://dnsx.co:80/live/amanda.iptv/a1aw5s/90423.ts
-
-#EXTINF:-1 tvg-logo="http://a5.vc/VE2" group-title="●Alternativos●", History FHD [Alter]
-http://dnsx.co:80/live/amanda.iptv/a1aw5s/90418.ts
-
-#EXTINF:-1 tvg-logo="http://a5.vc/VE2" group-title="●Alternativos●", History HD [Alter]
-http://dnsx.co:80/live/amanda.iptv/a1aw5s/90419.ts
-
-#EXTINF:-1 tvg-logo="http://a5.vc/VE2" group-title="●Alternativos●", History SD [Alter]
-http://dnsx.co:80/live/amanda.iptv/a1aw5s/90420.ts
-
-#EXTINF:-1 tvg-logo="http://a5.vc/53O" group-title="●Alternativos●", ID - Investigação Discovery [Alter]
-http://dnsx.co:80/live/amanda.iptv/a1aw5s/90415.ts
-
-#EXTINF:-1 tvg-logo="http://a5.vc/53O" group-title="●Alternativos●", ID - Investigação Discovery [Alter]
-http://dnsx.co:80/live/amanda.iptv/a1aw5s/90416.ts
-
-#EXTINF:-1 tvg-logo="http://a5.vc/53O" group-title="●Alternativos●", ID - Investigação Discovery [Alter]
-http://dnsx.co:80/live/amanda.iptv/a1aw5s/90417.ts
-
-#EXTINF:-1 tvg-logo="http://a5.vc/ecn" group-title="●Alternativos●", Lifetime FHD [Alter]
-http://dnsx.co:80/live/amanda.iptv/a1aw5s/90412.ts
-
-#EXTINF:-1 tvg-logo="http://a5.vc/ecn" group-title="●Alternativos●", Lifetime HD [Alter]
-http://dnsx.co:80/live/amanda.iptv/a1aw5s/90413.ts
-
-#EXTINF:-1 tvg-logo="http://a5.vc/ecn" group-title="●Alternativos●", Lifetime SD [Alter]
-http://dnsx.co:80/live/amanda.iptv/a1aw5s/90414.ts
-
-#EXTINF:-1 tvg-logo="http://a5.vc/e5K" group-title="●Alternativos●", Mais na Tela FHD [Alter]
-http://dnsx.co:80/live/amanda.iptv/a1aw5s/90409.ts
-
-#EXTINF:-1 tvg-logo="http://a5.vc/e5K" group-title="●Alternativos●", Mais na Tela HD [Alter]
-http://dnsx.co:80/live/amanda.iptv/a1aw5s/90410.ts
-
-#EXTINF:-1 tvg-logo="http://a5.vc/e5K" group-title="●Alternativos●", Mais na Tela SD [Alter]
-http://dnsx.co:80/live/amanda.iptv/a1aw5s/90411.ts
-
-#EXTINF:-1 tvg-logo="http://a5.vc/HYL" group-title="●Alternativos●", Megapix FHD [Alter]
-http://dnsx.co:80/live/amanda.iptv/a1aw5s/90406.ts
-
-#EXTINF:-1 tvg-logo="http://a5.vc/HYL" group-title="●Alternativos●", Megapix HD [Alter]
-http://dnsx.co:80/live/amanda.iptv/a1aw5s/90407.ts
-
-#EXTINF:-1 tvg-logo="http://a5.vc/HYL" group-title="●Alternativos●", Megapix SD [Alter]
-http://dnsx.co:80/live/amanda.iptv/a1aw5s/90408.ts
-
-#EXTINF:-1 tvg-logo="http://a5.vc/deE" group-title="●Alternativos●", MTV FHD [Alter]
-http://dnsx.co:80/live/amanda.iptv/a1aw5s/90403.ts
-
-#EXTINF:-1 tvg-logo="http://a5.vc/deE" group-title="●Alternativos●", MTV HD [Alter]
-http://dnsx.co:80/live/amanda.iptv/a1aw5s/90404.ts
-
-#EXTINF:-1 tvg-logo="http://a5.vc/deE" group-title="●Alternativos●", MTV SD [Alter]
-http://dnsx.co:80/live/amanda.iptv/a1aw5s/90405.ts
-
-#EXTINF:-1 tvg-logo="http://a5.vc/Uet" group-title="●Alternativos●", Multishow FHD [Alter]
-http://dnsx.co:80/live/amanda.iptv/a1aw5s/90400.ts
-
-#EXTINF:-1 tvg-logo="http://a5.vc/Uet" group-title="●Alternativos●", Multishow HD [Alter]
-http://dnsx.co:80/live/amanda.iptv/a1aw5s/90401.ts
-
-#EXTINF:-1 tvg-logo="http://a5.vc/Uet" group-title="●Alternativos●", Multishow SD [Alter]
-http://dnsx.co:80/live/amanda.iptv/a1aw5s/90402.ts
-
-#EXTINF:-1 tvg-logo="http://a5.vc/ouq" group-title="●Alternativos●", Nat Geo Kids FHD [Alter]
-http://dnsx.co:80/live/amanda.iptv/a1aw5s/90397.ts
-
-#EXTINF:-1 tvg-logo="http://a5.vc/ouq" group-title="●Alternativos●", Nat Geo Kids HD [Alter]
-http://dnsx.co:80/live/amanda.iptv/a1aw5s/90398.ts
-
-#EXTINF:-1 tvg-logo="http://a5.vc/ouq" group-title="●Alternativos●", Nat Geo Kids SD [Alter]
-http://dnsx.co:80/live/amanda.iptv/a1aw5s/90399.ts
-
-#EXTINF:-1 tvg-logo="http://a5.vc/ouq" group-title="●Alternativos●", Nat Geo Wild FHD [Alter]
-http://dnsx.co:80/live/amanda.iptv/a1aw5s/90394.ts
-
-#EXTINF:-1 tvg-logo="http://a5.vc/ouq" group-title="●Alternativos●", Nat Geo Wild HD [Alter]
-http://dnsx.co:80/live/amanda.iptv/a1aw5s/90395.ts
-
-#EXTINF:-1 tvg-logo="http://a5.vc/ouq" group-title="●Alternativos●", Nat Geo Wild SD [Alter]
-http://dnsx.co:80/live/amanda.iptv/a1aw5s/90396.ts
-
-#EXTINF:-1 tvg-logo="http://a5.vc/zO2" group-title="●Alternativos●", National Geographic FHD [Alter]
-http://dnsx.co:80/live/amanda.iptv/a1aw5s/90391.ts
-
-#EXTINF:-1 tvg-logo="http://a5.vc/zO2" group-title="●Alternativos●", National Geographic HD [Alter]
-http://dnsx.co:80/live/amanda.iptv/a1aw5s/90392.ts
-
-#EXTINF:-1 tvg-logo="http://a5.vc/zO2" group-title="●Alternativos●", National Geographic SD [Alter]
-http://dnsx.co:80/live/amanda.iptv/a1aw5s/90393.ts
-
-#EXTINF:-1 tvg-logo="http://static.clubsrv.me/logos/canais/nick.png" group-title="●Alternativos●", Nickelodeon FHD [Alter]
-http://dnsx.co:80/live/amanda.iptv/a1aw5s/90385.ts
-
-#EXTINF:-1 tvg-logo="http://static.clubsrv.me/logos/canais/nick.png" group-title="●Alternativos●", Nickelodeon HD [Alter]
-http://dnsx.co:80/live/amanda.iptv/a1aw5s/90386.ts
-
-#EXTINF:-1 tvg-logo="http://static.clubsrv.me/logos/canais/nick.png" group-title="●Alternativos●", Nickelodeon SD [Alter]
-http://dnsx.co:80/live/amanda.iptv/a1aw5s/90387.ts
-
-#EXTINF:-1 tvg-logo="http://a5.vc/qYZ" group-title="●Alternativos●", Nick Jr FHD [Alter]
-http://dnsx.co:80/live/amanda.iptv/a1aw5s/90388.ts
-
-#EXTINF:-1 tvg-logo="http://a5.vc/qYZ" group-title="●Alternativos●", Nick Jr HD [Alter]
-http://dnsx.co:80/live/amanda.iptv/a1aw5s/90389.ts
-
-#EXTINF:-1 tvg-logo="http://a5.vc/qYZ" group-title="●Alternativos●", Nick Jr SD [Alter]
-http://dnsx.co:80/live/amanda.iptv/a1aw5s/90390.ts
-
-#EXTINF:-1 tvg-logo="http://a5.vc/wCS" group-title="●Alternativos●", OFF FHD [Alter]
-http://dnsx.co:80/live/amanda.iptv/a1aw5s/90382.ts
-
-#EXTINF:-1 tvg-logo="http://a5.vc/wCS" group-title="●Alternativos●", OFF HD [Alter]
-http://dnsx.co:80/live/amanda.iptv/a1aw5s/90383.ts
-
-#EXTINF:-1 tvg-logo="http://a5.vc/wCS" group-title="●Alternativos●", OFF SD [Alter]
-http://dnsx.co:80/live/amanda.iptv/a1aw5s/90384.ts
-
-#EXTINF:-1 tvg-logo="http://a5.vc/uRn" group-title="●Alternativos●", Paramount Channel FHD [Alter]
-http://dnsx.co:80/live/amanda.iptv/a1aw5s/90379.ts
-
-#EXTINF:-1 tvg-logo="http://a5.vc/uRn" group-title="●Alternativos●", Paramount Channel HD [Alter]
-http://dnsx.co:80/live/amanda.iptv/a1aw5s/90380.ts
-
-#EXTINF:-1 tvg-logo="http://a5.vc/uRn" group-title="●Alternativos●", Paramount Channel SD [Alter]
-http://dnsx.co:80/live/amanda.iptv/a1aw5s/90381.ts
-
-#EXTINF:-1 tvg-logo="http://a5.vc/77e" group-title="●Alternativos●", Premiere 2 FHD [Alter]
-http://dnsx.co:80/live/amanda.iptv/a1aw5s/90376.ts
-
-#EXTINF:-1 tvg-logo="http://a5.vc/77e" group-title="●Alternativos●", Premiere 2 HD [Alter]
-http://dnsx.co:80/live/amanda.iptv/a1aw5s/90377.ts
-
-#EXTINF:-1 tvg-logo="http://a5.vc/77e" group-title="●Alternativos●", Premiere 2 SD [Alter]
-http://dnsx.co:80/live/amanda.iptv/a1aw5s/90378.ts
-
-#EXTINF:-1 tvg-logo="http://a5.vc/77e" group-title="●Alternativos●", Premiere 3 FHD [Alter]
-http://dnsx.co:80/live/amanda.iptv/a1aw5s/90373.ts
-
-#EXTINF:-1 tvg-logo="http://a5.vc/77e" group-title="●Alternativos●", Premiere 3 HD [Alter]
-http://dnsx.co:80/live/amanda.iptv/a1aw5s/90374.ts
-
-#EXTINF:-1 tvg-logo="http://a5.vc/77e" group-title="●Alternativos●", Premiere 3 SD [Alter]
-http://dnsx.co:80/live/amanda.iptv/a1aw5s/90375.ts
-
-#EXTINF:-1 tvg-logo="http://a5.vc/77e" group-title="●Alternativos●", Premiere 4 FHD [Alter]
-http://dnsx.co:80/live/amanda.iptv/a1aw5s/90370.ts
-
-#EXTINF:-1 tvg-logo="http://a5.vc/77e" group-title="●Alternativos●", Premiere 4 HD [Alter]
-http://dnsx.co:80/live/amanda.iptv/a1aw5s/90371.ts
-
-#EXTINF:-1 tvg-logo="http://a5.vc/77e" group-title="●Alternativos●", Premiere 4 SD [Alter]
-http://dnsx.co:80/live/amanda.iptv/a1aw5s/90372.ts
-
-#EXTINF:-1 tvg-logo="http://a5.vc/77e" group-title="●Alternativos●", Premiere 5 FHD [Alter]
-http://dnsx.co:80/live/amanda.iptv/a1aw5s/90367.ts
-
-#EXTINF:-1 tvg-logo="http://a5.vc/77e" group-title="●Alternativos●", Premiere 5 HD [Alter]
-http://dnsx.co:80/live/amanda.iptv/a1aw5s/90368.ts
-
-#EXTINF:-1 tvg-logo="http://a5.vc/77e" group-title="●Alternativos●", Premiere 5 SD [Alter]
-http://dnsx.co:80/live/amanda.iptv/a1aw5s/90369.ts
-
-#EXTINF:-1 tvg-logo="http://a5.vc/77e" group-title="●Alternativos●", Premiere 6 FHD [Alter]
-http://dnsx.co:80/live/amanda.iptv/a1aw5s/90364.ts
-
-#EXTINF:-1 tvg-logo="http://a5.vc/77e" group-title="●Alternativos●", Premiere 6 HD [Alter]
-http://dnsx.co:80/live/amanda.iptv/a1aw5s/90365.ts
-
-#EXTINF:-1 tvg-logo="http://a5.vc/77e" group-title="●Alternativos●", Premiere 6 SD [Alter]
-http://dnsx.co:80/live/amanda.iptv/a1aw5s/90366.ts
-
-#EXTINF:-1 tvg-logo="http://a5.vc/77e" group-title="●Alternativos●", Premiere 7 FHD [Alter]
-http://dnsx.co:80/live/amanda.iptv/a1aw5s/90361.ts
-
-#EXTINF:-1 tvg-logo="http://a5.vc/77e" group-title="●Alternativos●", Premiere 7 HD [Alter]
-http://dnsx.co:80/live/amanda.iptv/a1aw5s/90362.ts
-
-#EXTINF:-1 tvg-logo="http://a5.vc/77e" group-title="●Alternativos●", Premiere 7 SD [Alter]
-http://dnsx.co:80/live/amanda.iptv/a1aw5s/90363.ts
-
-#EXTINF:-1 tvg-logo="http://a5.vc/77e" group-title="●Alternativos●", Premiere 8 FHD [Alter]
-http://dnsx.co:80/live/amanda.iptv/a1aw5s/90358.ts
-
-#EXTINF:-1 tvg-logo="http://a5.vc/77e" group-title="●Alternativos●", Premiere 8 HD [Alter]
-http://dnsx.co:80/live/amanda.iptv/a1aw5s/90359.ts
-
-#EXTINF:-1 tvg-logo="http://a5.vc/77e" group-title="●Alternativos●", Premiere 8 SD [Alter]
-http://dnsx.co:80/live/amanda.iptv/a1aw5s/90360.ts
-
-#EXTINF:-1 tvg-logo="http://a5.vc/77e" group-title="●Alternativos●", Premiere Clubes FHD [Alter]
-http://dnsx.co:80/live/amanda.iptv/a1aw5s/90355.ts
-
-#EXTINF:-1 tvg-logo="http://a5.vc/77e" group-title="●Alternativos●", Premiere Clubes HD [Alter]
-http://dnsx.co:80/live/amanda.iptv/a1aw5s/90356.ts
-
-#EXTINF:-1 tvg-logo="http://a5.vc/77e" group-title="●Alternativos●", Premiere Clubes SD [Alter]
-http://dnsx.co:80/live/amanda.iptv/a1aw5s/90357.ts
-
-#EXTINF:-1 tvg-logo="http://a5.vc/QOy" group-title="●Alternativos●", RecordTV SP FHD [Alter]
-http://dnsx.co:80/live/amanda.iptv/a1aw5s/90352.ts
-
-#EXTINF:-1 tvg-logo="http://a5.vc/QOy" group-title="●Alternativos●", RecordTV SP HD [Alter]
-http://dnsx.co:80/live/amanda.iptv/a1aw5s/90353.ts
-
-#EXTINF:-1 tvg-logo="http://a5.vc/QOy" group-title="●Alternativos●", RecordTV SP SD [Alter]
-http://dnsx.co:80/live/amanda.iptv/a1aw5s/90354.ts
-
-#EXTINF:-1 tvg-logo="http://a5.vc/NuR" group-title="●Alternativos●", RedeTV SP FHD [Alter]
-http://dnsx.co:80/live/amanda.iptv/a1aw5s/90349.ts
-
-#EXTINF:-1 tvg-logo="http://a5.vc/NuR" group-title="●Alternativos●", RedeTV SP HD [Alter]
-http://dnsx.co:80/live/amanda.iptv/a1aw5s/90350.ts
-
-#EXTINF:-1 tvg-logo="http://a5.vc/NuR" group-title="●Alternativos●", RedeTV SP SD [Alter]
-http://dnsx.co:80/live/amanda.iptv/a1aw5s/90351.ts
-
-#EXTINF:-1 tvg-logo="http://a5.vc/FVo" group-title="●Alternativos●", SBT SP FHD [Alter]
-http://dnsx.co:80/live/amanda.iptv/a1aw5s/90346.ts
-
-#EXTINF:-1 tvg-logo="http://a5.vc/FVo" group-title="●Alternativos●", SBT SP HD [Alter]
-http://dnsx.co:80/live/amanda.iptv/a1aw5s/90347.ts
-
-#EXTINF:-1 tvg-logo="http://a5.vc/FVo" group-title="●Alternativos●", SBT SP SD [Alter]
-http://dnsx.co:80/live/amanda.iptv/a1aw5s/90348.ts
-
-#EXTINF:-1 tvg-logo="http://static.clubsrv.me/logos/canais/starchannel.png" group-title="●Alternativos●", Star Channel FHD [Alter]
-http://dnsx.co:80/live/amanda.iptv/a1aw5s/90526.ts
-
-#EXTINF:-1 tvg-logo="http://static.clubsrv.me/logos/canais/starchannel.png" group-title="●Alternativos●", Star Channel HD [Alter]
-http://dnsx.co:80/live/amanda.iptv/a1aw5s/90527.ts
-
-#EXTINF:-1 tvg-logo="http://static.clubsrv.me/logos/canais/starchannel.png" group-title="●Alternativos●", Star Channel SD [Alter]
-http://dnsx.co:80/live/amanda.iptv/a1aw5s/90528.ts
-
-#EXTINF:-1 tvg-logo="http://static.clubsrv.me/logos/canais/starhits.png" group-title="●Alternativos●", Star Hits FHD [Alter]
-http://dnsx.co:80/live/amanda.iptv/a1aw5s/90520.ts
-
-#EXTINF:-1 tvg-logo="http://static.clubsrv.me/logos/canais/starhits.png" group-title="●Alternativos●", Star Hits HD [Alter]
-http://dnsx.co:80/live/amanda.iptv/a1aw5s/90521.ts
-
-#EXTINF:-1 tvg-logo="http://static.clubsrv.me/logos/canais/starhits.png" group-title="●Alternativos●", Star Hits SD [Alter]
-http://dnsx.co:80/live/amanda.iptv/a1aw5s/90522.ts
-
-#EXTINF:-1 tvg-logo="http://static.clubsrv.me/logos/canais/starhits2.png" group-title="●Alternativos●", Star Hits 2 FHD [Alter]
-http://dnsx.co:80/live/amanda.iptv/a1aw5s/90517.ts
-
-#EXTINF:-1 tvg-logo="http://static.clubsrv.me/logos/canais/starhits2.png" group-title="●Alternativos●", Star Hits 2 HD [Alter]
-http://dnsx.co:80/live/amanda.iptv/a1aw5s/90518.ts
-
-#EXTINF:-1 tvg-logo="http://static.clubsrv.me/logos/canais/starhits2.png" group-title="●Alternativos●", Star Hits 2 SD [Alter]
-http://dnsx.co:80/live/amanda.iptv/a1aw5s/90519.ts
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Star_Life_2021.svg/512px-Star_Life_2021.svg.png" group-title="●Alternativos●", Star Life FHD [Alter]
-http://dnsx.co:80/live/amanda.iptv/a1aw5s/90523.ts
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Star_Life_2021.svg/512px-Star_Life_2021.svg.png" group-title="●Alternativos●", Star Life HD [Alter]
-http://dnsx.co:80/live/amanda.iptv/a1aw5s/90524.ts
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Star_Life_2021.svg/512px-Star_Life_2021.svg.png" group-title="●Alternativos●", Star Life SD [Alter]
-http://dnsx.co:80/live/amanda.iptv/a1aw5s/90525.ts
-
-#EXTINF:-1 tvg-logo="http://a5.vc/MNj" group-title="●Alternativos●", Space FHD [Alter]
-http://dnsx.co:80/live/amanda.iptv/a1aw5s/90340.ts
-
-#EXTINF:-1 tvg-logo="http://a5.vc/MNj" group-title="●Alternativos●", Space HD [Alter]
-http://dnsx.co:80/live/amanda.iptv/a1aw5s/90341.ts
-
-#EXTINF:-1 tvg-logo="http://a5.vc/MNj" group-title="●Alternativos●", Space SD [Alter]
-http://dnsx.co:80/live/amanda.iptv/a1aw5s/90342.ts
-
-#EXTINF:-1 tvg-logo="http://a5.vc/YO7" group-title="●Alternativos●", SporTV 2 FHD [Alter]
-http://dnsx.co:80/live/amanda.iptv/a1aw5s/90337.ts
-
-#EXTINF:-1 tvg-logo="http://a5.vc/YO7" group-title="●Alternativos●", SporTV 2 HD [Alter]
-http://dnsx.co:80/live/amanda.iptv/a1aw5s/90338.ts
-
-#EXTINF:-1 tvg-logo="http://a5.vc/YO7" group-title="●Alternativos●", SporTV 2 SD [Alter]
-http://dnsx.co:80/live/amanda.iptv/a1aw5s/90339.ts
-
-#EXTINF:-1 tvg-logo="http://a5.vc/ybu" group-title="●Alternativos●", SporTV 3 FHD [Alter]
-http://dnsx.co:80/live/amanda.iptv/a1aw5s/90334.ts
-
-#EXTINF:-1 tvg-logo="http://a5.vc/ybu" group-title="●Alternativos●", SporTV 3 HD [Alter]
-http://dnsx.co:80/live/amanda.iptv/a1aw5s/90335.ts
-
-#EXTINF:-1 tvg-logo="http://a5.vc/ybu" group-title="●Alternativos●", SporTV 3 SD [Alter]
-http://dnsx.co:80/live/amanda.iptv/a1aw5s/90336.ts
-
-#EXTINF:-1 tvg-logo="http://a5.vc/cii" group-title="●Alternativos●", SporTV FHD [Alter]
-http://dnsx.co:80/live/amanda.iptv/a1aw5s/90331.ts
-
-#EXTINF:-1 tvg-logo="http://a5.vc/cii" group-title="●Alternativos●", SporTV HD [Alter]
-http://dnsx.co:80/live/amanda.iptv/a1aw5s/90332.ts
-
-#EXTINF:-1 tvg-logo="http://a5.vc/cii" group-title="●Alternativos●", SporTV SD [Alter]
-http://dnsx.co:80/live/amanda.iptv/a1aw5s/90333.ts
-
-#EXTINF:-1 tvg-logo="http://a5.vc/u7I" group-title="●Alternativos●", Studio Universal FHD [Alter]
-http://dnsx.co:80/live/amanda.iptv/a1aw5s/90328.ts
-
-#EXTINF:-1 tvg-logo="http://a5.vc/u7I" group-title="●Alternativos●", Studio Universal HD [Alter]
-http://dnsx.co:80/live/amanda.iptv/a1aw5s/90329.ts
-
-#EXTINF:-1 tvg-logo="http://a5.vc/u7I" group-title="●Alternativos●", Studio Universal SD [Alter]
-http://dnsx.co:80/live/amanda.iptv/a1aw5s/90330.ts
-
-#EXTINF:-1 tvg-logo="http://a5.vc/cts" group-title="●Alternativos●", SyFy FHD [Alter]
-http://dnsx.co:80/live/amanda.iptv/a1aw5s/90325.ts
-
-#EXTINF:-1 tvg-logo="http://a5.vc/cts" group-title="●Alternativos●", SyFy HD [Alter]
-http://dnsx.co:80/live/amanda.iptv/a1aw5s/90326.ts
-
-#EXTINF:-1 tvg-logo="http://a5.vc/cts" group-title="●Alternativos●", SyFy SD [Alter]
-http://dnsx.co:80/live/amanda.iptv/a1aw5s/90327.ts
-
-#EXTINF:-1 tvg-logo="http://a5.vc/BsL" group-title="●Alternativos●", Telecine Action FHD [Alter]
-http://dnsx.co:80/live/amanda.iptv/a1aw5s/90322.ts
-
-#EXTINF:-1 tvg-logo="http://a5.vc/BsL" group-title="●Alternativos●", Telecine Action HD [Alter]
-http://dnsx.co:80/live/amanda.iptv/a1aw5s/90323.ts
-
-#EXTINF:-1 tvg-logo="http://a5.vc/BsL" group-title="●Alternativos●", Telecine Action SD [Alter]
-http://dnsx.co:80/live/amanda.iptv/a1aw5s/90324.ts
-
-#EXTINF:-1 tvg-logo="http://a5.vc/DZP" group-title="●Alternativos●", Telecine Cult FHD [Alter]
-http://dnsx.co:80/live/amanda.iptv/a1aw5s/90319.ts
-
-#EXTINF:-1 tvg-logo="http://a5.vc/DZP" group-title="●Alternativos●", Telecine Cult HD [Alter]
-http://dnsx.co:80/live/amanda.iptv/a1aw5s/90320.ts
-
-#EXTINF:-1 tvg-logo="http://a5.vc/DZP" group-title="●Alternativos●", Telecine Cult SD [Alter]
-http://dnsx.co:80/live/amanda.iptv/a1aw5s/90321.ts
-
-#EXTINF:-1 tvg-logo="http://a5.vc/TLE" group-title="●Alternativos●", Telecine Fun FHD [Alter]
-http://dnsx.co:80/live/amanda.iptv/a1aw5s/90316.ts
-
-#EXTINF:-1 tvg-logo="http://a5.vc/TLE" group-title="●Alternativos●", Telecine Fun HD [Alter]
-http://dnsx.co:80/live/amanda.iptv/a1aw5s/90317.ts
-
-#EXTINF:-1 tvg-logo="http://a5.vc/TLE" group-title="●Alternativos●", Telecine Fun SD [Alter]
-http://dnsx.co:80/live/amanda.iptv/a1aw5s/90318.ts
-
-#EXTINF:-1 tvg-logo="http://a5.vc/mOL" group-title="●Alternativos●", Telecine Pipoca FHD [Alter]
-http://dnsx.co:80/live/amanda.iptv/a1aw5s/90313.ts
-
-#EXTINF:-1 tvg-logo="http://a5.vc/mOL" group-title="●Alternativos●", Telecine Pipoca HD [Alter]
-http://dnsx.co:80/live/amanda.iptv/a1aw5s/90314.ts
-
-#EXTINF:-1 tvg-logo="http://a5.vc/mOL" group-title="●Alternativos●", Telecine Pipoca SD [Alter]
-http://dnsx.co:80/live/amanda.iptv/a1aw5s/90315.ts
-
-#EXTINF:-1 tvg-logo="http://a5.vc/N8x" group-title="●Alternativos●", Telecine Premium FHD [Alter]
-http://dnsx.co:80/live/amanda.iptv/a1aw5s/90310.ts
-
-#EXTINF:-1 tvg-logo="http://a5.vc/N8x" group-title="●Alternativos●", Telecine Premium HD [Alter]
-http://dnsx.co:80/live/amanda.iptv/a1aw5s/90311.ts
-
-#EXTINF:-1 tvg-logo="http://a5.vc/N8x" group-title="●Alternativos●", Telecine Premium SD [Alter]
-http://dnsx.co:80/live/amanda.iptv/a1aw5s/90312.ts
-
-#EXTINF:-1 tvg-logo="http://a5.vc/rBW" group-title="●Alternativos●", Telecine Touch FHD [Alter]
-http://dnsx.co:80/live/amanda.iptv/a1aw5s/90307.ts
-
-#EXTINF:-1 tvg-logo="http://a5.vc/rBW" group-title="●Alternativos●", Telecine Touch HD [Alter]
-http://dnsx.co:80/live/amanda.iptv/a1aw5s/90308.ts
-
-#EXTINF:-1 tvg-logo="http://a5.vc/rBW" group-title="●Alternativos●", Telecine Touch SD [Alter]
-http://dnsx.co:80/live/amanda.iptv/a1aw5s/90309.ts
-
-#EXTINF:-1 tvg-logo="http://a5.vc/Czz" group-title="●Alternativos●", TLC FHD [Alter]
-http://dnsx.co:80/live/amanda.iptv/a1aw5s/90304.ts
-
-#EXTINF:-1 tvg-logo="http://a5.vc/Czz" group-title="●Alternativos●", TLC HD [Alter]
-http://dnsx.co:80/live/amanda.iptv/a1aw5s/90305.ts
-
-#EXTINF:-1 tvg-logo="http://a5.vc/Czz" group-title="●Alternativos●", TLC SD [Alter]
-http://dnsx.co:80/live/amanda.iptv/a1aw5s/90306.ts
-
-#EXTINF:-1 tvg-logo="http://a5.vc/gOR" group-title="●Alternativos●", TNT FHD [Alter]
-http://dnsx.co:80/live/amanda.iptv/a1aw5s/90301.ts
-
-#EXTINF:-1 tvg-logo="http://a5.vc/gOR" group-title="●Alternativos●", TNT HD [Alter]
-http://dnsx.co:80/live/amanda.iptv/a1aw5s/90302.ts
-
-#EXTINF:-1 tvg-logo="http://a5.vc/gOR" group-title="●Alternativos●", TNT SD [Alter]
-http://dnsx.co:80/live/amanda.iptv/a1aw5s/90303.ts
-
-#EXTINF:-1 tvg-logo="http://a5.vc/oQe" group-title="●Alternativos●", TNT Series FHD [Alter]
-http://dnsx.co:80/live/amanda.iptv/a1aw5s/90298.ts
-
-#EXTINF:-1 tvg-logo="http://a5.vc/oQe" group-title="●Alternativos●", TNT Series HD [Alter]
-http://dnsx.co:80/live/amanda.iptv/a1aw5s/90299.ts
-
-#EXTINF:-1 tvg-logo="http://a5.vc/oQe" group-title="●Alternativos●", TNT Series SD [Alter]
-http://dnsx.co:80/live/amanda.iptv/a1aw5s/90300.ts
-
-#EXTINF:-1 tvg-logo="http://static.clubsrv.me/logos/canais/trutv.png" group-title="●Alternativos●", TruTV FHD [Alter]
-http://dnsx.co:80/live/amanda.iptv/a1aw5s/90295.ts
-
-#EXTINF:-1 tvg-logo="http://static.clubsrv.me/logos/canais/trutv.png" group-title="●Alternativos●", TruTV HD [Alter]
-http://dnsx.co:80/live/amanda.iptv/a1aw5s/90296.ts
-
-#EXTINF:-1 tvg-logo="http://static.clubsrv.me/logos/canais/trutv.png" group-title="●Alternativos●", TruTV SD [Alter]
-http://dnsx.co:80/live/amanda.iptv/a1aw5s/90297.ts
-
-#EXTINF:-1 tvg-logo="http://a5.vc/8CR" group-title="●Alternativos●", Universal TV FHD [Alter]
-http://dnsx.co:80/live/amanda.iptv/a1aw5s/90292.ts
-
-#EXTINF:-1 tvg-logo="http://a5.vc/8CR" group-title="●Alternativos●", Universal TV HD [Alter]
-http://dnsx.co:80/live/amanda.iptv/a1aw5s/90293.ts
-
-#EXTINF:-1 tvg-logo="http://a5.vc/8CR" group-title="●Alternativos●", Universal TV SD [Alter]
-http://dnsx.co:80/live/amanda.iptv/a1aw5s/90294.ts
-
-#EXTINF:-1 tvg-logo="http://a5.vc/Qin" group-title="●Alternativos●", Viva FHD [Alter]
-http://dnsx.co:80/live/amanda.iptv/a1aw5s/90289.ts
-
-#EXTINF:-1 tvg-logo="http://a5.vc/Qin" group-title="●Alternativos●", Viva HD [Alter]
-http://dnsx.co:80/live/amanda.iptv/a1aw5s/90290.ts
-
-#EXTINF:-1 tvg-logo="http://a5.vc/Qin" group-title="●Alternativos●", Viva SD [Alter]
-http://dnsx.co:80/live/amanda.iptv/a1aw5s/90291.ts
-
-#EXTINF:-1 tvg-logo="http://a5.vc/BrP" group-title="●Alternativos●", Warner Channel FHD [Alter]
-http://dnsx.co:80/live/amanda.iptv/a1aw5s/90286.ts
-
-#EXTINF:-1 tvg-logo="http://a5.vc/BrP" group-title="●Alternativos●", Warner Channel HD [Alter]
-http://dnsx.co:80/live/amanda.iptv/a1aw5s/90287.ts
-
-#EXTINF:-1 tvg-logo="http://a5.vc/BrP" group-title="●Alternativos●", Warner Channel SD [Alter]
-http://dnsx.co:80/live/amanda.iptv/a1aw5s/90288.ts
 
 
 
@@ -1134,7 +376,7 @@ http://b5.vc:80/7885037935/fireurl.co/90650
 #EXTINF:-1 tvg-logo="http://a5.vc/BrP" group-title="●Legendados●", Warner Channel HD [LEG]
 http://b5.vc:80/7885037935/fireurl.co/90649
 
-#EXTINF:-1 tvg-logo="http://a5.vc/BrP" group-title="●Legendados●" ,Warner Channel SD [LEG]
+#EXTINF:-1 tvg-logo="http://a5.vc/BrP" group-title="●Legendados●", Warner Channel SD [LEG]
 http://b5.vc:80/7885037935/fireurl.co/90648
 
 
@@ -1202,22 +444,22 @@ http://diretogo.com:80/a694360/6125381/19688
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Vl762vR.png" group-title="●PPV●", Copa do Nordeste 3²
 http://diretogo.com:80/a694360/6125381/10046640
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/CAdf96N.png" group-title="●PPV●", DAZN 1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/cfUfPXQ.png" group-title="●PPV●", DAZN 1
 http://diretogo.com:80/a694360/6125381/11625
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/CAdf96N.png" group-title="●PPV●", DAZN 2
+#EXTINF:-1 tvg-logo="https://i.imgur.com/cfUfPXQ.png" group-title="●PPV●", DAZN 2
 http://diretogo.com:80/a694360/6125381/16564
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/CAdf96N.png" group-title="●PPV●", DAZN 3
+#EXTINF:-1 tvg-logo="https://i.imgur.com/cfUfPXQ.png" group-title="●PPV●", DAZN 3
 http://diretogo.com:80/a694360/6125381/11623
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/CAdf96N.png" group-title="●PPV●", DAZN 4
+#EXTINF:-1 tvg-logo="https://i.imgur.com/cfUfPXQ.png" group-title="●PPV●", DAZN 4
 http://diretogo.com:80/a694360/6125381/11624
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/CAdf96N.png" group-title="●PPV●", DAZN 5
+#EXTINF:-1 tvg-logo="https://i.imgur.com/cfUfPXQ.png" group-title="●PPV●", DAZN 5
 http://diretogo.com:80/a694360/6125381/16565
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/CAdf96N.png" group-title="●PPV●", DAZN 6
+#EXTINF:-1 tvg-logo="https://i.imgur.com/cfUfPXQ.png" group-title="●PPV●", DAZN 6
 http://diretogo.com:80/a694360/6125381/10047538
 
 #EXTINF:-1 tvg-logo="http://a5.vc/uqI" group-title="●PPV●", EI Plus 1 HD
@@ -1308,7 +550,7 @@ http://dnsx.co:80/live/amanda.iptv/a1aw5s/71821.ts
 #EXTINF:-1 tvg-logo="http://a5.vc/bK3" group-title="Abertos", Canal do Boi SD
 http://dnsx.co:80/live/amanda.iptv/a1aw5s/71822.ts
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/n8IaDTk.png" group-title="Abertos", Canal Rural
+#EXTINF:-1 tvg-logo="https://i.imgur.com/kn9JQIV.png" group-title="Abertos", Canal Rural
 http://diretogo.com:80/a694360/6125381/10666
 
 #EXTINF:-1 tvg-logo="http://static.clubsrv.me/logos/canais/tvcultura.png" group-title="Abertos", Cultura FHD
@@ -1664,13 +906,13 @@ http://b5.vc:80/7885037935/fireurl.co/73004
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Zt9lfNr.png" group-title="Documentários", Love Nature HD
 http://dnsx.co:80/7885037935/fireurl.co/73004
 
-#EXTINF:-1 tvg-logo="http://a5.vc/ouq" group-title="Documentários", Nat Geo Wild FHD [H265]
+#EXTINF:-1 tvg-logo="https://i.imgur.com/yDYuFdE.png" group-title="Documentários", Nat Geo Wild FHD [H265]
 http://dnsx.co:80/live/amanda.iptv/a1aw5s/72193.ts
 
-#EXTINF:-1 tvg-logo="http://a5.vc/ouq" group-title="Documentários", Nat Geo Wild FHD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/yDYuFdE.png" group-title="Documentários", Nat Geo Wild FHD
 http://dnsx.co:80/live/amanda.iptv/a1aw5s/72192.ts
 
-#EXTINF:-1 tvg-logo="http://static.clubsrv.me/logos/canais/natgeokids.png" group-title="Documentários", Nat Geo Wild SD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/yDYuFdE.png" group-title="Documentários", Nat Geo Wild SD
 http://dnsx.co:80/live/amanda.iptv/a1aw5s/72195.ts
 
 #EXTINF:-1 tvg-logo="http://a5.vc/zO2" group-title="Documentários", National Geographic FHD
@@ -1789,97 +1031,97 @@ http://dnsx.co:80/live/amanda.iptv/a1aw5s/71955.ts
 #EXTINF:-1 tvg-logo="http://a5.vc/DXo" group-title="Esportes", Fox Sports 2 SD
 http://dnsx.co:80/live/amanda.iptv/a1aw5s/71956.ts
 
-#EXTINF:-1 tvg-logo="http://a5.vc/77e" group-title="Esportes",Premiere 2 FHD
+#EXTINF:-1 tvg-logo="http://a5.vc/77e" group-title="Esportes", Premiere 2 FHD
 http://dnsx.co:80/7885037935/fireurl.co/72237
 
-#EXTINF:-1 tvg-logo="http://a5.vc/77e" group-title="Esportes",Premiere 2 FHD [H265]
+#EXTINF:-1 tvg-logo="http://a5.vc/77e" group-title="Esportes", Premiere 2 FHD [H265]
 http://dnsx.co:80/7885037935/fireurl.co/72238
 
-#EXTINF:-1 tvg-logo="http://a5.vc/77e" group-title="Esportes",Premiere 2 HD
+#EXTINF:-1 tvg-logo="http://a5.vc/77e" group-title="Esportes", Premiere 2 HD
 http://dnsx.co:80/7885037935/fireurl.co/72239
 
-#EXTINF:-1 tvg-logo="http://a5.vc/77e" group-title="Esportes",Premiere 2 SD
+#EXTINF:-1 tvg-logo="http://a5.vc/77e" group-title="Esportes", Premiere 2 SD
 http://dnsx.co:80/7885037935/fireurl.co/72240
 
-#EXTINF:-1 tvg-logo="http://a5.vc/77e" group-title="Esportes",Premiere 3 FHD
+#EXTINF:-1 tvg-logo="http://a5.vc/77e" group-title="Esportes", Premiere 3 FHD
 http://dnsx.co:80/7885037935/fireurl.co/72241
 
-#EXTINF:-1 tvg-logo="http://a5.vc/77e" group-title="Esportes",Premiere 3 FHD [H265]
+#EXTINF:-1 tvg-logo="http://a5.vc/77e" group-title="Esportes", Premiere 3 FHD [H265]
 http://dnsx.co:80/7885037935/fireurl.co/72242
 
-#EXTINF:-1 tvg-logo="http://a5.vc/77e" group-title="Esportes",Premiere 3 HD
+#EXTINF:-1 tvg-logo="http://a5.vc/77e" group-title="Esportes", Premiere 3 HD
 http://dnsx.co:80/7885037935/fireurl.co/72243
 
-#EXTINF:-1 tvg-logo="http://a5.vc/77e" group-title="Esportes",Premiere 3 SD
+#EXTINF:-1 tvg-logo="http://a5.vc/77e" group-title="Esportes", Premiere 3 SD
 http://dnsx.co:80/7885037935/fireurl.co/72244
 
-#EXTINF:-1 tvg-logo="http://a5.vc/77e" group-title="Esportes",Premiere 4 FHD
+#EXTINF:-1 tvg-logo="http://a5.vc/77e" group-title="Esportes", Premiere 4 FHD
 http://dnsx.co:80/7885037935/fireurl.co/72245
 
-#EXTINF:-1 tvg-logo="http://a5.vc/77e" group-title="Esportes",Premiere 4 FHD [H265]
+#EXTINF:-1 tvg-logo="http://a5.vc/77e" group-title="Esportes", Premiere 4 FHD [H265]
 http://dnsx.co:80/7885037935/fireurl.co/72246
 
-#EXTINF:-1 tvg-logo="http://a5.vc/77e" group-title="Esportes",Premiere 4 HD
+#EXTINF:-1 tvg-logo="http://a5.vc/77e" group-title="Esportes", Premiere 4 HD
 http://dnsx.co:80/7885037935/fireurl.co/72247
 
-#EXTINF:-1 tvg-logo="http://a5.vc/77e" group-title="Esportes",Premiere 4 SD
+#EXTINF:-1 tvg-logo="http://a5.vc/77e" group-title="Esportes", Premiere 4 SD
 http://dnsx.co:80/7885037935/fireurl.co/72248
 
-#EXTINF:-1 tvg-logo="http://a5.vc/77e" group-title="Esportes",Premiere 5 FHD
+#EXTINF:-1 tvg-logo="http://a5.vc/77e" group-title="Esportes", Premiere 5 FHD
 http://dnsx.co:80/7885037935/fireurl.co/72249
 
-#EXTINF:-1 tvg-logo="http://a5.vc/77e" group-title="Esportes",Premiere 5 FHD [H265]
+#EXTINF:-1 tvg-logo="http://a5.vc/77e" group-title="Esportes", Premiere 5 FHD [H265]
 http://dnsx.co:80/7885037935/fireurl.co/72250
 
-#EXTINF:-1 tvg-logo="http://a5.vc/77e" group-title="Esportes",Premiere 5 HD
+#EXTINF:-1 tvg-logo="http://a5.vc/77e" group-title="Esportes", Premiere 5 HD
 http://dnsx.co:80/7885037935/fireurl.co/72251
 
-#EXTINF:-1 tvg-logo="http://a5.vc/77e" group-title="Esportes",Premiere 5 SD
+#EXTINF:-1 tvg-logo="http://a5.vc/77e" group-title="Esportes", Premiere 5 SD
 http://dnsx.co:80/7885037935/fireurl.co/72252
 
-#EXTINF:-1 tvg-logo="http://a5.vc/77e" group-title="Esportes",Premiere 6 FHD
+#EXTINF:-1 tvg-logo="http://a5.vc/77e" group-title="Esportes", Premiere 6 FHD
 http://dnsx.co:80/7885037935/fireurl.co/72253
 
-#EXTINF:-1 tvg-logo="http://a5.vc/77e" group-title="Esportes",Premiere 6 FHD [H265]
+#EXTINF:-1 tvg-logo="http://a5.vc/77e" group-title="Esportes", Premiere 6 FHD [H265]
 http://dnsx.co:80/7885037935/fireurl.co/72254
 
-#EXTINF:-1 tvg-logo="http://a5.vc/77e" group-title="Esportes",Premiere 6 HD
+#EXTINF:-1 tvg-logo="http://a5.vc/77e" group-title="Esportes", Premiere 6 HD
 http://dnsx.co:80/7885037935/fireurl.co/72255
 
-#EXTINF:-1 tvg-logo="http://a5.vc/77e" group-title="Esportes",Premiere 6 SD
+#EXTINF:-1 tvg-logo="http://a5.vc/77e" group-title="Esportes", Premiere 6 SD
 http://dnsx.co:80/7885037935/fireurl.co/72256
 
-#EXTINF:-1 tvg-logo="http://a5.vc/77e" group-title="Esportes",Premiere 7 FHD
+#EXTINF:-1 tvg-logo="http://a5.vc/77e" group-title="Esportes", Premiere 7 FHD
 http://dnsx.co:80/7885037935/fireurl.co/72257
 
-#EXTINF:-1 tvg-logo="http://a5.vc/77e" group-title="Esportes",Premiere 7 FHD [H265]
+#EXTINF:-1 tvg-logo="http://a5.vc/77e" group-title="Esportes", Premiere 7 FHD [H265]
 http://dnsx.co:80/7885037935/fireurl.co/72258
 
-#EXTINF:-1 tvg-logo="http://a5.vc/77e" group-title="Esportes",Premiere 7 HD
+#EXTINF:-1 tvg-logo="http://a5.vc/77e" group-title="Esportes", Premiere 7 HD
 http://dnsx.co:80/7885037935/fireurl.co/72259
 
-#EXTINF:-1 tvg-logo="http://a5.vc/77e" group-title="Esportes",Premiere 7 SD
+#EXTINF:-1 tvg-logo="http://a5.vc/77e" group-title="Esportes", Premiere 7 SD
 http://dnsx.co:80/7885037935/fireurl.co/72260
 
-#EXTINF:-1 tvg-logo="http://a5.vc/77e" group-title="Esportes",Premiere 8 FHD [H265]
+#EXTINF:-1 tvg-logo="http://a5.vc/77e" group-title="Esportes", Premiere 8 FHD [H265]
 http://dnsx.co:80/7885037935/fireurl.co/90358
 
-#EXTINF:-1 tvg-logo="http://a5.vc/77e" group-title="Esportes",Premiere 8 HD
+#EXTINF:-1 tvg-logo="http://a5.vc/77e" group-title="Esportes", Premiere 8 HD
 http://dnsx.co:80/7885037935/fireurl.co/90359
 
-#EXTINF:-1 tvg-logo="http://a5.vc/77e" group-title="Esportes",Premiere 8 SD
+#EXTINF:-1 tvg-logo="http://a5.vc/77e" group-title="Esportes", Premiere 8 SD
 http://dnsx.co:80/7885037935/fireurl.co/72261
 
-#EXTINF:-1 tvg-logo="http://a5.vc/77e" group-title="Esportes",Premiere Clubes FHD
+#EXTINF:-1 tvg-logo="http://a5.vc/77e" group-title="Esportes", Premiere Clubes FHD
 http://dnsx.co:80/7885037935/fireurl.co/72262
 
-#EXTINF:-1 tvg-logo="http://a5.vc/77e" group-title="Esportes",Premiere Clubes FHD [H265]
+#EXTINF:-1 tvg-logo="http://a5.vc/77e" group-title="Esportes", Premiere Clubes FHD [H265]
 http://dnsx.co:80/7885037935/fireurl.co/72263
 
-#EXTINF:-1 tvg-logo="http://a5.vc/77e" group-title="Esportes",Premiere Clubes HD
+#EXTINF:-1 tvg-logo="http://a5.vc/77e" group-title="Esportes", Premiere Clubes HD
 http://dnsx.co:80/7885037935/fireurl.co/72265
 
-#EXTINF:-1 tvg-logo="http://a5.vc/77e" group-title="Esportes",Premiere Clubes SD
+#EXTINF:-1 tvg-logo="http://a5.vc/77e" group-title="Esportes", Premiere Clubes SD
 http://dnsx.co:80/7885037935/fireurl.co/72266
 
 #EXTINF:-1 tvg-logo="http://a5.vc/YO7" group-title="Esportes", SporTV 2 FHD
@@ -1980,6 +1222,18 @@ http://dnsx.co:80/live/amanda.iptv/a1aw5s/71968.ts
 #EXTINF:-1 tvg-logo="http://a5.vc/JsW" group-title="Filmes e Séries", FX SD
 http://dnsx.co:80/live/amanda.iptv/a1aw5s/71969.ts
 
+#EXTINF:-1 tvg-logo="http://a5.vc/ezc" group-title="Filmes e Séries", HBO FHD
+http://dnsx.co:80/live/amanda.iptv/a1aw5s/72118.ts
+
+#EXTINF:-1 tvg-logo="http://a5.vc/ezc" group-title="Filmes e Séries", HBO FHD [H265]
+http://dnsx.co:80/live/amanda.iptv/a1aw5s/72119.ts
+
+#EXTINF:-1 tvg-logo="http://a5.vc/ezc" group-title="Filmes e Séries", HBO HD
+http://dnsx.co:80/live/amanda.iptv/a1aw5s/72120.ts
+
+#EXTINF:-1 tvg-logo="http://a5.vc/ezc" group-title="Filmes e Séries", HBO SD
+http://dnsx.co:80/live/amanda.iptv/a1aw5s/72133.ts
+
 #EXTINF:-1 tvg-logo="http://a5.vc/0qQ" group-title="Filmes e Séries", HBO 2 FHD
 http://dnsx.co:80/live/amanda.iptv/a1aw5s/72110.ts
 
@@ -2003,15 +1257,6 @@ http://dnsx.co:80/live/amanda.iptv/a1aw5s/72116.ts
 
 #EXTINF:-1 tvg-logo="http://a5.vc/u4M" group-title="Filmes e Séries", HBO Family SD
 http://dnsx.co:80/live/amanda.iptv/a1aw5s/72117.ts
-
-#EXTINF:-1 tvg-logo="http://a5.vc/ezc" group-title="Filmes e Séries", HBO FHD
-http://dnsx.co:80/live/amanda.iptv/a1aw5s/72118.ts
-
-#EXTINF:-1 tvg-logo="http://a5.vc/ezc" group-title="Filmes e Séries", HBO FHD [H265]
-http://dnsx.co:80/live/amanda.iptv/a1aw5s/72119.ts
-
-#EXTINF:-1 tvg-logo="http://a5.vc/ezc" group-title="Filmes e Séries", HBO HD
-http://dnsx.co:80/live/amanda.iptv/a1aw5s/72120.ts
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/plzN5Pl.png" group-title="Filmes e Séries", HBO Mundi FHD
 http://dnsx.co:80/live/amanda.iptv/a1aw5s/72121.ts
@@ -2048,9 +1293,6 @@ http://dnsx.co:80/live/amanda.iptv/a1aw5s/72131.ts
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/LFACM3J.png" group-title="Filmes e Séries", HBO Pop SD
 http://dnsx.co:80/live/amanda.iptv/a1aw5s/72132.ts
-
-#EXTINF:-1 tvg-logo="http://a5.vc/ezc" group-title="Filmes e Séries", HBO SD
-http://dnsx.co:80/live/amanda.iptv/a1aw5s/72133.ts
 
 #EXTINF:-1 tvg-logo="http://a5.vc/2N4" group-title="Filmes e Séries", HBO Signature FHD
 http://dnsx.co:80/live/amanda.iptv/a1aw5s/72134.ts
@@ -2542,15 +1784,6 @@ http://wse01.logicahost.com.br:1935/mkkweb/mkkweb/chunklist_w1092850441.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/39jD05N.png" group-title="Musicais", Music Top
 http://live-edge01.telecentro.net.ar/live/smil:musictop.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="http://a5.vc/deE" group-title="Musicais", MTV FHD
-http://dnsx.co:80/live/amanda.iptv/a1aw5s/72171.ts
-
-#EXTINF:-1 tvg-logo="http://a5.vc/deE" group-title="Musicais", MTV FHD [H265]
-http://dnsx.co:80/live/amanda.iptv/a1aw5s/72172.ts
-
-#EXTINF:-1 tvg-logo="http://a5.vc/deE" group-title="Musicais", MTV HD
-http://dnsx.co:80/live/amanda.iptv/a1aw5s/72173.ts
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/BLbrqKc.png" group-title="Musicais", MTV Live FHD
 http://dnsx.co:80/live/amanda.iptv/a1aw5s/72174.ts
 
@@ -2559,21 +1792,6 @@ http://dnsx.co:80/live/amanda.iptv/a1aw5s/72175.ts
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/BLbrqKc.png" group-title="Musicais", MTV Live SD
 http://dnsx.co:80/live/amanda.iptv/a1aw5s/72177.ts
-
-#EXTINF:-1 tvg-logo="http://a5.vc/Uet" group-title="Musicais", Multishow
-https://globolive.akamaized.net/d/c/x2800/s/hls-msw24ha/hls-msw24ha_886/playlist.m3u8?hdnts=st=1568899416~exp=1668899406~acl=/*~id=0sp9c8skcs800h3cml37evdj43~hmac=5f4bbd91aec7a1fc20617169c106b8d5e0c86bfb4cec5788668b40cc8f9bf80e
-
-#EXTINF:-1 tvg-logo="http://a5.vc/Uet" group-title="Musicais", Multishow FHD
-http://dnsx.co:80/live/amanda.iptv/a1aw5s/72179.ts
-
-#EXTINF:-1 tvg-logo="http://a5.vc/Uet" group-title="Musicais", Multishow FHD [H265]
-http://dnsx.co:80/live/amanda.iptv/a1aw5s/72180.ts
-
-#EXTINF:-1 tvg-logo="http://a5.vc/Uet" group-title="Musicais", Multishow HD
-http://dnsx.co:80/live/amanda.iptv/a1aw5s/72182.ts
-
-#EXTINF:-1 tvg-logo="http://a5.vc/Uet" group-title="Musicais", Multishow SD
-http://dnsx.co:80/live/amanda.iptv/a1aw5s/72183.ts
 
 #EXTINF:-1 tvg-logo="http://a5.vc/FbG" group-title="Musicais", Music Box Brazil FHD
 http://dnsx.co:80/live/amanda.iptv/a1aw5s/72184.ts
@@ -2833,6 +2051,9 @@ http://dnsx.co:80/live/amanda.iptv/a1aw5s/71858.ts
 #EXTINF:-1 tvg-logo="https://i.imgur.com/zDPxnZ2.png" group-title="Variedades", Chef TV
 http://diretogo.com:80/a694360/6125381/10041058
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Li7EymV.png" group-title="Variedades", CTV
+https://5d2c98775bafe.streamlock.net/8020/8020/chunklist_w1373090659.m3u8
+
 #EXTINF:-1 tvg-logo="http://a5.vc/XcV" group-title="Variedades", Discovery H&H FHD
 http://dnsx.co:80/7885037935/fireurl.co/71867
 
@@ -2899,8 +2120,14 @@ http://b5.vc:80/7885037935/fireurl.co/71934
 #EXTINF:-1 tvg-logo="http://a5.vc/ZHe" group-title="Variedades", Food Network SD
 http://b5.vc:80/7885037935/fireurl.co/71935
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Li7EymV.png" group-title="Variedades", CTV
-https://5d2c98775bafe.streamlock.net/8020/8020/chunklist_w1373090659.m3u8
+#EXTINF:-1 tvg-logo="http://a5.vc/scT" group-title="Variedades", GNT FHD [H265]
+http://dnsx.co:80/7885037935/fireurl.co/72103
+
+#EXTINF:-1 tvg-logo="http://a5.vc/scT" group-title="Variedades", GNT HD
+http://dnsx.co:80/7885037935/fireurl.co/72104
+
+#EXTINF:-1 tvg-logo="http://a5.vc/scT" group-title="Variedades", GNT SD
+http://dnsx.co:80/7885037935/fireurl.co/72105
 
 #EXTINF:-1 group-title="Variedades" tvg-logo="https://i.imgur.com/vYpDkxy.png", HISTORY LAB
 http://wma10.fluidstream.net:1935/HistoryLab/livestream/chunklist_w657994700.m3u8
@@ -2947,6 +2174,27 @@ http://wowza4.catve.com.br:1935/mastertv/livestream/live.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ybdp3qq.png" group-title="Variedades", MUNDO TV
 https://59f1cbe63db89.streamlock.net:1443/mundotv/_definst_/mundotv/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="http://a5.vc/Uet" group-title="Variedades", Multishow FHD
+http://dnsx.co:80/live/amanda.iptv/a1aw5s/72179.ts
+
+#EXTINF:-1 tvg-logo="http://a5.vc/Uet" group-title="Variedades", Multishow FHD [H265]
+http://dnsx.co:80/live/amanda.iptv/a1aw5s/72180.ts
+
+#EXTINF:-1 tvg-logo="http://a5.vc/Uet" group-title="Variedades", Multishow HD
+http://dnsx.co:80/live/amanda.iptv/a1aw5s/72182.ts
+
+#EXTINF:-1 tvg-logo="http://a5.vc/Uet" group-title="Variedades", Multishow SD
+http://dnsx.co:80/live/amanda.iptv/a1aw5s/72183.ts
+
+#EXTINF:-1 tvg-logo="http://a5.vc/deE" group-title="Variedades", MTV FHD
+http://dnsx.co:80/live/amanda.iptv/a1aw5s/72171.ts
+
+#EXTINF:-1 tvg-logo="http://a5.vc/deE" group-title="Variedades", MTV FHD [H265]
+http://dnsx.co:80/live/amanda.iptv/a1aw5s/72172.ts
+
+#EXTINF:-1 tvg-logo="http://a5.vc/deE" group-title=Variedades", MTV HD
+http://dnsx.co:80/live/amanda.iptv/a1aw5s/72173.ts
+
 #EXTINF:-1 tvg-logo="http://a5.vc/wCS" group-title="Variedades", OFF FHD
 http://dnsx.co:80/7885037935/fireurl.co/72209
 
@@ -2959,7 +2207,7 @@ http://dnsx.co:80/7885037935/fireurl.co/72211
 #EXTINF:-1 tvg-logo="http://a5.vc/wCS" group-title="Variedades", OFF SD
 http://dnsx.co:80/7885037935/fireurl.co/72212
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/f0hwRtr.png" group-title="Variedades", POLISHOP TV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/4nsRA6O.png" group-title="Variedades", POLISHOP TV
 http://diretogo.com:80/a694360/6125381/17471
 
 #EXTINF:-1 tvg-logo="http://a5.vc/Drt" group-title="Variedades", Prime Box Brazil FHD
@@ -2973,6 +2221,18 @@ http://dnsx.co:80/7885037935/fireurl.co/72269
 
 #EXTINF:-1 tvg-logo="http://a5.vc/Drt" group-title="Variedades", Prime Box Brazil SD
 http://dnsx.co:80/7885037935/fireurl.co/72270
+
+#EXTINF:-1 tvg-logo="http://a5.vc/Czz" group-title="Variedades", TLC FHD
+http://dnsx.co:80/7885037935/fireurl.co/72371
+
+#EXTINF:-1 tvg-logo="http://a5.vc/Czz" group-title="Variedades", TLC FHD [H265]
+http://dnsx.co:80/7885037935/fireurl.co/72372
+
+#EXTINF:-1 tvg-logo="http://a5.vc/Czz" group-title="Variedades", TLC HD
+http://dnsx.co:80/7885037935/fireurl.co/72373
+
+#EXTINF:-1 tvg-logo="http://a5.vc/Czz" group-title="Variedades", TLC SD
+http://dnsx.co:80/7885037935/fireurl.co/72374
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/1M08c1k.png" group-title="Variedades", Trace Brazuca FHD
 http://dnsx.co:80/7885037935/fireurl.co/72386
