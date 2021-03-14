@@ -1,5 +1,8 @@
 #EXTM3U x-tvg-url="http://epg.bz"
 
+#EXTINF:-1 tvg-logo="http://a5.vc/JHX" group-title="●4K●", TWINPEAKS1-1 [FHDR]
+https://play.midiaflixhd.com/tv/1920/1/1/leg
+
 #EXTINF:-1 tvg-logo="http://a5.vc/JHX" group-title="●4K●", A&E 4K [FHDR]
 http://dnsx.co:80/7885037935/fireurl.co/90647
 
